@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T10:06:11.574084+08:00",
+  "generated_at": "2026-09-15T10:11:15.137476+08:00",
   "window_hours": 72,
-  "market_summary": "過去 72 小時，討論度最高的是 機器人（82 分，加速 +390%）。注意力正在流向：機器人、晶圓代工、散熱。",
+  "market_summary": "過去 72 小時，討論度最高的是 晶圓代工（83 分，加速 +154%）。注意力正在流向：晶圓代工、機器人、金融。",
   "ai_enabled": false,
   "signals_missing": [
     "social_volume",
@@ -13,38 +13,231 @@
     "repo": "duang0615/tw-market-radar"
   },
   "counts": {
-    "raw": 2624,
-    "in_window": 2201,
-    "events": 1908,
+    "raw": 2628,
+    "in_window": 2196,
+    "events": 1899,
     "quotes": 1364
   },
   "industries": [
     {
       "rank": 1,
+      "id": "foundry",
+      "name": "晶圓代工",
+      "group": "半導體",
+      "heat_score": 83.4,
+      "acceleration": 154.5,
+      "news_count": 12,
+      "social_mentions": 0,
+      "official_events": 6,
+      "event_count": 90,
+      "market_move": 0.89,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 100.0,
+        "news_accel": 80.2,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 78.3,
+        "market": 7.1
+      },
+      "summary": "晶圓代工 熱度分數 83，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 90 個相關事件，其中綜合媒體報導 12 則",
+        "最近 24 小時的報導量比前兩天平均高出 154%",
+        "有 6 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "highlighted": true
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "highlighted": true
+        },
+        {
+          "code": "5347",
+          "name": "世界",
+          "highlighted": true
+        },
+        {
+          "code": "6770",
+          "name": "力積電",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "ae1724931b5b40d8",
+          "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 5,
+          "published_at": "2026-09-15T08:12:50+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "cdc772d6040016cc",
+          "title": "2330 台積電｜月營收年增 +53.3%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2330&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 4,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "adv-packaging",
+            "atp",
+            "cowos",
+            "foundry",
+            "gpu",
+            "hbm",
+            "quantum"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "6d758451c9f62b8d",
+          "title": "環球晶義大利 Novara 廠部分復工，磊晶製程率先恢復出貨 - 鏈新聞 ABMedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbGRLOE5DNjRkV2lQU1ZsWklrQ0lheXBkU1FJRHF0dndXVVVoQV82OTBESXJNa29EaERMYTJzZUh2ZHV1YjJfUVJhdkQweEJqS0pXcEJINXJvWTdlNGsyamZkNkpkd3otRWc?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-15T09:54:06+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "a4e8444b46a6607e",
+          "title": "電子時報：2奈米搶破頭，2027手機SoC業者「製程分流策略」恐延續 - ww2.money-link.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkY2S2dKR3plcndZcmFnVk5hSWQ4RzdQSmgycVk5MUtaamQ1LWx4UzRzeU1tRW1LTEVuRUMxT3NZSVhtQjBEejNkXzBTMVdobWo4XzlTdlFKZVhjUGgxRTJDV05hMWpBeHEtSjc1SkxDdGJramdFVnJXbHFBREJKanQ1VDZuSzdF?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-15T08:00:00+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "0cf02e47be019816",
+          "title": "個股：環球晶義大利Novara廠部分復工，EPI製程率先恢復，首批產品開始出貨 - ww2.money-link.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONExESXR3UGFXc3JlZDNhMVFwM0wwMG4yQVFpUUFGS2dmNS1vMzY5R3l6RDJEbFpJblRUQzVqUFFsWGlEWVE3dGhSaWpmdm9Lb3NiMlUwclhTVWRua0ZESklRMEdNa19vbXpCbkQ2LU80M3pLOTVFUEpfWm85UTlxc1VROVNhcGRN?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-15T07:02:00+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "b10333dad6f58276",
+          "title": "台積先進製程用地 環評動了 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10bU1JdDdJWV90OWhFSThmM3NTb0F4T2p4c1R1Tkoya2dNbFVlX0xjeEJWWTdFWWNLM3NkT0ZtektMSTNTZUc3SS1XVDNHbFo5el9la3B30gFWQVVfeXFMTXRtTUl0N0lZX3Q5aEVJOGYzc1NvQXhPanhzVHVOSjJrZ01sVWVfTGN4QlZZN0VZY0szc2RPRm16S0xJM1NlRzdJLVdUM0dsWjl6X2VrcHc?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-15T03:03:14+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "b06cf653e1c759e3",
+          "title": "台積電先進製程明年大擴產2奈米月產11萬片| 科技 - 非凡新聞台",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnRfZnAzOGVZN2FWTHJLX0MtU0NUMDV4dXJfZmI1eFNITTJFNE42VlhENnFnY3VMblhGYkVETXlBMlhZVUFSTmVhVzlQMGFHdWM4UEl6ZWo1bkFabldhT2NqS1NXdTFtRDdhUUtkVWJ6MGlxamRTQjRkVFNrbDlOckMtNFAyUjNiam1kbjhn?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T23:43:42+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "95f7c040e30205c5",
+          "title": "環球晶義大利諾瓦拉廠部分復工！磊晶製程恢復運作 首批產品開始出貨 - 知新聞",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTlpmbW1BaGdEaFZPeUdyTVZnanNCVGp0RmJWZGJvbEJWdzlsOENZeTFHVGgzWGdjUkg1QWJtcVB4RkVVZVZ5YWN3bzk0QVZiVWJ6b043UGEybnZoOVlLZWwwSEhmNkNIWVFsWVB1cw?oc=5",
+          "sources": [
+            "Google News",
+            "鉅亨網·台股"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T18:46:00+08:00",
+          "industries": [
+            "foundry"
+          ],
+          "source_types": [
+            "news"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "id": "robotics",
       "name": "機器人",
       "group": "新應用",
-      "heat_score": 81.7,
-      "acceleration": 389.7,
-      "news_count": 5,
+      "heat_score": 78.4,
+      "acceleration": 414.3,
+      "news_count": 4,
       "social_mentions": 0,
       "official_events": 8,
-      "event_count": 96,
+      "event_count": 95,
       "market_move": 4.03,
       "coverage": 65,
       "trend": "rising",
       "parts": {
-        "news_volume": 69.9,
+        "news_volume": 62.7,
         "news_accel": 100.0,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 88.4,
         "market": 65.6
       },
-      "summary": "機器人 熱度分數 82，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "機器人 熱度分數 78，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 96 個相關事件，其中綜合媒體報導 5 則",
-        "最近 24 小時的報導量比前兩天平均高出 390%",
+        "過去 72 小時聚出 95 個相關事件，其中綜合媒體報導 4 則",
+        "最近 24 小時的報導量比前兩天平均高出 414%",
         "有 8 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -108,6 +301,22 @@
           ],
           "count": 2,
           "published_at": "2026-09-15T09:58:12+08:00",
+          "industries": [
+            "robotics"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "19a64791cd01900b",
+          "title": "外媒：歐盟擬禁止15歲以下未成年人使用社交媒體及聊天機器人 - 橙新聞",
+          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPTi1pRmlGbzNRSUVCdnNmdnFyd0VkenNUSVUyYUF0dFp2NFVsQTM1Mnk1bUk0UXNZSXBtcFdmbG0tQlVrSnJHTWRrTG95TmQzVXJpN2FwS3dGRDgzQ3dONGM4dkJ0X1lPc0dvVmhwNWZyOVJtT3hyYjdfakx6eGhIaFBkNl9kUmVkenMtaGp1cUxkVVdfanloTmJqOHRYNE9XSUJrZHpKbk1UTUNpd2p0a1BPNWdMS0dRVnhjS1hheVg0Ykl1ZlNuZVRzSE5uRlM2Rm1lZE1IUld2cUNLQU5MQlozVUttVzBicjRtbUtETmY2cUlybDlzUEE4LU1DZjdxM2NOT2NiLXkwdmNNbTB5N01lOGtmeFpIMlVoSElIc1dxcHhIT0E1Y0F3dVlLeVVwZUdrV2RjYjkzcXQ5R3dqOWpfYURjYnJNcDZFcWxFRzVIOE9ndzRRaWxfUm1SX05Uc0lCRWpINVo1Rkg1TGxyclBSUE1CdVBsazdKSzVZX0dpQ09vNVdYVEVxOWM0ZklVcmRTMFc4c2ZvcUZ0U21fXw?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-15T09:36:54+08:00",
           "industries": [
             "robotics"
           ],
@@ -200,425 +409,20 @@
           "source_types": [
             "official"
           ]
-        },
-        {
-          "id": "a16f1bf88a726c5f",
-          "title": "富士康、阿爾特等在北京成立智能機器人科技公司，註冊資本5000萬元 - PANews",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkRSbjJWSV9Vem5oZUFhQ1ZLUXpHbDJGVVNaNnNCNi1lUVJoTlNsZER1dDQzekxtVXlSLUtSXzVHS0E3cnNxTFpYaXoyU00xUEctSEJWS1BFc1dDaHJSZUw3V3ZzbnFjVHF0UmstRmF2VkVwUy1NX3p4Vk5fZlRYYTRUQTExQQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T16:51:15+08:00",
-          "industries": [
-            "robotics"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "id": "foundry",
-      "name": "晶圓代工",
-      "group": "半導體",
-      "heat_score": 80.1,
-      "acceleration": 129.8,
-      "news_count": 12,
-      "social_mentions": 0,
-      "official_events": 6,
-      "event_count": 91,
-      "market_move": 0.89,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 100.0,
-        "news_accel": 69.4,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 78.3,
-        "market": 7.1
-      },
-      "summary": "晶圓代工 熱度分數 80，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 91 個相關事件，其中綜合媒體報導 12 則",
-        "最近 24 小時的報導量比前兩天平均高出 130%",
-        "有 6 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "2330",
-          "name": "台積電",
-          "highlighted": true
-        },
-        {
-          "code": "2303",
-          "name": "聯電",
-          "highlighted": true
-        },
-        {
-          "code": "5347",
-          "name": "世界",
-          "highlighted": true
-        },
-        {
-          "code": "6770",
-          "name": "力積電",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "ae1724931b5b40d8",
-          "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 4,
-          "published_at": "2026-09-15T08:12:50+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "cdc772d6040016cc",
-          "title": "2330 台積電｜月營收年增 +53.3%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2330&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 4,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "adv-packaging",
-            "atp",
-            "cowos",
-            "foundry",
-            "gpu",
-            "hbm",
-            "quantum"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "6d758451c9f62b8d",
-          "title": "環球晶義大利 Novara 廠部分復工，磊晶製程率先恢復出貨 - 鏈新聞 ABMedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbGRLOE5DNjRkV2lQU1ZsWklrQ0lheXBkU1FJRHF0dndXVVVoQV82OTBESXJNa29EaERMYTJzZUh2ZHV1YjJfUVJhdkQweEJqS0pXcEJINXJvWTdlNGsyamZkNkpkd3otRWc?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T09:54:06+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "a4e8444b46a6607e",
-          "title": "電子時報：2奈米搶破頭，2027手機SoC業者「製程分流策略」恐延續 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkY2S2dKR3plcndZcmFnVk5hSWQ4RzdQSmgycVk5MUtaamQ1LWx4UzRzeU1tRW1LTEVuRUMxT3NZSVhtQjBEejNkXzBTMVdobWo4XzlTdlFKZVhjUGgxRTJDV05hMWpBeHEtSjc1SkxDdGJramdFVnJXbHFBREJKanQ1VDZuSzdF?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T08:00:00+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "0cf02e47be019816",
-          "title": "個股：環球晶義大利Novara廠部分復工，EPI製程率先恢復，首批產品開始出貨 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONExESXR3UGFXc3JlZDNhMVFwM0wwMG4yQVFpUUFGS2dmNS1vMzY5R3l6RDJEbFpJblRUQzVqUFFsWGlEWVE3dGhSaWpmdm9Lb3NiMlUwclhTVWRua0ZESklRMEdNa19vbXpCbkQ2LU80M3pLOTVFUEpfWm85UTlxc1VROVNhcGRN?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T07:02:00+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "b10333dad6f58276",
-          "title": "台積先進製程用地 環評動了 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10bU1JdDdJWV90OWhFSThmM3NTb0F4T2p4c1R1Tkoya2dNbFVlX0xjeEJWWTdFWWNLM3NkT0ZtektMSTNTZUc3SS1XVDNHbFo5el9la3B30gFWQVVfeXFMTXRtTUl0N0lZX3Q5aEVJOGYzc1NvQXhPanhzVHVOSjJrZ01sVWVfTGN4QlZZN0VZY0szc2RPRm16S0xJM1NlRzdJLVdUM0dsWjl6X2VrcHc?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T03:03:14+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "95f7c040e30205c5",
-          "title": "環球晶義大利諾瓦拉廠部分復工！磊晶製程恢復運作 首批產品開始出貨 - 知新聞",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTlpmbW1BaGdEaFZPeUdyTVZnanNCVGp0RmJWZGJvbEJWdzlsOENZeTFHVGgzWGdjUkg1QWJtcVB4RkVVZVZ5YWN3bzk0QVZiVWJ6b043UGEybnZoOVlLZWwwSEhmNkNIWVFsWVB1cw?oc=5",
-          "sources": [
-            "Google News",
-            "鉅亨網·台股"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T18:46:00+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "458358fbef5982f5",
-          "title": "環球晶義大利廠火災復原進度超前！部分8吋產線復工、磊晶已恢復出貨 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUXBnMDdDZXJoMmgxcXpMTmhUTUtCVEFPaXM0WDRzNFZvb1dWZTFRdXhPY1dGOUM2Y3NPd0g3TTdwcG0xRXFfeVdMaVg2T0VpRWJhUHFILXU4WGttSGhhX0tLWEtDQkZV0gFoQVVfeXFMT1ZRcGcwN0NlcmgyaDFxekxOaFRNS0JUQU9pczRYNHM0Vm9vV1ZlMVF1eE9jV0Y5QzZjc093SDdNN3BwbTFFcV95V0xpWDZPRWlFYmFQcUgtdThYa21IaGFfS0tYS0NCRlU?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T18:15:00+08:00",
-          "industries": [
-            "foundry"
-          ],
-          "source_types": [
-            "news"
-          ]
         }
       ]
     },
     {
       "rank": 3,
-      "id": "cooling",
-      "name": "散熱",
-      "group": "零組件",
-      "heat_score": 79.9,
-      "acceleration": 144.4,
-      "news_count": 8,
-      "social_mentions": 0,
-      "official_events": 7,
-      "event_count": 58,
-      "market_move": 3.39,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 85.7,
-        "news_accel": 75.8,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 83.7,
-        "market": 53.6
-      },
-      "summary": "散熱 熱度分數 80，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 58 個相關事件，其中綜合媒體報導 8 則",
-        "最近 24 小時的報導量比前兩天平均高出 144%",
-        "有 7 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "2382 廣達｜月營收年增 +177.5%"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "3017",
-          "name": "奇鋐",
-          "highlighted": true
-        },
-        {
-          "code": "3324",
-          "name": "雙鴻",
-          "highlighted": true
-        },
-        {
-          "code": "6230",
-          "name": "尼得科超眾",
-          "highlighted": true
-        },
-        {
-          "code": "2421",
-          "name": "建準",
-          "highlighted": true
-        },
-        {
-          "code": "3653",
-          "name": "健策",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "293da04ab52b32b7",
-          "title": "2382 廣達｜月營收年增 +177.5%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2382&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 5,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "ai-server",
-            "cooling",
-            "gpu",
-            "quantum"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "cf8f6ebb50e8db7a",
-          "title": "時碩雙多 2026年營收拚新高 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TSVBsQjMxcTZ6a052djliRjNHTmFNUmVZZ0sxcUE4Q0d4aktLcXV2UG4zZXZna3ZyMXJTakRMMGQybTNoRXFBb21SWXR6bmVz0gFWQVVfeXFMTVd5MHRMZUFmbVdVUkdodmswdnZnUWhHYlNuY010SjlJN21aeUV1Z1ZWRVpQSFZzd1ZabTJ5RTRmb01oMlpaSVl1T1l5RnNNWU5pd3RwSWc?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T00:40:38+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "3741305d52a58ab1",
-          "title": "杜德偉首度台東壓軸演出 震懾7萬人 開水槍散熱 濕身High爆 (18:53) - ol.mingpao.com",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYXljNjRvbDVZMS1Ha3ZrWmFsY191ZWxhX0J6cFhIWXF2TU43dU91R196a0VPdGRmMTV5X0VrdFR1RFF2a1QxNVB2VmIyWGVJbGxKejdBeUx4a2JROHdnaGJLeEZrNUZSWHlIR0lwbEMxVFlTSFA2cHRKQmRhbGM5ZUhrTEw1dllJekI4Q1N4RU9vanhXMzJKRnFsNnhJajVtYjNZLVpIRjJNSm9PdENNdFFGOFdkSWtka2E4OUpMN0pBTUluYzFGXzZLZVJiR3Y0U1Y0UXRndW9LUFBUMTc4THFVWkphaF9RMTRPYXV3c2hmZk13cnM0STZnX0c4c2N3Q0xTZy1hdnpZbHNsTGhMOWJWTEtITWlHXzRKYVJtLTNFcGR2d190SUZhWHZiMmYwX2g3b09EcWxwellMWmZXWHl2UnZRMW5CTC0yVzREVUhrb2p4N0ZaeUlEZnpjRHVpQlZyNUhoY092YTFpVjJxOXNROXBTZEhsZzQ0RUVFNmFLOXdnSGNkbm5jelZLT194T1E?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T18:53:10+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "fb2d946275d5118b",
-          "title": "《電週邊》AI伺服器需求強 奇鋐H2看俏 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWllT01QazVsM3VGYVByWmlEX0RGUldseGhLRk1ySmdxcXEtamJwRjZReVlQLVc1XzdBQm5fc1pOUkZwWkstalM3ZnNWc2ZyZ2ZrdVdzU2sybGFka1pPUUExU1Y3WjBfQURJYVFnUFNEblZfa0lfM1kxR0NqbHBTWi1PR2R1NWRN?oc=5",
-          "sources": [
-            "Google News",
-            "工商時報"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T08:01:00+08:00",
-          "industries": [
-            "ai-server",
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "33124c4447309fa6",
-          "title": "3653 健策｜月營收年增 +90.9%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3653&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "3e908af3dbaddf69",
-          "title": "台股第四季有戲？「電光熱」成AI關鍵：江國中點名這5檔 - 三立新聞",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ybjZqMHRnVEx5MVFrU3ZtS2hLT1JxUGZaN2Z4Zm12N0pZaG5sUTl3enRnaGozYmNYMC1qOFR1OHhFbURwZGRESm9wbw?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-13T14:28:03+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "def1b0232c60b517",
-          "title": "【09/15 產業即時新聞】電子中游-NB與手機零組件族群下挫，權值散熱指標奇鋐重挫拖累整體表現 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1E4UGFhNE9CVklmZXdIS09DWlpOd1I0TE5YNHFhSkp1Q19XVUMxMWlVUHZlaU9yZnJiSHNKbDgxTnR6NnkzSzZkUmVHdjh2RGVERS1kdEt2MS1Gdk1pNDhnMzN6QVdTMGdkd0lJWmVNeERfRmt1elhSVU93UFhQcFlqeDJ1cEJvdDJHUERR?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T10:01:02+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "ef57ab2396563cb3",
-          "title": "【09/15 產業即時新聞】散熱模組族群重挫失守，健策亮燈跌停引發高價股多殺多 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXdHZWdxN0NrdC1oNkFzZG9LS18yakYxWS1VMWpCemVkakVCUTFwZWxLMGxoN1B5U3lza1RLcDJuZGN5b19reWVpb1JjV1hHQzVuZXdxQXZRbDZTWVpmZjc0RWJ6T05HOGRWcmw1ajYyTHMwSDROMkxPbGRWZFBVUlAzc1JVX3k2RjhPMzdn?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T09:51:02+08:00",
-          "industries": [
-            "cooling"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "id": "finance",
       "name": "金融",
       "group": "傳產",
       "heat_score": 78.4,
-      "acceleration": 485.2,
+      "acceleration": 566.7,
       "news_count": 5,
       "social_mentions": 0,
       "official_events": 8,
-      "event_count": 102,
+      "event_count": 99,
       "market_move": 1.73,
       "coverage": 65,
       "trend": "rising",
@@ -632,8 +436,8 @@
       },
       "summary": "金融 熱度分數 78，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 102 個相關事件，其中綜合媒體報導 5 則",
-        "最近 24 小時的報導量比前兩天平均高出 485%",
+        "過去 72 小時聚出 99 個相關事件，其中綜合媒體報導 5 則",
+        "最近 24 小時的報導量比前兩天平均高出 567%",
         "有 8 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -766,6 +570,22 @@
           ]
         },
         {
+          "id": "609693bb4ea434cf",
+          "title": "2887 台新新光金- 金融股選股邏輯大揭密台股主動ETF 大型金控受青睞- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xWVlveXN2UHdzZTRmRU84YzZJbTNEOWR4UnhvazBMQm9YWWhVVkVNM01DekVtS2otNWEtVmNxSmhyRktZVE51Y1Rmb3gyM1dwTm9uWE04UE4?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T07:17:44+08:00",
+          "industries": [
+            "finance"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
           "id": "d79b22c846533902",
           "title": "金融股躍避險寵兒 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMTW1EMzN6aHhXaXE4aW93dTlEMWhtZmxHbTdqeVRCbGdnLUpCdTNWUjIza3VEX1E3WXNsakRFbmlFbUJPTDQwNDk3NERmd2JY0gFWQVVfeXFMUERDMENHOExHTEdfQnZtMjljci1GTUpVQ0k2ZDdHdnMwMVFEYWZTVE9BTzduc05sRFJlVjVDbFF6Wi1MV1pKT2ZRWXZFWW13ckk1b25NcFE?oc=5",
@@ -780,18 +600,198 @@
           "source_types": [
             "news"
           ]
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "cooling",
+      "name": "散熱",
+      "group": "零組件",
+      "heat_score": 77.7,
+      "acceleration": 128.6,
+      "news_count": 8,
+      "social_mentions": 0,
+      "official_events": 7,
+      "event_count": 58,
+      "market_move": 3.39,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 85.7,
+        "news_accel": 68.9,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 83.7,
+        "market": 53.6
+      },
+      "summary": "散熱 熱度分數 78，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 58 個相關事件，其中綜合媒體報導 8 則",
+        "最近 24 小時的報導量比前兩天平均高出 129%",
+        "有 7 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "2382 廣達｜月營收年增 +177.5%"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "highlighted": true
         },
         {
-          "id": "d08a862e4c45374b",
-          "title": "【金融股創高＝多頭尾聲？ 不敗教主反加碼2檔】 空軍還是多軍呢？（#豬頭皮） - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNbld4eUxaeW9XTGhLWEZyT1BVeWMxZGRvWGVPLUd0bXJlSWVBelFSekhSYjhkNzJicVJhS0E0Rjg1QW1wcjJ0a2NXVlhGX1d5WUlsVTYzNXNOWXFkZVdDMzF6VF9YQnF2WG1nT3dHb3lzbmJPSlYtS1I5N01IOTNPYldHWXM5UGx6LWwzRmNBNFpRaGhGV3lWbjNURDAyd1lCRnBRS0gxbHZxQ0gwLTZLV1hIUVh5eXA0YnlxTmxZamx3MVRBMUFjTWFEVVNtSWVEdTRXN25uVmtSTmxnbmNiYndNMWRfRjkxcHVLVmxROUhlUjh1TTRnS3IyUG14NWluOXV4cjREa0hOWFpqVUd2NGVaNmlEV0lyeC1haHItOERRT3puLUpzeEM5M0lUaU1YTFZ4Qkh5MFJGRjQ3U1VNSW4zaUVXaV9NYXNfR1k3VTByVUMxOFN2RkZhZjdNZGdBY2JxV0xZQ3FDaVI5V2l1TEVTTWN4TEhkOFp2MDBqNV80N0dCbDZHQkJhTGtZNldqT3BZNmpWS2FoQVoxSUNKaHRDRWlxb1VHWDlySXRtSQ?oc=5",
+          "code": "3324",
+          "name": "雙鴻",
+          "highlighted": true
+        },
+        {
+          "code": "6230",
+          "name": "尼得科超眾",
+          "highlighted": true
+        },
+        {
+          "code": "2421",
+          "name": "建準",
+          "highlighted": true
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "293da04ab52b32b7",
+          "title": "2382 廣達｜月營收年增 +177.5%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2382&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 5,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "ai-server",
+            "cooling",
+            "gpu",
+            "quantum"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "cf8f6ebb50e8db7a",
+          "title": "時碩雙多 2026年營收拚新高 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TSVBsQjMxcTZ6a052djliRjNHTmFNUmVZZ0sxcUE4Q0d4aktLcXV2UG4zZXZna3ZyMXJTakRMMGQybTNoRXFBb21SWXR6bmVz0gFWQVVfeXFMTVd5MHRMZUFmbVdVUkdodmswdnZnUWhHYlNuY010SjlJN21aeUV1Z1ZWRVpQSFZzd1ZabTJ5RTRmb01oMlpaSVl1T1l5RnNNWU5pd3RwSWc?oc=5",
           "sources": [
             "Google News"
           ],
           "count": 2,
-          "published_at": "2026-09-13T10:36:04+08:00",
+          "published_at": "2026-09-15T00:40:38+08:00",
           "industries": [
-            "finance"
+            "cooling"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "3741305d52a58ab1",
+          "title": "杜德偉首度台東壓軸演出 震懾7萬人 開水槍散熱 濕身High爆 (18:53) - 明報 Our Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYXljNjRvbDVZMS1Ha3ZrWmFsY191ZWxhX0J6cFhIWXF2TU43dU91R196a0VPdGRmMTV5X0VrdFR1RFF2a1QxNVB2VmIyWGVJbGxKejdBeUx4a2JROHdnaGJLeEZrNUZSWHlIR0lwbEMxVFlTSFA2cHRKQmRhbGM5ZUhrTEw1dllJekI4Q1N4RU9vanhXMzJKRnFsNnhJajVtYjNZLVpIRjJNSm9PdENNdFFGOFdkSWtka2E4OUpMN0pBTUluYzFGXzZLZVJiR3Y0U1Y0UXRndW9LUFBUMTc4THFVWkphaF9RMTRPYXV3c2hmZk13cnM0STZnX0c4c2N3Q0xTZy1hdnpZbHNsTGhMOWJWTEtITWlHXzRKYVJtLTNFcGR2d190SUZhWHZiMmYwX2g3b09EcWxwellMWmZXWHl2UnZRMW5CTC0yVzREVUhrb2p4N0ZaeUlEZnpjRHVpQlZyNUhoY092YTFpVjJxOXNROXBTZEhsZzQ0RUVFNmFLOXdnSGNkbm5jelZLT194T1E?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T18:53:10+08:00",
+          "industries": [
+            "cooling"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "fb2d946275d5118b",
+          "title": "《電週邊》AI伺服器需求強 奇鋐H2看俏 - ww2.money-link.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWllT01QazVsM3VGYVByWmlEX0RGUldseGhLRk1ySmdxcXEtamJwRjZReVlQLVc1XzdBQm5fc1pOUkZwWkstalM3ZnNWc2ZyZ2ZrdVdzU2sybGFka1pPUUExU1Y3WjBfQURJYVFnUFNEblZfa0lfM1kxR0NqbHBTWi1PR2R1NWRN?oc=5",
+          "sources": [
+            "Google News",
+            "工商時報"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T08:01:00+08:00",
+          "industries": [
+            "ai-server",
+            "cooling"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "33124c4447309fa6",
+          "title": "3653 健策｜月營收年增 +90.9%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3653&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "cooling"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "3e908af3dbaddf69",
+          "title": "台股第四季有戲？「電光熱」成AI關鍵：江國中點名這5檔 - 三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ybjZqMHRnVEx5MVFrU3ZtS2hLT1JxUGZaN2Z4Zm12N0pZaG5sUTl3enRnaGozYmNYMC1qOFR1OHhFbURwZGRESm9wbw?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-13T14:28:03+08:00",
+          "industries": [
+            "cooling"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "def1b0232c60b517",
+          "title": "【09/15 產業即時新聞】電子中游-NB與手機零組件族群下挫，權值散熱指標奇鋐重挫拖累整體表現 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1E4UGFhNE9CVklmZXdIS09DWlpOd1I0TE5YNHFhSkp1Q19XVUMxMWlVUHZlaU9yZnJiSHNKbDgxTnR6NnkzSzZkUmVHdjh2RGVERS1kdEt2MS1Gdk1pNDhnMzN6QVdTMGdkd0lJWmVNeERfRmt1elhSVU93UFhQcFlqeDJ1cEJvdDJHUERR?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T10:01:02+08:00",
+          "industries": [
+            "cooling"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "ef57ab2396563cb3",
+          "title": "【09/15 產業即時新聞】散熱模組族群重挫失守，健策亮燈跌停引發高價股多殺多 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXdHZWdxN0NrdC1oNkFzZG9LS18yakYxWS1VMWpCemVkakVCUTFwZWxLMGxoN1B5U3lza1RLcDJuZGN5b19reWVpb1JjV1hHQzVuZXdxQXZRbDZTWVpmZjc0RWJ6T05HOGRWcmw1ajYyTHMwSDROMkxPbGRWZFBVUlAzc1JVX3k2RjhPMzdn?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T09:51:02+08:00",
+          "industries": [
+            "cooling"
           ],
           "source_types": [
             "news"
@@ -805,11 +805,11 @@
       "name": "光通訊",
       "group": "通訊",
       "heat_score": 69.1,
-      "acceleration": 227.3,
+      "acceleration": 243.8,
       "news_count": 4,
       "social_mentions": 0,
       "official_events": 2,
-      "event_count": 82,
+      "event_count": 80,
       "market_move": 2.29,
       "coverage": 65,
       "trend": "rising",
@@ -823,12 +823,12 @@
       },
       "summary": "光通訊 熱度分數 69，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 82 個相關事件，其中綜合媒體報導 4 則",
-        "最近 24 小時的報導量比前兩天平均高出 227%",
+        "過去 72 小時聚出 80 個相關事件，其中綜合媒體報導 4 則",
+        "最近 24 小時的報導量比前兩天平均高出 244%",
         "有 2 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
-        "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - money.udn.com"
+        "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - 經濟日報"
       ],
       "ai_generated": false,
       "confidence": 0.0,
@@ -867,13 +867,45 @@
       "events": [
         {
           "id": "2a36817ef63135a4",
-          "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - money.udn.com",
+          "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZmpDZFBucE15YkpXWDhTTjJoLXJpN3RuTE1qUzdlOXNOZXVVNnQwNjBMdmdjRnByU3lISkUxR2RDVkd3M08xcUVCcHgyUW1VY2otUXJKSDNhZ9IBX0FVX3lxTE8ySWU2Vk1oQkpLWVpVMXBteFdHMXVLQ3dHSGUxcmNlSFduc1pCSW50YlU0NmgwNU5hWXptOXZINy1CM3hRQ21hc3pXcXdpNnc1VHRkSkRCUHJQVEZkcVpn?oc=5",
           "sources": [
             "Google News"
           ],
           "count": 4,
           "published_at": "2026-09-14T18:00:00+08:00",
+          "industries": [
+            "optical"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "91b110ca4fa0460f",
+          "title": "3481 群創 - 群創布局光通訊領域 報捷 | 科技產業 | 產經 | 聯合新... - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTlVHQkdQdlFIbTFNTU1VLTRaNG9ub3V3cDZHWG42QVN2UkxRVGh5d05pQmNrZTVYd3dSYmVkWnFNUjhfMTk5YVNpMkdaWjY3aUFRbVVicGM?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T08:34:26+08:00",
+          "industries": [
+            "optical"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "8bfc2b7532462de3",
+          "title": "熱門板塊速睇：美股盤中光通訊走勢疲弱，康寧領跌 - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjYUFEaGlPNmJfWnhhN252QUxxYnZJT3licEd0a09iNXVrU3RiT1NBbEtXbUs5LUljeDVvX2hYY196ek9ST2doMm9yX1gyLU9iQUE?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T23:40:00+08:00",
           "industries": [
             "optical"
           ],
@@ -890,22 +922,6 @@
           ],
           "count": 2,
           "published_at": "2026-09-14T11:04:42+08:00",
-          "industries": [
-            "optical"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "91b110ca4fa0460f",
-          "title": "3481 群創 - 群創布局光通訊領域 報捷 | 科技產業 | 產經 | 聯合新... - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTlVHQkdQdlFIbTFNTU1VLTRaNG9ub3V3cDZHWG42QVN2UkxRVGh5d05pQmNrZTVYd3dSYmVkWnFNUjhfMTk5YVNpMkdaWjY3aUFRbVVicGM?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T08:34:26+08:00",
           "industries": [
             "optical"
           ],
@@ -976,245 +992,35 @@
           "source_types": [
             "news"
           ]
-        },
-        {
-          "id": "b935203f8d5ce980",
-          "title": "焦點股》穩懋：歐系券商看旺光通訊 開盤大漲6％ - 自由財經",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nSkRVcTN3YlFHTHREMU1jQll0TnUteEE1WWpwT1FNXzI5ZktBTzBZUVdKYlkwM3pKT3M4bkNBdWdta0VzMzRiZ3JGaDN3cHh5aUtEX2dWLUo1TkprTmIw0gFkQVVfeXFMTjJIdk1PVTBweG1hLXF3NTJ0Mmk3MEUtelZfSTNxQ0RDb1pIc3EtTGZlU1pRZlc5TjZIeUtiU21fMk1fNW5lX3hReUFNQXc2V1JScnkzSDBiajlCdjhzVF9FWk1vRw?oc=5",
-          "sources": [
-            "自由財經"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T09:44:41+08:00",
-          "industries": [
-            "optical"
-          ],
-          "source_types": [
-            "news"
-          ]
         }
       ]
     },
     {
       "rank": 6,
-      "id": "semi-equip",
-      "name": "半導體設備",
-      "group": "半導體",
-      "heat_score": 68.6,
-      "acceleration": 150.0,
-      "news_count": 6,
-      "social_mentions": 0,
-      "official_events": 3,
-      "event_count": 34,
-      "market_move": 1.18,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 75.9,
-        "news_accel": 78.2,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 55.8,
-        "market": 12.6
-      },
-      "summary": "半導體設備 熱度分數 69，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 34 個相關事件，其中綜合媒體報導 6 則",
-        "最近 24 小時的報導量比前兩天平均高出 150%",
-        "有 3 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "盤中速報 - 艾司摩爾(ASML-US)大跌5.56%，報1603.96美元"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "3680",
-          "name": "家登",
-          "highlighted": true
-        },
-        {
-          "code": "3413",
-          "name": "京鼎",
-          "highlighted": true
-        },
-        {
-          "code": "6187",
-          "name": "萬潤",
-          "highlighted": true
-        },
-        {
-          "code": "5371",
-          "name": "中光電",
-          "highlighted": true
-        },
-        {
-          "code": "2360",
-          "name": "致茂",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "04521d830699f048",
-          "title": "盤中速報 - 艾司摩爾(ASML-US)大跌5.56%，報1603.96美元",
-          "url": "https://news.cnyes.com/news/id/6606256",
-          "sources": [
-            "鉅亨網·國際股"
-          ],
-          "count": 3,
-          "published_at": "2026-09-14T22:50:12+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "ba44dc9266824399",
-          "title": "台積電2030年匯入High NA EUV 三星與SK海力士2028年搶先量產 - BigGo 財經",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmN1lpb0tZWk1lTms5S0UzZ0ViWGc5bm0wdGpvV014VDhFNTZHTXJpS2FQX1ByOXRranZTT1RLQ2hURXVZbFpwcFpSaG5tUlVZT0tEN3RxakxEQk1pSllNNURyMmd1SVoxVWRjdDZJTXh5cTYwOERfS3hR?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-15T06:35:00+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "d20c8baa12bcc328",
-          "title": "EUV 訂單強、High NA 加速導入！路透：ASML 龍頭地位延續至 2030 年",
-          "url": "https://technews.tw/2026/09/14/asml-high-na-euv-customers",
-          "sources": [
-            "Google News",
-            "TechNews"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T17:58:53+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "c8f0b4ae328686ec",
-          "title": "2360 致茂｜月營收年增 +156.3%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2360&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "cowos",
-            "semi-equip"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "e7e2ddf9b39c9bb7",
-          "title": "AI熱潮推升High NA需求 ASML霸主地位有望延續至2030年代 - 科技島",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcDRESnpFMDZTb3g0UGRmZENrUS0wZ0VhNTRNem10bE0ySjB4bFNnTjFoQzVtMzRuZVFMVFdYeVMydkpUVkI4a194QkhjbEZ5UzNMd2lFeUo4QS0tX013?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T09:38:56+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "787edeb54a5c52d5",
-          "title": "討論牆 | 碾壓全球對手總和！英特爾High-NA EUV晶圓破百萬片 先進製程邁入量產驗證 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XSTdWSlZrdFNsdFM2bnVuNXlIN1gyWnhPOU5jdTBObl9EcGNtaHZ0TlFiY2tlWGFLUWM3ZlpjWEdZeExlNzZzaVZsT09LN1NwYVVTbkdWS3ZEeUNxQmk3WmVaVTY?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T08:57:39+08:00",
-          "industries": [
-            "foundry",
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "c162aa374c8d6f85",
-          "title": "阿斯麥瞄準110台以上EUV設備產量，因JPM強調AI需求「強勁」 - 鉅亨號",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44LUh2TnYxM2hUSXVzUXBMVVNZTXZiUDlvRzl1eGlkakJMVlhnSF9GN24wZEJ0UGh2dHVQRXZvT1Y2b3BlUkVGTA?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T08:15:25+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "4027d8c9f44f8b24",
-          "title": "晶片防護新戰場！如何把資安融入半導體設備設計？ - CIO Taiwan",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iNnpjdkstLURQeENxcXpDN1phejZmZ2Z4V2RiX05QTTVPdkpPTDNXZk1WT0c5WnRJeG1LcjRFTTc1czM4?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T06:02:22+08:00",
-          "industries": [
-            "semi-equip"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "id": "ai-server",
       "name": "AI伺服器",
       "group": "AI",
-      "heat_score": 63.1,
-      "acceleration": 75.6,
-      "news_count": 6,
+      "heat_score": 68.0,
+      "acceleration": 94.7,
+      "news_count": 7,
       "social_mentions": 0,
       "official_events": 7,
-      "event_count": 74,
+      "event_count": 72,
       "market_move": 1.26,
       "coverage": 65,
       "trend": "rising",
       "parts": {
-        "news_volume": 75.9,
-        "news_accel": 45.8,
+        "news_volume": 81.1,
+        "news_accel": 54.1,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 83.7,
         "market": 14.1
       },
-      "summary": "AI伺服器 熱度分數 63，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "AI伺服器 熱度分數 68，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 74 個相關事件，其中綜合媒體報導 6 則",
-        "最近 24 小時的報導量比前兩天平均高出 76%",
+        "過去 72 小時聚出 72 個相關事件，其中綜合媒體報導 7 則",
+        "最近 24 小時的報導量比前兩天平均高出 95%",
         "有 7 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -1281,7 +1087,7 @@
         },
         {
           "id": "adf21635837aaf7f",
-          "title": "LNG氣化冷能可降溫AI伺服器？中油：確實有業者洽詢 - money.udn.com",
+          "title": "LNG氣化冷能可降溫AI伺服器？中油：確實有業者洽詢 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xVVZHLWpBMV9jMHdHTTRrcWh0S01VV2dWWWxlOGdQczRUTTEyZWM2Zzk0VzFOT1RmYklrdkFhc1Fya3pXTE1ScFFBZlgtNHI3UDk3c3VqcGVpVC1ZWWVzcWRKdFRNdkJTN3VtcGlkNXdnUFk4Wm9KS9IBX0FVX3lxTFBFUFp0VmhYQkJjbWwtXzNGU2FONU9nSnA3dlBISG9MUzJseUZobVY3ME9UcWQ1cFZSeHBGVGE0NWNacmlDRk14dGRvRmJNYlFTOUp0OHkwNDRQSU1VMm04?oc=5",
           "sources": [
             "Google News"
@@ -1297,7 +1103,7 @@
         },
         {
           "id": "fb2d946275d5118b",
-          "title": "《電週邊》AI伺服器需求強 奇鋐H2看俏 - 富聯網",
+          "title": "《電週邊》AI伺服器需求強 奇鋐H2看俏 - ww2.money-link.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWllT01QazVsM3VGYVByWmlEX0RGUldseGhLRk1ySmdxcXEtamJwRjZReVlQLVc1XzdBQm5fc1pOUkZwWkstalM3ZnNWc2ZyZ2ZrdVdzU2sybGFka1pPUUExU1Y3WjBfQURJYVFnUFNEblZfa0lfM1kxR0NqbHBTWi1PR2R1NWRN?oc=5",
           "sources": [
             "Google News",
@@ -1347,7 +1153,7 @@
         },
         {
           "id": "71167978c4fc0b57",
-          "title": "ETF抱太多反成風險？AI伺服器六雄籌碼大洗牌：誰是ETF的信心指數？誰是踩踏候選人？ | 個人理財 | 理財 - money.udn.com",
+          "title": "ETF抱太多反成風險？AI伺服器六雄籌碼大洗牌：誰是ETF的信心指數？誰是踩踏候選人？ | 個人理財 | 理財 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMaDZQVnQ5R2JOWHozV2FVVXE2QTBLRWU0OW1QNGRCMjVERmI2WnRPQl9mNXZ3Mm1PVU9xQllUaWJrUXJoYzlkRlpBMmJBNjItd0JVOW5ZTU5JbFE?oc=5",
           "sources": [
             "Google News"
@@ -1389,6 +1195,198 @@
           "industries": [
             "ai-server",
             "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "semi-equip",
+      "name": "半導體設備",
+      "group": "半導體",
+      "heat_score": 67.0,
+      "acceleration": 137.5,
+      "news_count": 6,
+      "social_mentions": 0,
+      "official_events": 3,
+      "event_count": 35,
+      "market_move": 1.18,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 75.9,
+        "news_accel": 72.8,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 55.8,
+        "market": 12.6
+      },
+      "summary": "半導體設備 熱度分數 67，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 35 個相關事件，其中綜合媒體報導 6 則",
+        "最近 24 小時的報導量比前兩天平均高出 138%",
+        "有 3 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "盤中速報 - 艾司摩爾(ASML-US)大跌5.56%，報1603.96美元"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "3680",
+          "name": "家登",
+          "highlighted": true
+        },
+        {
+          "code": "3413",
+          "name": "京鼎",
+          "highlighted": true
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "highlighted": true
+        },
+        {
+          "code": "5371",
+          "name": "中光電",
+          "highlighted": true
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "04521d830699f048",
+          "title": "盤中速報 - 艾司摩爾(ASML-US)大跌5.56%，報1603.96美元",
+          "url": "https://news.cnyes.com/news/id/6606256",
+          "sources": [
+            "鉅亨網·國際股"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T22:50:12+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "c8f0b4ae328686ec",
+          "title": "2360 致茂｜月營收年增 +156.3%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2360&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "cowos",
+            "semi-equip"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "e7e2ddf9b39c9bb7",
+          "title": "AI熱潮推升High NA需求 ASML霸主地位有望延續至2030年代 - 科技島",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcDRESnpFMDZTb3g0UGRmZENrUS0wZ0VhNTRNem10bE0ySjB4bFNnTjFoQzVtMzRuZVFMVFdYeVMydkpUVkI4a194QkhjbEZ5UzNMd2lFeUo4QS0tX013?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T09:38:56+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "c162aa374c8d6f85",
+          "title": "阿斯麥瞄準110台以上EUV設備產量，因JPM強調AI需求「強勁」 - 鉅亨號",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44LUh2TnYxM2hUSXVzUXBMVVNZTXZiUDlvRzl1eGlkakJMVlhnSF9GN24wZEJ0UGh2dHVQRXZvT1Y2b3BlUkVGTA?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T08:15:25+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "ba44dc9266824399",
+          "title": "台積電2030年匯入High NA EUV 三星與SK海力士2028年搶先量產 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmN1lpb0tZWk1lTms5S0UzZ0ViWGc5bm0wdGpvV014VDhFNTZHTXJpS2FQX1ByOXRranZTT1RLQ2hURXVZbFpwcFpSaG5tUlVZT0tEN3RxakxEQk1pSllNNURyMmd1SVoxVWRjdDZJTXh5cTYwOERfS3hR?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T06:35:00+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "f999688dc611820c",
+          "title": "台積電、三星、SK海力士全上車 ASML靠High NA鞏固半導體霸權 - news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Fd1BzZU1GZ3FFLW1fTjZVcFdfcTZWdGJDTEhLTllkOTN3MDAxM3hJSVFrT2t3OXNjaHNUYWZwWXc5RUJMcVZTcGtZYV80QnM?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T06:21:40+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "4027d8c9f44f8b24",
+          "title": "晶片防護新戰場！如何把資安融入半導體設備設計？ - CIO Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iNnpjdkstLURQeENxcXpDN1phejZmZ2Z4V2RiX05QTTVPdkpPTDNXZk1WT0c5WnRJeG1LcjRFTTc1czM4?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T06:02:22+08:00",
+          "industries": [
+            "semi-equip"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "d5721e133d4562f6",
+          "title": "【ASML】AI需求強勁 2028年擬產逾110部極紫外光EUV光刻機 英特爾料成重要客戶 - 香港經濟日報HKET",
+          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQdF82YkU1amZ3T1UyankyRTFIVjcwem54QnI3dHJ3RnA2SndaanF2RFI1ZGEwRjNiSUdRX2JJTnBvR0tYaEFHcTE3UzV1ZmdXa3B1NHZRT1h6VGpHMlU0OXRTbmhmdjZEbGNkbDA4Z3pmdlZneklibjZTNzJQUlJkeVhlTDR1NWM2LTJocDF1MGpqN003a29ub0QzaU9pLUJyblh5X3YyZmRKZ3lXVlRsaWZZLWlEV2IxSlpka2ZnNzM2OEY2RUZIcDRrcFZxcHBpUFZWbGlJTzBRQm1IQjF3eUF0SE4zalRDYms1UXQwZU9nS05CdGlIbi1Dd3NUTG1qV05ScVE5Z1ZtaUNpVGRJbWJwcDh3U2xDTENhUFZvZThFblExbUtybTNoMzJ3UUdJaUFtQkNDX3l3dmZsbGpkdTZLVDdTWEZyc2dtT2R6dEdhbDZicUM2MmRpQWVSc3RmVERGR21VU216ZVlfOHRCRnJzc1N5NGVYN2U2T2NYT092dC1samhKZDBBUldiQ2RRMXJtWG05YzhMUC04c25ybDkxQjBMTFdsOHpvX1RDNWdLWGxmOFBHUDJFdXMtbUFKUHc?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T23:31:24+08:00",
+          "industries": [
+            "semi-equip"
           ],
           "source_types": [
             "news"
@@ -1600,27 +1598,27 @@
       "id": "gpu",
       "name": "GPU",
       "group": "AI",
-      "heat_score": 56.0,
-      "acceleration": 54.3,
+      "heat_score": 55.0,
+      "acceleration": 47.1,
       "news_count": 4,
       "social_mentions": 0,
       "official_events": 11,
-      "event_count": 61,
+      "event_count": 59,
       "market_move": 0.8,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 62.7,
-        "news_accel": 36.5,
+        "news_accel": 33.3,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 100.0,
         "market": 5.6
       },
-      "summary": "GPU 熱度分數 56，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "GPU 熱度分數 55，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 61 個相關事件，其中綜合媒體報導 4 則",
-        "最近 24 小時的報導量比前兩天平均高出 54%",
+        "過去 72 小時聚出 59 個相關事件，其中綜合媒體報導 4 則",
+        "最近 24 小時的報導量比前兩天平均高出 47%",
         "有 11 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -1704,23 +1702,6 @@
           ]
         },
         {
-          "id": "58bb529b4f342199",
-          "title": "XPU 不是要取代GPU ── 它們搶的是同一批HBM、封裝與電力- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fMGV0SWNYNTk1WEFIS2pmYXROSjFzc3BfMTlWcWIyY01lZkFIX3FtZ2ZBWTBRYnJRZ3dzb190R19yaFBlRV94RzJobDZ4OVNEcGVpdVN5NEs?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T09:44:28+08:00",
-          "industries": [
-            "gpu",
-            "hbm"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
           "id": "d5b583ef2e0af979",
           "title": "CPO挹注、AI三巨頭加持！「這大廠」EPS挑戰100元 目標價曝光 - 三立新聞",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FVEhFZUdGTWFJaEg3d0NLaDRXZk9uMlM2YlgxLU10LXRuV08wSjdsTG5uYUhyeXQtM2JPdUJUUnBXY19yNTJwWENQdw?oc=5",
@@ -1777,6 +1758,22 @@
           ],
           "count": 1,
           "published_at": "2026-09-15T09:56:47+08:00",
+          "industries": [
+            "gpu"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "1cd99dbf064a442b",
+          "title": "三星投資荷蘭AI晶片新創Euclyd 2.31億美元A輪募資瞄準輝達GPU替代方案 - 科技島",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQWDNQaGlHWnF0elJiRzE2dzdsSHMyNnozYVBuVlZDUG9JMGxwY2xiYUtpTUxXdVZoMktrRDUwR2pBZlk1WWdmby1Ea192dHptV2ZfMWwyWHFDdU4wXzdN?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T09:47:39+08:00",
           "industries": [
             "gpu"
           ],
@@ -1979,205 +1976,15 @@
     },
     {
       "rank": 11,
-      "id": "quantum",
-      "name": "量子運算",
-      "group": "新應用",
-      "heat_score": 51.1,
-      "acceleration": 90.9,
-      "news_count": 2,
-      "social_mentions": 0,
-      "official_events": 10,
-      "event_count": 44,
-      "market_move": 0.72,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 42.8,
-        "news_accel": 52.4,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 96.5,
-        "market": 4.0
-      },
-      "summary": "量子運算 熱度分數 51，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 44 個相關事件，其中綜合媒體報導 2 則",
-        "最近 24 小時的報導量比前兩天平均高出 91%",
-        "有 10 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "2382 廣達｜月營收年增 +177.5%"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "2330",
-          "name": "台積電",
-          "highlighted": true
-        },
-        {
-          "code": "2317",
-          "name": "鴻海",
-          "highlighted": true
-        },
-        {
-          "code": "6187",
-          "name": "萬潤",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "293da04ab52b32b7",
-          "title": "2382 廣達｜月營收年增 +177.5%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2382&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 5,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "ai-server",
-            "cooling",
-            "gpu",
-            "quantum"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "cdc772d6040016cc",
-          "title": "2330 台積電｜月營收年增 +53.3%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2330&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 4,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "adv-packaging",
-            "atp",
-            "cowos",
-            "foundry",
-            "gpu",
-            "hbm",
-            "quantum"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "3c377fb9fb98d362",
-          "title": "Corgi Quantum Computing 2x Daily ETF(XQTM) - K線圖分析(MA、KD、MACD、RSI) - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TTdacy1XWjhwVWVOQlptTHBYQXIyeE4zbWRRcTZKcUJKOW9qZTZCaW9mS3pTN1V6SzVscXUzQ01wS2NTMGlOUk1KUjJfNlpsSnVTakUyMzVYSzRLTDNEeE55SkxvRzZzbFpXeUpvTk9BUTQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T10:07:47+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "3127a54b06e3aa82",
-          "title": "LayerZero 推出 Akita 將量子安全證明壓縮至 65KB - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWjBxMTN2ZDE1dVNaQlhPRVpLRFVHTV8zRF9FM01Ma3o3VV9fc2ZuVkpXdzFiN0FIbF9GeUJ1UzNKT1FHOGx5bk9CREdzc0hia1FTcjV6czFaRmJVRDhuQmI4XzNSWGZPWEZUdmVfVkhiZDIxckdBX2YxTV9jeE5VdS1HTF9KbkloVXJOcXZkUGp3cGx1ZmowY1duMU10ZjJ6OW13M2V3SUowTXdpcVZEdmRMUlZpOEttaE9VMl9kX3FUQ29UNDB2RDF1ZlpnVThKNkVMNkJzRVM0TVljOXVuN1RDRU9UTVhySW1BWDNjc1VNZw?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-12T21:29:30+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "16af84c5bb568fbd",
-          "title": "Cloudflare擴大來源伺服器PQC部署，後量子連線增至每日450億次",
-          "url": "https://www.ithome.com.tw/news/178911",
-          "sources": [
-            "iThome"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T16:09:00+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "0bd41a0e8b53b7aa",
-          "title": "Active Matter：量子禁區生存撤離射擊遊戲 - games.gg",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVGlnNDNoUGVCRnMzSnZSN1hYRG94cWYteTNJaWxxSmZsWEVTMkFwNkhaMl9zVTlzTlV3TDcxUXhrcU03MlY2Q3phYXZsd1REQldSWDlDazVwUQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T06:10:36+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "4a495084221de97e",
-          "title": "Quantum Genesis AI Corp.的每股息稅折舊及攤銷前盈餘 – OTC:QGAI - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDNETU5Ed1RwVzZ3UWthQTBrbk9icjZKTFdIVW1OTGoxVWNDbGUxRVF5WkRmZmxsZEswX1c5YkYyNmNoNmd6Rk5vSVhDdmVCVVVDTC1mT0Y4NXYwWjJKRFJyb2ZFTHUxMmVtOWE5STZURjR3TXhtemdDUTFzc0dreHZBd211X1gySVl6V2JiWHNwZFlYd3E3aDBB?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T04:42:16+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "93a0076d906f34f4",
-          "title": "Quantum Is Maintained at Buy by Lake Street - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzhZRzk2aGo5OE9IYWRUY3Rfdl91MkZ1bHRQYkVjQThsM0NNZTktVHFFZy00bnFwN1NGWDVaRE43TlQ5YzJxU3ZELWN6bWcydk51R3NVd1VleDJYYzJhRUxkLTZid3Q2b0Q0bkhURkZ5bHlmZlc0SDZnLUkyd3JhY1hrdzJrR0d3TnFBeHozUFJrYkIz?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T02:14:19+08:00",
-          "industries": [
-            "quantum"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "id": "ccl",
       "name": "CCL",
       "group": "零組件",
       "heat_score": 50.3,
-      "acceleration": 277.8,
+      "acceleration": 350.0,
       "news_count": 1,
       "social_mentions": 0,
       "official_events": 2,
-      "event_count": 26,
+      "event_count": 25,
       "market_move": 0.67,
       "coverage": 65,
       "trend": "rising",
@@ -2191,12 +1998,12 @@
       },
       "summary": "CCL 熱度分數 50，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 26 個相關事件，其中綜合媒體報導 1 則",
-        "最近 24 小時的報導量比前兩天平均高出 278%",
+        "過去 72 小時聚出 25 個相關事件，其中綜合媒體報導 1 則",
+        "最近 24 小時的報導量比前兩天平均高出 350%",
         "有 2 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
-        "M9還在放量「M10也來了」？ CCL概念股布局一次看 - 東森電視"
+        "盤後／台股跌322點 成交值創今年第3低原因曝 - 三立新聞"
       ],
       "ai_generated": false,
       "confidence": 0.0,
@@ -2223,6 +2030,22 @@
         }
       ],
       "events": [
+        {
+          "id": "3ab88348c955d174",
+          "title": "盤後／台股跌322點 成交值創今年第3低原因曝 - 三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13dmxNa3ZWck12bzNnNjFaUGRKMUdlNWhfQjhBdlJ3SzNEaDduZkctcE9EdkJBV2JkMDhLWkhTX1JRT1hzVHJVYzdGMlHSAUxBVV95cUxNd3ZsTWt2VnJNdm8zZzYxWlBkSjFHZTVoX0I4QXZSd0szRGg3bmZHLXBPRHZCQVdiZDA4S1pIU19SUU9Yc1RyVWM3RjJR?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T15:00:00+08:00",
+          "industries": [
+            "ccl"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
         {
           "id": "ad06e17def25f8cb",
           "title": "M9還在放量「M10也來了」？ CCL概念股布局一次看 - 東森電視",
@@ -2338,27 +2161,11 @@
           "source_types": [
             "news"
           ]
-        },
-        {
-          "id": "6eb97088ee065bb2",
-          "title": "目標價730元！「銅箔大廠」EPS有望攻3股本 HVLP4銅箔切輝達供應鏈、市佔率直衝21% - FTNN 新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KM2hVWGhrSjVLMlpHdkVaSFByaV9WRDgzUFViSE9iS0tlcXZST3RwcnlOWFU1d3NsUFF4MGNyRnFwdmgyX25oa3dTVQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T21:45:00+08:00",
-          "industries": [
-            "ccl"
-          ],
-          "source_types": [
-            "news"
-          ]
         }
       ]
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "shipping",
       "name": "航運",
       "group": "傳產",
@@ -2367,7 +2174,7 @@
       "news_count": 4,
       "social_mentions": 0,
       "official_events": 4,
-      "event_count": 92,
+      "event_count": 91,
       "market_move": 0.5,
       "coverage": 65,
       "trend": "rising",
@@ -2381,12 +2188,12 @@
       },
       "summary": "航運 熱度分數 50，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 92 個相關事件，其中綜合媒體報導 4 則",
+        "過去 72 小時聚出 91 個相關事件，其中綜合媒體報導 4 則",
         "最近 24 小時的報導量比前兩天平均高出 54%",
         "有 4 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
-        "2615 萬海｜月營收年增 +65.6%"
+        "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com"
       ],
       "ai_generated": false,
       "confidence": 0.0,
@@ -2419,6 +2226,22 @@
       ],
       "events": [
         {
+          "id": "58a54fa581d9b44b",
+          "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 4,
+          "published_at": "2026-09-14T23:54:00+08:00",
+          "industries": [
+            "shipping"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
           "id": "6543d05b77d570f5",
           "title": "2615 萬海｜月營收年增 +65.6%",
           "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2615&t=rev",
@@ -2432,22 +2255,6 @@
           ],
           "source_types": [
             "official"
-          ]
-        },
-        {
-          "id": "58a54fa581d9b44b",
-          "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 3,
-          "published_at": "2026-09-14T23:54:00+08:00",
-          "industries": [
-            "shipping"
-          ],
-          "source_types": [
-            "news"
           ]
         },
         {
@@ -2551,31 +2358,31 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "ess",
       "name": "儲能",
       "group": "能源",
-      "heat_score": 48.8,
-      "acceleration": 100.0,
+      "heat_score": 47.3,
+      "acceleration": 88.9,
       "news_count": 2,
       "social_mentions": 0,
       "official_events": 5,
-      "event_count": 36,
+      "event_count": 35,
       "market_move": 0.91,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 42.8,
-        "news_accel": 56.4,
+        "news_accel": 51.6,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 72.1,
         "market": 7.6
       },
-      "summary": "儲能 熱度分數 49，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "儲能 熱度分數 47，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 36 個相關事件，其中綜合媒體報導 2 則",
-        "最近 24 小時的報導量比前兩天平均高出 100%",
+        "過去 72 小時聚出 35 個相關事件，其中綜合媒體報導 2 則",
+        "最近 24 小時的報導量比前兩天平均高出 89%",
         "有 5 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -2651,7 +2458,7 @@
         },
         {
           "id": "9f7c0aa9ef1181fc",
-          "title": "台塑集團進擊卡位 AI 電力 台塑化、台化、台塑新智能等瞄準綠電與儲能 - money.udn.com",
+          "title": "台塑集團進擊卡位 AI 電力 台塑化、台化、台塑新智能等瞄準綠電與儲能 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BbWVuVWxDWmZIUEJCbkU1LTJCeXJBTjZfd2ZSYi1VWFdCdlBWYlJFWDZFdVNBejFSVDFHYzJtdmd6M0x3bDNWSUdNWjZvT3ZqSzZnYi1ZUFlYd9IBX0FVX3lxTFAyRGduekNaOGdQUk5HWjdZS0xyODY4bzZPNC1xZllQbEZTWDAweFg3WTFYb3NuRHZzRUpnMFJwTWJyTjBoZEN0LU5jQW0telA0OV9QbFMzaGJVZmEwblc0?oc=5",
           "sources": [
             "Google News"
@@ -2749,31 +2556,31 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "networking",
       "name": "網通",
       "group": "通訊",
-      "heat_score": 46.1,
-      "acceleration": 141.7,
+      "heat_score": 47.2,
+      "acceleration": 150.0,
       "news_count": 1,
       "social_mentions": 0,
       "official_events": 4,
-      "event_count": 50,
+      "event_count": 51,
       "market_move": 0.97,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 27.0,
-        "news_accel": 74.6,
+        "news_accel": 78.2,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 64.8,
         "market": 8.8
       },
-      "summary": "網通 熱度分數 46，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "網通 熱度分數 47，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 50 個相關事件，其中綜合媒體報導 1 則",
-        "最近 24 小時的報導量比前兩天平均高出 142%",
+        "過去 72 小時聚出 51 個相關事件，其中綜合媒體報導 1 則",
+        "最近 24 小時的報導量比前兩天平均高出 150%",
         "有 4 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -2843,7 +2650,7 @@
         },
         {
           "id": "f4b0e44b62e21e64",
-          "title": "公開《暗喻幻想：ReFantazio》Nintendo Switch™ 2版盒裝版特典！ - nova.com.tw",
+          "title": "公開《暗喻幻想：ReFantazio》Nintendo Switch™ 2版盒裝版特典！ - NOVA資訊廣場",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLUlVemJwR0wxdVJzM3JvUl9UbUMyaWZkVjlpMFJaNGhqSTBIR1NuMmJqenlJX05YVEJHUjYyM0owdkpqQkROaXdTRE9DUUFBVGFjZjMxVTlqTHo1blJDZmVRdV9KbkVXd0JXQmx3?oc=5",
           "sources": [
             "Google News"
@@ -2859,7 +2666,7 @@
         },
         {
           "id": "b22af9a15e28b3fa",
-          "title": "https://forum.hkgolden.com/thread/8086649/page/1 - 吹水台- 香港高登討論區",
+          "title": "https://forum.hkgolden.com/thread/8086649/page/1 - HKGolden",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oRHpZbURYSGhjUW44SXlOWHJieDZ2NG1iS0lwYnR3MjZic0J5RWlTWEhld0I3R05mcW5MY1ZnV01hc0MtS3U4bEhzY1BrdGM0X1ZERm5tcmhQRmUt0gFYQVVfeXFMTVRiNlB3V3RwZmg5LWpLT1FXLUo5ZThOOHJYTllicWdjOFJSdVRrWTB6QTdZNjNPemd1UTViVlc5Wkl4UHBCMzI1aHJUYVFETkVSMHgxZmJ5OA?oc=5",
           "sources": [
             "Google News"
@@ -2874,9 +2681,9 @@
           ]
         },
         {
-          "id": "15a1cc905fc9750a",
+          "id": "74d15ee61a77b6b8",
           "title": "任天堂 Switch 2 新作陣容一次看！《運動度假村》、《劍星》移植、《密特羅德》與《星之卡比》接力登場！ 中的YouTube影片 - JUKSY 街星",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rOG1pSUFZQWRlelNrNmRWckZQa0FmWnRrQzJOMzk4YV9Wd3FqeWJFLU5HUWtSQmhySnF3akt6ZWNQTms3Y2JqV29ET0xULW1KVE5yZ3BHVTFsV0ltbi1vZVlSWnk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wSHJDS041U3dOY3IyMkNXenNEZm4wcmtWSXBIYU9zbjlPbFlPdElfejM3X1AwUlB3RlJ4RG9VNkY4R3RLSkF4bXpRLVF3NDBRcW1fYzRPNlJKRTVGNUVSVDFpdHE?oc=5",
           "sources": [
             "Google News"
           ],
@@ -2940,31 +2747,220 @@
       ]
     },
     {
+      "rank": 15,
+      "id": "dram",
+      "name": "DRAM",
+      "group": "記憶體",
+      "heat_score": 46.0,
+      "acceleration": 88.9,
+      "news_count": 1,
+      "social_mentions": 0,
+      "official_events": 4,
+      "event_count": 33,
+      "market_move": 5.88,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 27.0,
+        "news_accel": 51.6,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 64.8,
+        "market": 100.0
+      },
+      "summary": "DRAM 熱度分數 46，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 33 個相關事件，其中綜合媒體報導 1 則",
+        "最近 24 小時的報導量比前兩天平均高出 89%",
+        "有 4 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "Roundhill T-REX 2X Long DRAM Daily Target ETF(RAM) - 合理價、目標價與討論區- 股市爆料同學會 - CMon"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "highlighted": true
+        },
+        {
+          "code": "3006",
+          "name": "晶豪科",
+          "highlighted": true
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "highlighted": true
+        },
+        {
+          "code": "5347",
+          "name": "世界",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "44064946fa2d3963",
+          "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF(RAM) - 合理價、目標價與討論區- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjlkT0xGM3MtTjduZnMxWlhUQVJHYjE0SVBvZnBXMmFZTmhRaS1hVDJ0TnAxanJ2Tkh4MWg0TTJyRTVod2hzWDFjTXRlWS1TbEZ3RUVRLWNIWmFjbzNqVzRXU05xUQ?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T12:57:49+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "e68d726f815b48bb",
+          "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 最新新聞資訊與消息 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tOHc0MlNvOW1IblZ2UjFTd0pTSkNKcmMtTm4yNWdITDB1WVdIMUk3VTlXMXcweUgzbkZjdmZXbW1DOUQ4Z1dNcjh3ZU5IcDBCa3IxQnFmckJuVkpydWxfd0xNMA?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T09:05:06+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "f79343bcc15d74d7",
+          "title": "3006 晶豪科｜月營收年增 +605.2%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3006&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "dram",
+            "hbm",
+            "nand"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "2cd73016481e4200",
+          "title": "討論牆 | 中國高純度石英獲 DRAM 廠認證，高階石英坩堝仍受制美國 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SVmtvcjk1QUlmUnI1MmlLZXItdnB1NTZhTktwZGV3TkZLY3Znd0xZU3N6Rm5DQTFFX1pXZ3hGc3k2UGVabThfLW5DQ0NNR2M2MW1NcWx6SGszanMwLVlQTXhqRzY?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T08:30:10+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "f1be033e24b1f8cf",
+          "title": "產業：DRAM報價週一普遍持平，其中DDR5 16Gb均價持平為54.333美元 - ww2.money-link.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmw5RER4UnFNSU5NbWx6WUxiQjJ0bHYxcXFscUVfWjR4eTFtMmtQTWV2cFVtSjRMbXhDZm55WWJWWHg0MVpMZW1WMnc2NTZXRHJIN1JFVmhnYjFfaVlyVUFxV0c5NGFwOFkxS1gzT25JSktwUllRaGdvZEpFNmlHZmhldThody1B?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T08:15:00+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "43b68e777fd6c77b",
+          "title": "記憶體股陷熊市！DRAM ETF連14日失血 資金流出近20億美元",
+          "url": "https://news.cnyes.com/news/id/6606347",
+          "sources": [
+            "鉅亨網·頭條"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T05:30:02+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "0b1f717c14c8aa05",
+          "title": "記憶體報價Q4估最高漲30%，AI伺服器引爆產能排擠，這3檔受惠！-財經焦點情報站 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3lSNm9jR1UteGNkUV9jLUhicFJXVFJzS1pwdmtRMUNYUWRWaWZ2YWpqOW92blV1RVF5dHM5dnlNWHFvc216WWd5MVp0aWJYR1FaQmt6Uk9SbUd1cGVJd0U0QTdjODBtYXZIS2tJbDBhSXlpY0dSanVWV2RyRzg2TXRR?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T04:03:55+08:00",
+          "industries": [
+            "ai-server",
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "9f3acf1828cab6b9",
+          "title": "缺貨潮助攻！「這記憶體大廠」獲利狂飆140% 目標價上看245元 - 三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05c19VWEdjUDZOTzB3dGxDd1Z3VnI1YWpMZFpfOVpXdGFFNVNNeWJfUXZaVTIwZDVtSkRraVg3Wm9jcUhjRU85MTR3aw?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T01:05:04+08:00",
+          "industries": [
+            "dram"
+          ],
+          "source_types": [
+            "news"
+          ]
+        }
+      ]
+    },
+    {
       "rank": 16,
       "id": "heavy-electric",
       "name": "重電",
       "group": "能源",
-      "heat_score": 44.5,
-      "acceleration": 51.7,
+      "heat_score": 45.4,
+      "acceleration": 58.6,
       "news_count": 5,
       "social_mentions": 0,
       "official_events": 0,
-      "event_count": 49,
+      "event_count": 50,
       "market_move": 1.48,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 69.9,
-        "news_accel": 35.4,
+        "news_accel": 38.4,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 0.0,
         "market": 18.1
       },
-      "summary": "重電 熱度分數 44，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "重電 熱度分數 45，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 49 個相關事件，其中綜合媒體報導 5 則",
-        "最近 24 小時的報導量比前兩天平均高出 52%",
+        "過去 72 小時聚出 50 個相關事件，其中綜合媒體報導 5 則",
+        "最近 24 小時的報導量比前兩天平均高出 59%",
         "成分股當日平均波動 1.48%"
       ],
       "key_events": [
@@ -3082,6 +3078,22 @@
           ]
         },
         {
+          "id": "5e7d0494b18fa65b",
+          "title": "士電看好AIDC 5年內需求熱度不減 - stock.ltn.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZEM1WWUyNVY4WXRVX1FYT3lfa0Z5OFQ0dmxIUXVicjBuRVJKaXpMcVlnOGRIc0pfZHBWOFU0R0Q1Z0tfZURfdnBZcHJISkJwNG50alhIUUQ?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T02:26:07+08:00",
+          "industries": [
+            "heavy-electric"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
           "id": "26b91a12a138e31f",
           "title": "台電釋出 AI 基建利多 大同、華碩擬桃園建資料中心",
           "url": "https://money.udn.com/money/story/5612/9754448",
@@ -3113,437 +3125,34 @@
           "source_types": [
             "news"
           ]
-        },
-        {
-          "id": "437fad080cdd278a",
-          "title": "盲蓋風機不如強固電網| 民意論壇| 評論 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTmFPX3lvTkMyNGllTDBYMDlkQTRWQmZXT05vZHhsb21jSFlWOGdJNGR2VnAzVlJsUEo0OUpTN1pOQjAtZ3hyVGNvcE5acmJo?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T00:13:58+08:00",
-          "industries": [
-            "heavy-electric"
-          ],
-          "source_types": [
-            "news"
-          ]
         }
       ]
     },
     {
       "rank": 17,
-      "id": "dram",
-      "name": "DRAM",
-      "group": "記憶體",
-      "heat_score": 44.1,
-      "acceleration": 75.0,
-      "news_count": 1,
-      "social_mentions": 0,
-      "official_events": 4,
-      "event_count": 29,
-      "market_move": 5.88,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 27.0,
-        "news_accel": 45.5,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 64.8,
-        "market": 100.0
-      },
-      "summary": "DRAM 熱度分數 44，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 29 個相關事件，其中綜合媒體報導 1 則",
-        "最近 24 小時的報導量比前兩天平均高出 75%",
-        "有 4 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "Roundhill T-REX 2X Long DRAM Daily Target ETF(RAM) - 合理價、目標價與討論區- 股市爆料同學會 - CMon"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "2408",
-          "name": "南亞科",
-          "highlighted": true
-        },
-        {
-          "code": "3006",
-          "name": "晶豪科",
-          "highlighted": true
-        },
-        {
-          "code": "2344",
-          "name": "華邦電",
-          "highlighted": true
-        },
-        {
-          "code": "5347",
-          "name": "世界",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "44064946fa2d3963",
-          "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF(RAM) - 合理價、目標價與討論區- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjlkT0xGM3MtTjduZnMxWlhUQVJHYjE0SVBvZnBXMmFZTmhRaS1hVDJ0TnAxanJ2Tkh4MWg0TTJyRTVod2hzWDFjTXRlWS1TbEZ3RUVRLWNIWmFjbzNqVzRXU05xUQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 3,
-          "published_at": "2026-09-14T12:57:49+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "f79343bcc15d74d7",
-          "title": "3006 晶豪科｜月營收年增 +605.2%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3006&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 3,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "dram",
-            "hbm",
-            "nand"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "e68d726f815b48bb",
-          "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 最新新聞資訊與消息 - 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tOHc0MlNvOW1IblZ2UjFTd0pTSkNKcmMtTm4yNWdITDB1WVdIMUk3VTlXMXcweUgzbkZjdmZXbW1DOUQ4Z1dNcjh3ZU5IcDBCa3IxQnFmckJuVkpydWxfd0xNMA?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T09:05:06+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "f1be033e24b1f8cf",
-          "title": "產業：DRAM報價週一普遍持平，其中DDR5 16Gb均價持平為54.333美元 - 富聯網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmw5RER4UnFNSU5NbWx6WUxiQjJ0bHYxcXFscUVfWjR4eTFtMmtQTWV2cFVtSjRMbXhDZm55WWJWWHg0MVpMZW1WMnc2NTZXRHJIN1JFVmhnYjFfaVlyVUFxV0c5NGFwOFkxS1gzT25JSktwUllRaGdvZEpFNmlHZmhldThody1B?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T08:15:00+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "43b68e777fd6c77b",
-          "title": "記憶體股陷熊市！DRAM ETF連14日失血 資金流出近20億美元",
-          "url": "https://news.cnyes.com/news/id/6606347",
-          "sources": [
-            "鉅亨網·頭條"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T05:30:02+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "9f3acf1828cab6b9",
-          "title": "缺貨潮助攻！「這記憶體大廠」獲利狂飆140% 目標價上看245元 - 三立新聞",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05c19VWEdjUDZOTzB3dGxDd1Z3VnI1YWpMZFpfOVpXdGFFNVNNeWJfUXZaVTIwZDVtSkRraVg3Wm9jcUhjRU85MTR3aw?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T01:05:04+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "ab36885d761f324f",
-          "title": "華邦電 (2344) 做什麼？Q2毛利率衝66%創高，記憶體缺貨助漲股價 - pocket.tw",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41RmNoYkRfVW1wa00ySjUzX2ZsNVVCOENOZkxuZ3NXLVJiZ3ZoZHIzSDR4ZDVqOXlaYjNDYzdvR1RmMW9HZXdvSWRJOTZITTRhTS1NZ3hBOXJEVVZt?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T00:27:14+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "f9ee33b267db8c2b",
-          "title": "討論牆 | 集邦：Q3 DRAM位元出貨量估持續小增 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ea1hhdmhkZE1OaHNxSEZhblItQnRrSjhRZTBDWUplMHF1Z3VEMldJTEZiVjRYcjgybWZyZTZ2bUJoUEtRUzdUckVzb21fdGp1VXNmSGROaGZuNGVzRHhSRk1XVEY?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T23:30:46+08:00",
-          "industries": [
-            "dram"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "power",
-      "name": "電源",
-      "group": "零組件",
-      "heat_score": 44.1,
-      "acceleration": 350.0,
-      "news_count": 0,
-      "social_mentions": 0,
-      "official_events": 7,
-      "event_count": 16,
-      "market_move": 0.83,
-      "coverage": 65,
-      "trend": "rising",
-      "parts": {
-        "news_volume": 0.0,
-        "news_accel": 100.0,
-        "social_volume": 0.0,
-        "social_accel": 0.0,
-        "official": 83.7,
-        "market": 6.1
-      },
-      "summary": "電源 熱度分數 44，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
-      "why_hot": [
-        "過去 72 小時聚出 16 個相關事件，其中綜合媒體報導 0 則",
-        "最近 24 小時的報導量比前兩天平均高出 350%",
-        "有 7 筆官方重大訊息／月營收變動落在這個產業"
-      ],
-      "key_events": [
-        "6282 康舒｜月營收年增 +38.5%"
-      ],
-      "ai_generated": false,
-      "confidence": 0.0,
-      "stocks": [
-        {
-          "code": "2308",
-          "name": "台達電",
-          "highlighted": true
-        },
-        {
-          "code": "6409",
-          "name": "旭隼",
-          "highlighted": true
-        },
-        {
-          "code": "3033",
-          "name": "威健",
-          "highlighted": true
-        },
-        {
-          "code": "1519",
-          "name": "華城",
-          "highlighted": true
-        },
-        {
-          "code": "2301",
-          "name": "光寶科",
-          "highlighted": true
-        }
-      ],
-      "events": [
-        {
-          "id": "140e147f01856f29",
-          "title": "6282 康舒｜月營收年增 +38.5%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 3,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "ess",
-            "ev",
-            "power",
-            "robotics"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "d1a5b4008ee8ac4b",
-          "title": "2308 台達電｜本公司受邀參加法人說明會之相關資訊",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=mops",
-          "sources": [
-            "證交所·重大訊息"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T17:53:12+08:00",
-          "industries": [
-            "ess",
-            "ev",
-            "power",
-            "robotics"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "5e1f56f91ae90e4d",
-          "title": "3033 威健｜月營收年增 +56.8%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3033&t=rev",
-          "sources": [
-            "證交所·月營收"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T00:00:00+08:00",
-          "industries": [
-            "power"
-          ],
-          "source_types": [
-            "official"
-          ]
-        },
-        {
-          "id": "b57f41a8380b1c58",
-          "title": "【09/15 產業即時新聞】電源供應器族群強勢大漲4.43%，權值王台達電領軍AI伺服器商機點火 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEVXSkxKS1pxWld6cWpVenVqbFZOd2xvZ290c3VVUXRab01uTldYbkpsR3FTNXN0R0ZncmdNc3hTUnFBTkxQenJYbzRESnd4TkZlVzhZWV9RT3hRRjdVM29Jak0yMjJOclNRUEVhUjhCUTB0NlVEWTV5ZXNUV0JvT0NoUEtnQXplRVVjWDF3?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T09:30:03+08:00",
-          "industries": [
-            "ai-server",
-            "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "d9f775c74d8ebd14",
-          "title": "它大吃歐美訂單 明年EPS有望衝18.9元 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FM2lURnpzc2x4bHJKcUdaMEt5NEhoR3BOLVNzN0lzZmRGaWdLZmdnbVFZR0JMTXB6SFhNZG04aEREMjF0ZWNrYll5OF91Ti1DVDNLNE9fS0hDUlpXbTc0YmVR0gFiQVVfeXFMTkUzaVRGenNzbHhsckpxR1owS3k0SGhHcE4tU3M3SXNmZEZpZ0tmZ2dtUVlHQkxNcHpIWE1kbThoREQyMXRlY2tiWXk4X3VOLUNUM0s0T19LSENSWldtNzRiZVE?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T02:00:00+08:00",
-          "industries": [
-            "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "c1c9176357347949",
-          "title": "博大第2季3率3升 稅後淨利年增100％ - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uaS0xamF6ZzUxR0ZjMDZSbEctdXF2dTJnNWRwUEdOTzVyTXVpRmhXaFJYY2NFRWZOdmp6RVVGYXlCOGgweVRLVGlzRmc0Z1NIZGJoSG5LV2E?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T18:41:15+08:00",
-          "industries": [
-            "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "32ac9b60fe942776",
-          "title": "1.6 萬美元顯卡險報廢！RTX PRO 6000 供電接頭 PCIe 16pin 慘遭燒熔，電源端 NTC 高溫保護失效 - XFastest",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JWWg4Nl9FeWJqVHNkV3QydWFkRWVwVVF5UGQwS2hwbjRQamN1S1MtMlM5Nkdyek1hTU1WY0VXOXBBMlEyRmMtSkN1VUtNSm5VTGRUeWpvNHFTSjJ2a1h3VHFjUmtxY3BjbzNlZw?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T18:40:32+08:00",
-          "industries": [
-            "high-speed",
-            "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "3397984fcf56844d",
-          "title": "RTX 6000 PRO 搭 ASRock 電源再爆 16pin 接頭融化，感測器竟裝錯邊 - UNIKO's Hardware",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Fc1l5bG0taktpeEdMcG4tbi1NUnRvUkdtTlpvNnAtQ2RIaWpWTWZFUjVQU2RWT29ucXNKUjZlOEhFQ0wwVmc0eDQ4b2RLc1FIWG1SRUFwRXkxWHhmRTdYSmliZEtBMXY2MXRVZE1qbHhLQ21OZVgxQg?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T15:11:09+08:00",
-          "industries": [
-            "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        }
-      ]
-    },
-    {
-      "rank": 19,
       "id": "adv-packaging",
       "name": "先進封裝",
       "group": "半導體",
-      "heat_score": 44.0,
-      "acceleration": -3.2,
+      "heat_score": 44.9,
+      "acceleration": 3.2,
       "news_count": 4,
       "social_mentions": 0,
       "official_events": 5,
-      "event_count": 43,
+      "event_count": 44,
       "market_move": 0.83,
       "coverage": 65,
       "trend": "flat",
       "parts": {
         "news_volume": 62.7,
-        "news_accel": 11.4,
+        "news_accel": 14.2,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 72.1,
         "market": 6.1
       },
-      "summary": "先進封裝 熱度分數 44，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "先進封裝 熱度分數 45，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 43 個相關事件，其中綜合媒體報導 4 則",
+        "過去 72 小時聚出 44 個相關事件，其中綜合媒體報導 4 則",
         "有 5 筆官方重大訊息／月營收變動落在這個產業",
         "成分股當日平均波動 0.83%"
       ],
@@ -3704,7 +3313,7 @@
         },
         {
           "id": "5f7b8066a21c8c22",
-          "title": "【預期差】CoWoS 上修機會藏在哪？片數之外，面積、材料與非台積電陣營才是下一個預期差 - uanalyze.com.tw",
+          "title": "【預期差】CoWoS 上修機會藏在哪？片數之外，面積、材料與非台積電陣營才是下一個預期差 - 優分析UAnalyze",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nX2JjdmNsVzg5M0RkNTV3VmVJNEs5QU1QTzJsZ3pOc0ptanF4cjVJbjdPaVZ6SFlhTUJXbThuZ0pHZkc5VXQ0dFg2ajBpRTlaU2lfN253?oc=5",
           "sources": [
             "Google News"
@@ -3722,22 +3331,221 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "id": "power",
+      "name": "電源",
+      "group": "零組件",
+      "heat_score": 44.1,
+      "acceleration": 350.0,
+      "news_count": 0,
+      "social_mentions": 0,
+      "official_events": 7,
+      "event_count": 16,
+      "market_move": 0.83,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 0.0,
+        "news_accel": 100.0,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 83.7,
+        "market": 6.1
+      },
+      "summary": "電源 熱度分數 44，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 16 個相關事件，其中綜合媒體報導 0 則",
+        "最近 24 小時的報導量比前兩天平均高出 350%",
+        "有 7 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "6282 康舒｜月營收年增 +38.5%"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "2308",
+          "name": "台達電",
+          "highlighted": true
+        },
+        {
+          "code": "6409",
+          "name": "旭隼",
+          "highlighted": true
+        },
+        {
+          "code": "3033",
+          "name": "威健",
+          "highlighted": true
+        },
+        {
+          "code": "1519",
+          "name": "華城",
+          "highlighted": true
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "140e147f01856f29",
+          "title": "6282 康舒｜月營收年增 +38.5%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "ess",
+            "ev",
+            "power",
+            "robotics"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "d1a5b4008ee8ac4b",
+          "title": "2308 台達電｜本公司受邀參加法人說明會之相關資訊",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=mops",
+          "sources": [
+            "證交所·重大訊息"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T17:53:12+08:00",
+          "industries": [
+            "ess",
+            "ev",
+            "power",
+            "robotics"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "5e1f56f91ae90e4d",
+          "title": "3033 威健｜月營收年增 +56.8%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3033&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "power"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "b57f41a8380b1c58",
+          "title": "【09/15 產業即時新聞】電源供應器族群強勢大漲4.43%，權值王台達電領軍AI伺服器商機點火 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEVXSkxKS1pxWld6cWpVenVqbFZOd2xvZ290c3VVUXRab01uTldYbkpsR3FTNXN0R0ZncmdNc3hTUnFBTkxQenJYbzRESnd4TkZlVzhZWV9RT3hRRjdVM29Jak0yMjJOclNRUEVhUjhCUTB0NlVEWTV5ZXNUV0JvT0NoUEtnQXplRVVjWDF3?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T09:30:03+08:00",
+          "industries": [
+            "ai-server",
+            "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "d9f775c74d8ebd14",
+          "title": "它大吃歐美訂單 明年EPS有望衝18.9元 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FM2lURnpzc2x4bHJKcUdaMEt5NEhoR3BOLVNzN0lzZmRGaWdLZmdnbVFZR0JMTXB6SFhNZG04aEREMjF0ZWNrYll5OF91Ti1DVDNLNE9fS0hDUlpXbTc0YmVR0gFiQVVfeXFMTkUzaVRGenNzbHhsckpxR1owS3k0SGhHcE4tU3M3SXNmZEZpZ0tmZ2dtUVlHQkxNcHpIWE1kbThoREQyMXRlY2tiWXk4X3VOLUNUM0s0T19LSENSWldtNzRiZVE?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T02:00:00+08:00",
+          "industries": [
+            "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "5164705da66148ef",
+          "title": "1.6 萬美元顯卡險報廢！RTX PRO 6000 供電接頭 PCIe 16pin 慘遭燒熔，電源端 NTC 高溫保護失效 - XFastest",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ua1dBbXJTRHlIZE9HdGVOU3dRT21wb3ZNR3Y3ZkxhNUxZanJoRzRud0FUeGpPT0FXSjZNVUIyVlJvYjBUTjNkLVZUT3ltejkySDZlTlBtMThESnM?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T18:49:00+08:00",
+          "industries": [
+            "high-speed",
+            "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "c1c9176357347949",
+          "title": "博大第2季3率3升 稅後淨利年增100％ - stock.ltn.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uaS0xamF6ZzUxR0ZjMDZSbEctdXF2dTJnNWRwUEdOTzVyTXVpRmhXaFJYY2NFRWZOdmp6RVVGYXlCOGgweVRLVGlzRmc0Z1NIZGJoSG5LV2E?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T18:41:15+08:00",
+          "industries": [
+            "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "3397984fcf56844d",
+          "title": "RTX 6000 PRO 搭 ASRock 電源再爆 16pin 接頭融化，感測器竟裝錯邊 - UNIKO's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Fc1l5bG0taktpeEdMcG4tbi1NUnRvUkdtTlpvNnAtQ2RIaWpWTWZFUjVQU2RWT29ucXNKUjZlOEhFQ0wwVmc0eDQ4b2RLc1FIWG1SRUFwRXkxWHhmRTdYSmliZEtBMXY2MXRVZE1qbHhLQ21OZVgxQg?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T15:11:09+08:00",
+          "industries": [
+            "power"
+          ],
+          "source_types": [
+            "news"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 19,
       "id": "ev",
       "name": "電動車",
       "group": "新應用",
-      "heat_score": 43.1,
-      "acceleration": 34.5,
+      "heat_score": 42.6,
+      "acceleration": 31.0,
       "news_count": 2,
       "social_mentions": 0,
       "official_events": 8,
-      "event_count": 99,
+      "event_count": 98,
       "market_move": 1.3,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 42.8,
-        "news_accel": 27.9,
+        "news_accel": 26.3,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 88.4,
@@ -3745,8 +3553,8 @@
       },
       "summary": "電動車 熱度分數 43，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 99 個相關事件，其中綜合媒體報導 2 則",
-        "最近 24 小時的報導量比前兩天平均高出 34%",
+        "過去 72 小時聚出 98 個相關事件，其中綜合媒體報導 2 則",
+        "最近 24 小時的報導量比前兩天平均高出 31%",
         "有 8 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -3871,13 +3679,13 @@
         },
         {
           "id": "ca08e5c017d7207c",
-          "title": "北美鋰資源自主關鍵一役：LGES 長約牽動全球電池供應板塊挪移 - TechNews 科技新報",
+          "title": "北美鋰資源自主關鍵一役：LGES 長約牽動全球電池供應板塊挪移 - technews.tw",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nTFVIc2V2dEZDTEo5ZkJPbWRfeUVSMnJHc0Q4eVIwQWFjZnFQSFR1TWtfT1dDWlhaTkpQckxPS3B5aVR6MmMySjMxZG1Uck00OFhxZmp4ZWxxS0NzaFVoeUVqRkVxTktp?oc=5",
           "sources": [
             "Google News"
           ],
           "count": 1,
-          "published_at": "2026-09-15T10:04:15+08:00",
+          "published_at": "2026-09-15T10:08:56+08:00",
           "industries": [
             "ev"
           ],
@@ -3920,22 +3728,22 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "atp",
       "name": "封裝測試",
       "group": "半導體",
-      "heat_score": 41.3,
-      "acceleration": 30.0,
+      "heat_score": 40.8,
+      "acceleration": 26.3,
       "news_count": 2,
       "social_mentions": 0,
       "official_events": 6,
-      "event_count": 31,
+      "event_count": 30,
       "market_move": 1.57,
       "coverage": 65,
       "trend": "rising",
       "parts": {
         "news_volume": 42.8,
-        "news_accel": 25.9,
+        "news_accel": 24.3,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 78.3,
@@ -3943,8 +3751,8 @@
       },
       "summary": "封裝測試 熱度分數 41，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 31 個相關事件，其中綜合媒體報導 2 則",
-        "最近 24 小時的報導量比前兩天平均高出 30%",
+        "過去 72 小時聚出 30 個相關事件，其中綜合媒體報導 2 則",
+        "最近 24 小時的報導量比前兩天平均高出 26%",
         "有 6 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -4003,31 +3811,14 @@
           ]
         },
         {
-          "id": "2521572110d49c91",
-          "title": "大創綠能深化CPPA布局攜手全球最大半導體封測廠共築低碳供應鏈- 商情 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ySEdLazB5R3pTWVE4OE1oQnBrM3dTNWlOa2RBcURZZGJnZ2dzM1ExOHdxOHpkYk1qb2lpUG9NeDBXNXdOTnVIN1E2WDZZUTdXQzZBekx3d1J1bnpxeEJr?oc=5",
+          "id": "01402e7d2af8aa34",
+          "title": "大創綠能深化CPPA布局 攜手全球最大半導體封測廠共築低碳供應鏈 | 熱門亮點 | 商情 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0djQngtbmVWY3E1b2ZsU09jS3UyeU1UQ2kzeXZ3YlMzZnBMWk44X2xaY3hob1N1WEVETENtem9uLW01UHhBNzZxZUJiQkxEQmpFTzVmS0drMHJzbWxPcHJoWnNNSnZuYmNKWG1aQkVfM21CUXVSeHVOVTNZZVR6ZQ?oc=5",
           "sources": [
             "Google News"
           ],
           "count": 3,
-          "published_at": "2026-09-14T17:02:00+08:00",
-          "industries": [
-            "atp"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "db3f062c215f5be8",
-          "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
-          "url": "https://finance.technews.tw/2026/09/14/spil-in-usa",
-          "sources": [
-            "Google News",
-            "TechNews"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T18:20:20+08:00",
+          "published_at": "2026-09-15T10:02:20+08:00",
           "industries": [
             "atp"
           ],
@@ -4102,7 +3893,7 @@
         },
         {
           "id": "4fb7fbe7f5d5d343",
-          "title": "金包銀之聯鈞：IC封測大將營收創新高量增拉回，短線震盪沉澱！ - CMoney",
+          "title": "3450 聯鈞- 金包銀之聯鈞：IC封測大將營收創新高量增拉回，短線震盪沉澱！ - 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkR3dSUks4V280eUliRzJrOGtNVVRoTnROeEp1dUFwWHk1RVVYNlZPYU5WU1gwMUZoOW9CSkdicF9aeF9QOFFMY0VidS1ISk52bDAzTV9mTVM?oc=5",
           "sources": [
             "Google News"
@@ -4115,20 +3906,36 @@
           "source_types": [
             "news"
           ]
+        },
+        {
+          "id": "de62ee89b5e60ef6",
+          "title": "不怕沒單只怕沒產能！信驊與日月光簽2年合約鎖產能 出貨量將迎大解放 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZS2hKMUFuOGlTUXRZSzBqRXVBMUdhSmlUcHhTZ3gtaFN4ZzBmNEpaN2ZQb2JDRW03Y29BYVdUUlZTRWxrb2Zlbl9GUGNXRlhCYjhNLWp5NFZHaUROR1dzcFRfUjNZLWN30gFoQVVfeXFMUFlLaEoxQW44aVNRdFlLMGpFdUExR2FKaVRweFNneC1oU3hnMGY0Slo3ZlBvYkNFbTdjb0FhV1RSVlNFbGtvZmVuX0ZQY1dGWEJiOE0tank0VkdpRE5HV3NwVF9SM1ktY3c?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T18:33:00+08:00",
+          "industries": [
+            "atp"
+          ],
+          "source_types": [
+            "news"
+          ]
         }
       ]
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "high-speed",
       "name": "高速傳輸",
       "group": "通訊",
       "heat_score": 40.7,
-      "acceleration": 266.7,
+      "acceleration": 233.3,
       "news_count": 0,
       "social_mentions": 0,
       "official_events": 3,
-      "event_count": 19,
+      "event_count": 18,
       "market_move": 1.47,
       "coverage": 65,
       "trend": "rising",
@@ -4142,8 +3949,8 @@
       },
       "summary": "高速傳輸 熱度分數 41，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 19 個相關事件，其中綜合媒體報導 0 則",
-        "最近 24 小時的報導量比前兩天平均高出 267%",
+        "過去 72 小時聚出 18 個相關事件，其中綜合媒體報導 0 則",
+        "最近 24 小時的報導量比前兩天平均高出 233%",
         "有 3 筆官方重大訊息／月營收變動落在這個產業"
       ],
       "key_events": [
@@ -4241,34 +4048,17 @@
           ]
         },
         {
-          "id": "32ac9b60fe942776",
+          "id": "5164705da66148ef",
           "title": "1.6 萬美元顯卡險報廢！RTX PRO 6000 供電接頭 PCIe 16pin 慘遭燒熔，電源端 NTC 高溫保護失效 - XFastest",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JWWg4Nl9FeWJqVHNkV3QydWFkRWVwVVF5UGQwS2hwbjRQamN1S1MtMlM5Nkdyek1hTU1WY0VXOXBBMlEyRmMtSkN1VUtNSm5VTGRUeWpvNHFTSjJ2a1h3VHFjUmtxY3BjbzNlZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ua1dBbXJTRHlIZE9HdGVOU3dRT21wb3ZNR3Y3ZkxhNUxZanJoRzRud0FUeGpPT0FXSjZNVUIyVlJvYjBUTjNkLVZUT3ltejkySDZlTlBtMThESnM?oc=5",
           "sources": [
             "Google News"
           ],
           "count": 1,
-          "published_at": "2026-09-14T18:40:32+08:00",
+          "published_at": "2026-09-14T18:49:00+08:00",
           "industries": [
             "high-speed",
             "power"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "231216577415c8fc",
-          "title": "意華股份(002897.SZ)：公司液冷產品及224G高速連接器產品目前處於送樣階段 - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XUFJkNzVldkcxT0tjbVpMemUtdnpSbzZ1dG5IY2s5OWcyR0RuYjJxdHc1MWFZWVBTMFQ5dEk5azZMdkhaSjNLWFlTcEtmQXR2VW44V3luODdzQQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T16:02:10+08:00",
-          "industries": [
-            "cooling",
-            "high-speed"
           ],
           "source_types": [
             "news"
@@ -4307,6 +4097,213 @@
           "source_types": [
             "news"
           ]
+        },
+        {
+          "id": "91e6fcad2d5a9f9f",
+          "title": "【11:28 即時新聞】臺燿(6274)股價上漲4.76%、報價1430，受惠CCL漲價與AI高速傳輸題材加持，法人偏多佈局下技術面整理後轉強 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWR0NDdscVNGSHYzSHdlM2FDY09CdWpvV0RfdHhzUGsyLXB0RkdndHV6WmdHaXliVlEydnEwWUtub1R5bzVad0M5eFNUUFpLMTNiTUt5S055VDRoQlFLWVh2TlhWTzhzVTNtM21jYjJFam5tckdEa3lOWWJ2dm0yTjZsejJRalZEdUpwdHZ3?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T11:29:07+08:00",
+          "industries": [
+            "ccl",
+            "high-speed"
+          ],
+          "source_types": [
+            "news"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "quantum",
+      "name": "量子運算",
+      "group": "新應用",
+      "heat_score": 37.5,
+      "acceleration": 44.0,
+      "news_count": 1,
+      "social_mentions": 0,
+      "official_events": 10,
+      "event_count": 43,
+      "market_move": 0.72,
+      "coverage": 65,
+      "trend": "rising",
+      "parts": {
+        "news_volume": 27.0,
+        "news_accel": 32.0,
+        "social_volume": 0.0,
+        "social_accel": 0.0,
+        "official": 96.5,
+        "market": 4.0
+      },
+      "summary": "量子運算 熱度分數 38，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "why_hot": [
+        "過去 72 小時聚出 43 個相關事件，其中綜合媒體報導 1 則",
+        "最近 24 小時的報導量比前兩天平均高出 44%",
+        "有 10 筆官方重大訊息／月營收變動落在這個產業"
+      ],
+      "key_events": [
+        "2382 廣達｜月營收年增 +177.5%"
+      ],
+      "ai_generated": false,
+      "confidence": 0.0,
+      "stocks": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "highlighted": true
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "highlighted": true
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "highlighted": true
+        }
+      ],
+      "events": [
+        {
+          "id": "293da04ab52b32b7",
+          "title": "2382 廣達｜月營收年增 +177.5%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2382&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 5,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "ai-server",
+            "cooling",
+            "gpu",
+            "quantum"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "cdc772d6040016cc",
+          "title": "2330 台積電｜月營收年增 +53.3%",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2330&t=rev",
+          "sources": [
+            "證交所·月營收"
+          ],
+          "count": 4,
+          "published_at": "2026-09-14T00:00:00+08:00",
+          "industries": [
+            "adv-packaging",
+            "atp",
+            "cowos",
+            "foundry",
+            "gpu",
+            "hbm",
+            "quantum"
+          ],
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "id": "3c377fb9fb98d362",
+          "title": "Corgi Quantum Computing 2x Daily ETF(XQTM) - K線圖分析(MA、KD、MACD、RSI) - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TTdacy1XWjhwVWVOQlptTHBYQXIyeE4zbWRRcTZKcUJKOW9qZTZCaW9mS3pTN1V6SzVscXUzQ01wS2NTMGlOUk1KUjJfNlpsSnVTakUyMzVYSzRLTDNEeE55SkxvRzZzbFpXeUpvTk9BUTQ?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 3,
+          "published_at": "2026-09-14T10:07:47+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "3127a54b06e3aa82",
+          "title": "LayerZero 推出 Akita 將量子安全證明壓縮至 65KB - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWjBxMTN2ZDE1dVNaQlhPRVpLRFVHTV8zRF9FM01Ma3o3VV9fc2ZuVkpXdzFiN0FIbF9GeUJ1UzNKT1FHOGx5bk9CREdzc0hia1FTcjV6czFaRmJVRDhuQmI4XzNSWGZPWEZUdmVfVkhiZDIxckdBX2YxTV9jeE5VdS1HTF9KbkloVXJOcXZkUGp3cGx1ZmowY1duMU10ZjJ6OW13M2V3SUowTXdpcVZEdmRMUlZpOEttaE9VMl9kX3FUQ29UNDB2RDF1ZlpnVThKNkVMNkJzRVM0TVljOXVuN1RDRU9UTVhySW1BWDNjc1VNZw?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-12T21:29:30+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "16af84c5bb568fbd",
+          "title": "Cloudflare擴大來源伺服器PQC部署，後量子連線增至每日450億次",
+          "url": "https://www.ithome.com.tw/news/178911",
+          "sources": [
+            "iThome"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T16:09:00+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "0bd41a0e8b53b7aa",
+          "title": "Active Matter：量子禁區生存撤離射擊遊戲 - games.gg",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVGlnNDNoUGVCRnMzSnZSN1hYRG94cWYteTNJaWxxSmZsWEVTMkFwNkhaMl9zVTlzTlV3TDcxUXhrcU03MlY2Q3phYXZsd1REQldSWDlDazVwUQ?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T06:10:36+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "93a0076d906f34f4",
+          "title": "Quantum Is Maintained at Buy by Lake Street - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzhZRzk2aGo5OE9IYWRUY3Rfdl91MkZ1bHRQYkVjQThsM0NNZTktVHFFZy00bnFwN1NGWDVaRE43TlQ5YzJxU3ZELWN6bWcydk51R3NVd1VleDJYYzJhRUxkLTZid3Q2b0Q0bkhURkZ5bHlmZlc0SDZnLUkyd3JhY1hrdzJrR0d3TnFBeHozUFJrYkIz?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T02:14:19+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "2e1cee6ea2a56374",
+          "title": "上海監管機構支援人工智慧、區塊鏈和量子運算升級金融科技運營 - 区块周刊BlockWeeks",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sMDNJXzB6VXJ3X1hWb0VsUkp2VEszVUZ0ckJablpzdlR2VkVRU3dnbzNkNW1DNnVzMTEzZ2pFWEVyTU9kczY1aXVn?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T01:32:23+08:00",
+          "industries": [
+            "quantum"
+          ],
+          "source_types": [
+            "news"
+          ]
         }
       ]
     },
@@ -4315,26 +4312,26 @@
       "id": "pcb",
       "name": "PCB",
       "group": "零組件",
-      "heat_score": 30.9,
-      "acceleration": 4.0,
+      "heat_score": 32.0,
+      "acceleration": 12.0,
       "news_count": 1,
       "social_mentions": 0,
       "official_events": 6,
-      "event_count": 76,
+      "event_count": 77,
       "market_move": 1.82,
       "coverage": 65,
       "trend": "flat",
       "parts": {
         "news_volume": 27.0,
-        "news_accel": 14.6,
+        "news_accel": 18.1,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 78.3,
         "market": 24.5
       },
-      "summary": "PCB 熱度分數 31，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "PCB 熱度分數 32，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 76 個相關事件，其中綜合媒體報導 1 則",
+        "過去 72 小時聚出 77 個相關事件，其中綜合媒體報導 1 則",
         "有 6 筆官方重大訊息／月營收變動落在這個產業",
         "成分股當日平均波動 1.82%"
       ],
@@ -4409,6 +4406,22 @@
           ]
         },
         {
+          "id": "b0f3c99f47927600",
+          "title": "景碩明年ABF產能增25% 資本支出估提升 - ttv.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnpDMGtTdDZTUEZzTkN5aG9pWHNhNVZaQUZGU1ZPQzdkbFoxTlR3VFJUcGZ5NC1Oa20yUVFZR2JIdVlaVHlqU2J2RDFIR1hjbGRfYXA3LXllb3BwbTFVNm9oRC1TWURyVmR0bkRMcXV0SFZ2VU5saEdDRUJ2YkRCYURGdDNYSGptU3BDdHdsdGo0Yjg2QjlDNDhERzlRbzRBUWRYaGVnZnU5Z3M?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 2,
+          "published_at": "2026-09-14T12:02:08+08:00",
+          "industries": [
+            "pcb"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
           "id": "1546e966683c2706",
           "title": "009828 中信台日韓PCB - 2026 年歷年配息 / 股息與除息日哪一天？ - 股市爆料同學會 - CMoney",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCX3NFM3VISlhfd2JiXzhrUjFEUEpKVWJhMnRnODh5ampwczV6NFRyMUJNYUtzVWZNaktpb3E3M01XNFA3REFNR25RclVtaklPdURHaGZ3RlNPeVIwelJtMQ?oc=5",
@@ -4417,6 +4430,22 @@
           ],
           "count": 2,
           "published_at": "2026-09-13T01:44:58+08:00",
+          "industries": [
+            "pcb"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "0f9c7b1c68428252",
+          "title": "【10:05 即時新聞】南電(8046)盤中走強，高階載板與原料漲價題材受關注 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVJuSnB3NVVxSHlrLVJqeno5WmI5czIwcnJ0SkhvNnM0b3R5YmJaVXB5YmZyV2xyR0xaMF9Xek5qS1pOSmRBUUV0eEY2SkRMdmRqT1NfRjBmNVBta0JfVWZhNHBWR2Rfc1RkVmo1aGR2alRycGV0eTZsYkFVMEljb1VTTXh0WkdvaXpVYmRn?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-15T10:05:25+08:00",
           "industries": [
             "pcb"
           ],
@@ -4471,39 +4500,6 @@
           "source_types": [
             "news"
           ]
-        },
-        {
-          "id": "3a5f72851a28cc4b",
-          "title": "人造金剛石從散熱到PCB，中砂 (1560) 受惠空間多大？-哲翰科技戰情室 - CMoney投資網誌",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGNjbzJpbkhJZVE5QWdnSU12TV9EeTQ0bTZWQ2RMQ1VqZlpRNkZKcU1JcnFYcGI3cm8wLVdTZUhVREFHWjVLZ2lUbVE4Ym9xVzczaXpYVnVpS2t2UkdLYXhqbXJaVkpSWnh3Z3dVR1B4dEc4RUZRRm5aSWs5N0RVSUp0RQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T22:24:05+08:00",
-          "industries": [
-            "cooling",
-            "pcb"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "3f48316ac809c173",
-          "title": "PCB漲價潮擋不住！Panasonic基板「9月最高再漲30%」 台燿、台光電等7檔受惠出列 - FTNN 新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3b3o1STI2VjU0OGNId01LU1BPT2lnem5ocTM0R0VGMnV3eXU4MWdIWldTbXJFdm9DNWRFV1lRaGNONkRmT3N0Zmh6NA?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-14T22:15:00+08:00",
-          "industries": [
-            "pcb"
-          ],
-          "source_types": [
-            "news"
-          ]
         }
       ]
     },
@@ -4512,28 +4508,28 @@
       "id": "asic",
       "name": "ASIC",
       "group": "AI",
-      "heat_score": 22.1,
-      "acceleration": 31.0,
+      "heat_score": 20.6,
+      "acceleration": 20.0,
       "news_count": 0,
       "social_mentions": 0,
       "official_events": 5,
       "event_count": 45,
       "market_move": 2.55,
       "coverage": 65,
-      "trend": "rising",
+      "trend": "flat",
       "parts": {
         "news_volume": 0.0,
-        "news_accel": 26.3,
+        "news_accel": 21.5,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 72.1,
         "market": 38.0
       },
-      "summary": "ASIC 熱度分數 22，趨勢 上升。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
+      "summary": "ASIC 熱度分數 21，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
         "過去 72 小時聚出 45 個相關事件，其中綜合媒體報導 0 則",
-        "最近 24 小時的報導量比前兩天平均高出 31%",
-        "有 5 筆官方重大訊息／月營收變動落在這個產業"
+        "有 5 筆官方重大訊息／月營收變動落在這個產業",
+        "成分股當日平均波動 2.55%"
       ],
       "key_events": [
         "3661 世芯-KY｜月營收年增 +273.6%"
@@ -4670,7 +4666,7 @@
         },
         {
           "id": "12260eb598991b3b",
-          "title": "緯穎美國廠啟動量產 明年產能占比拚2成 - 自由時報",
+          "title": "緯穎美國廠啟動量產 明年產能占比拚2成 - stock.ltn.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83U3JOWThMWHBkMXRMVnh5Q2QteEVVTGVpVThzOG5NbmtxVHRadVFCUzVxUWg3U2RhUFIzbzNJakh0Sm5KdjQyaWdUcUpVaHlNZlNCQS1MVlI?oc=5",
           "sources": [
             "Google News"
@@ -4707,18 +4703,18 @@
       "id": "hbm",
       "name": "HBM",
       "group": "記憶體",
-      "heat_score": 18.9,
-      "acceleration": -16.7,
+      "heat_score": 18.7,
+      "acceleration": -18.2,
       "news_count": 0,
       "social_mentions": 0,
       "official_events": 8,
-      "event_count": 36,
+      "event_count": 34,
       "market_move": 3.03,
       "coverage": 65,
       "trend": "flat",
       "parts": {
         "news_volume": 0.0,
-        "news_accel": 5.6,
+        "news_accel": 4.9,
         "social_volume": 0.0,
         "social_accel": 0.0,
         "official": 88.4,
@@ -4726,7 +4722,7 @@
       },
       "summary": "HBM 熱度分數 19，趨勢 持平。以下為依實際抓到的資料統計的結果，未經 AI 改寫。",
       "why_hot": [
-        "過去 72 小時聚出 36 個相關事件，其中綜合媒體報導 0 則",
+        "過去 72 小時聚出 34 個相關事件，其中綜合媒體報導 0 則",
         "有 8 筆官方重大訊息／月營收變動落在這個產業",
         "成分股當日平均波動 3.03%"
       ],
@@ -4799,23 +4795,6 @@
           ]
         },
         {
-          "id": "58bb529b4f342199",
-          "title": "XPU 不是要取代GPU ── 它們搶的是同一批HBM、封裝與電力- 股市爆料同學會 - CMoney",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fMGV0SWNYNTk1WEFIS2pmYXROSjFzc3BfMTlWcWIyY01lZkFIX3FtZ2ZBWTBRYnJRZ3dzb190R19yaFBlRV94RzJobDZ4OVNEcGVpdVN5NEs?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 2,
-          "published_at": "2026-09-14T09:44:28+08:00",
-          "industries": [
-            "gpu",
-            "hbm"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
           "id": "1fcd1a9fe0de3bd0",
           "title": "HBM人才爭奪白熱化！美光、閃迪奔赴韓國搶挖記憶體晶片人才| 科技 - 鉅亨號",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSmQtbk1lcV9XNlJQSmthRE9Pc3puczRLbnFWWmRxSDZVRDdydlVPSXE1eHdnTV9SdXB0Y1pDYTl1WWw5dVQtbQ?oc=5",
@@ -4825,23 +4804,6 @@
           "count": 1,
           "published_at": "2026-09-15T08:09:15+08:00",
           "industries": [
-            "hbm"
-          ],
-          "source_types": [
-            "news"
-          ]
-        },
-        {
-          "id": "acf5554ab38540b4",
-          "title": "Ep. 030 - Rubin Ultra Drops From 1 TB to 192GB of HBM (Memory)｜SemiAnalysis - BigGo 財經",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JYU1nVGJ3UWxYS3JvYVRGTjlCZnFFWUNsZ2ZnMDhaX3c4WmozOG9MUVhOLWgxTzRHdmlueURocm9wT05FRHE2MFJiQUdQTGptWDhnSWFYYWpQTjNrQW1nTXZBQQ?oc=5",
-          "sources": [
-            "Google News"
-          ],
-          "count": 1,
-          "published_at": "2026-09-15T04:27:39+08:00",
-          "industries": [
-            "gpu",
             "hbm"
           ],
           "source_types": [
@@ -4894,6 +4856,43 @@
           ],
           "source_types": [
             "news"
+          ]
+        },
+        {
+          "id": "94150d4c6378041a",
+          "title": "DRAM、SRAM、DDR、HBM、NAND傻傻分不清楚？三星、美光、海力士都是賣的那種記憶體？ - 鉅亨號",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Nd29KYXhid0FkTXk5MGJpZmdlSExVRWFfdDUwN0tfNWFzTzJYaC1hOHJ3ZVVMUXlYeDFNX0Z2eFhXWExYSVVvOA?oc=5",
+          "sources": [
+            "Google News"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T19:18:36+08:00",
+          "industries": [
+            "dram",
+            "hbm"
+          ],
+          "source_types": [
+            "news"
+          ]
+        },
+        {
+          "id": "fdda4b4ff11892ac",
+          "title": "3711 日月光投控｜公告本公司將受邀參加「UBS Taiwan Summit 2026」之法說訊息",
+          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3711&t=mops",
+          "sources": [
+            "證交所·重大訊息"
+          ],
+          "count": 1,
+          "published_at": "2026-09-14T14:01:23+08:00",
+          "industries": [
+            "adv-packaging",
+            "atp",
+            "cowos",
+            "gpu",
+            "hbm"
+          ],
+          "source_types": [
+            "official"
           ]
         }
       ]
@@ -5000,7 +4999,7 @@
         },
         {
           "id": "583c79560e91e561",
-          "title": "電子時報：台積3/2奈米、CoWoS仍吃緊，AWS、聯發科、TPU產能配置有變 - 富聯網",
+          "title": "電子時報：台積3/2奈米、CoWoS仍吃緊，AWS、聯發科、TPU產能配置有變 - ww2.money-link.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzBKeUwtVWdlT3FnTktPMXIyWW5ic0sxNmdZTlVpdGtNUzh2MkUxalByZ1hQTmVjRnI0UFd5WGtCX2lpYkZwNW54ekZyRWllTUkzRnRlUUtLSE92WG0wb0VGSmgwRlcwdDhpVW1ieHlpOHlUeHlHcklVMUFyMXkzaFdlQzcxMHR1?oc=5",
           "sources": [
             "Google News"
@@ -5033,7 +5032,7 @@
         },
         {
           "id": "5f7b8066a21c8c22",
-          "title": "【預期差】CoWoS 上修機會藏在哪？片數之外，面積、材料與非台積電陣營才是下一個預期差 - uanalyze.com.tw",
+          "title": "【預期差】CoWoS 上修機會藏在哪？片數之外，面積、材料與非台積電陣營才是下一個預期差 - 優分析UAnalyze",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nX2JjdmNsVzg5M0RkNTV3VmVJNEs5QU1QTzJsZ3pOc0ptanF4cjVJbjdPaVZ6SFlhTUJXbThuZ0pHZkc5VXQ0dFg2ajBpRTlaU2lfN253?oc=5",
           "sources": [
             "Google News"
@@ -5213,7 +5212,7 @@
       "sources": [
         "MoneyDJ"
       ],
-      "count": 9,
+      "count": 11,
       "published_at": "2026-09-15T09:48:00+08:00",
       "industries": [],
       "source_types": [
@@ -5353,6 +5352,54 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWhWQ29DSDlZMnR5TTF3Y0s2Znc3eFZFeXJlYnNwT2NYVzE4bmJ2U1RTSld6U2h6bU9VTGhRUV9qMk0tcXA3WDVXYWVqTUtnMGlRQ1cydlNGYW9fT19tRzBOV25wRjVodElhRUg0dE5tUzE4Y1JKR1J0eGN5ZDVXQ1hWZnk4MmRfQkR2bEZHbFBGQms?oc=5",
           "source": "MoneyDJ",
           "published_at": "2026-09-14T10:28:38+08:00"
+        }
+      ]
+    },
+    {
+      "id": "ae1724931b5b40d8",
+      "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
+      "sources": [
+        "Google News"
+      ],
+      "count": 5,
+      "published_at": "2026-09-15T08:12:50+08:00",
+      "industries": [
+        "foundry"
+      ],
+      "source_types": [
+        "news"
+      ],
+      "members": [
+        {
+          "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-15T08:12:50+08:00"
+        },
+        {
+          "title": "4770 上品 — 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS1Z4NHp4U0hKOXN5NFZ6QnVWS1ZYQUlubm1BMmdScEVsYTV0MVhWdVljbHNqMkV2TUtqR2JuNTdhYWMtOUNneEpwRzl1SHdkdlRHUWhHOHhkM2JxQlHSAWNBVV95cUxPUGxCUGdIcVVtUnZ0Y0ZwWTI2dmRFd3Rzc2ltSEJkX1QzdGlwWVRhd3VyQ2VMdWkwTnZoT01HaGxqOS1wNjY5UFphTzJLb2NqWmttNzlEekU2MnhNQldQR2ZGaVU?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T19:59:32+08:00"
+        },
+        {
+          "title": "年報全方位解密與鑑識體檢--(4772) 台特化｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LS0ZEd1hFemY2NTBYSFRkMWwyYi1qa08wZUd4M1E1NVlyM0VrS3hJR0twUHEzaVZrWGJqSnJSZWVzWVdaVDdNOGg5UE0zb3p4enN2Yks4ZHBmRTJPZlg2QlNGZ9IBY0FVX3lxTE9LS0ZEd1hFemY2NTBYSFRkMWwyYi1qa08wZUd4M1E1NVlyM0VrS3hJR0twUHEzaVZrWGJqSnJSZWVzWVdaVDdNOGg5UE0zb3p4enN2Yks4ZHBmRTJPZlg2QlNGZw?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T19:55:32+08:00"
+        },
+        {
+          "title": "年報全方位解密與鑑識體檢：3413 京鼎｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhTU9yeThQNm95Mi0wNG5qVHlyTDNBUWRBYUc5QlpJeVA4VDIyMl9IM29NWENQeURLVENkNmZFMm00bWE5WmdEUEVzUXlZbGF4UzYxZkNzMXdNNlJWVmfSAWNBVV95cUxObjNmR2FEYXNnS25tN0tRMTM4V2hyakhmOFBWVWdteVVMVDRBSDI5dURsS1hYemlZOFFqNzR0d3I2enJpeVdWX1IzaFlQeFkzLS1WX1VvbG5PNjJMX1ZWUEYxVmc?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T19:48:05+08:00"
+        },
+        {
+          "title": "聯發科 (2454) 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - Vocus",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRVZkR1ppMG03WnpaUDFhQ2dYcDAtX2w1ZGVVQkNEOEQxcXpVVlJwbDk1T1JyTzdXWGVudVA3bmRkenQxMU1UREY5ZE1BNGJ5U3J3MThGTW5lX1hndm5MNHNORdIBY0FVX3lxTE9nRVZkR1ppMG03WnpaUDFhQ2dYcDAtX2w1ZGVVQkNEOEQxcXpVVlJwbDk1T1JyTzdXWGVudVA3bmRkenQxMU1UREY5ZE1BNGJ5U3J3MThGTW5lX1hndm5MNHNORQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T19:33:20+08:00"
         }
       ]
     },
@@ -5726,48 +5773,6 @@
       ]
     },
     {
-      "id": "ae1724931b5b40d8",
-      "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
-      "sources": [
-        "Google News"
-      ],
-      "count": 4,
-      "published_at": "2026-09-15T08:12:50+08:00",
-      "industries": [
-        "foundry"
-      ],
-      "source_types": [
-        "news"
-      ],
-      "members": [
-        {
-          "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuY9IBY0FVX3lxTE5fZ2c3bGdCTVhNelN3cXh0LWFsV01uWnh6dlBHUGJld0ZPV0Z3VFcybHlMLWNQbzNtd3NvUko5Y1F3VjhrZUs2ZHlPc2ZDd0ZGZlNORVcyVkhrci15eHlaa1ZuYw?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-15T08:12:50+08:00"
-        },
-        {
-          "title": "4770 上品 — 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS1Z4NHp4U0hKOXN5NFZ6QnVWS1ZYQUlubm1BMmdScEVsYTV0MVhWdVljbHNqMkV2TUtqR2JuNTdhYWMtOUNneEpwRzl1SHdkdlRHUWhHOHhkM2JxQlHSAWNBVV95cUxPUGxCUGdIcVVtUnZ0Y0ZwWTI2dmRFd3Rzc2ltSEJkX1QzdGlwWVRhd3VyQ2VMdWkwTnZoT01HaGxqOS1wNjY5UFphTzJLb2NqWmttNzlEekU2MnhNQldQR2ZGaVU?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T19:59:32+08:00"
-        },
-        {
-          "title": "年報全方位解密與鑑識體檢：3413 京鼎｜理柴知道:法說最速報! - 方格子 - vocus",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhTU9yeThQNm95Mi0wNG5qVHlyTDNBUWRBYUc5QlpJeVA4VDIyMl9IM29NWENQeURLVENkNmZFMm00bWE5WmdEUEVzUXlZbGF4UzYxZkNzMXdNNlJWVmfSAWNBVV95cUxObjNmR2FEYXNnS25tN0tRMTM4V2hyakhmOFBWVWdteVVMVDRBSDI5dURsS1hYemlZOFFqNzR0d3I2enJpeVdWX1IzaFlQeFkzLS1WX1VvbG5PNjJMX1ZWUEYxVmc?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T19:48:05+08:00"
-        },
-        {
-          "title": "聯發科 (2454) 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子 - vocus",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRVZkR1ppMG03WnpaUDFhQ2dYcDAtX2w1ZGVVQkNEOEQxcXpVVlJwbDk1T1JyTzdXWGVudVA3bmRkenQxMU1UREY5ZE1BNGJ5U3J3MThGTW5lX1hndm5MNHNORdIBY0FVX3lxTE9nRVZkR1ppMG03WnpaUDFhQ2dYcDAtX2w1ZGVVQkNEOEQxcXpVVlJwbDk1T1JyTzdXWGVudVA3bmRkenQxMU1UREY5ZE1BNGJ5U3J3MThGTW5lX1hndm5MNHNORQ?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T19:33:20+08:00"
-        }
-      ]
-    },
-    {
       "id": "7968ff898557a9bf",
       "title": "討論牆 | 金融股創新高該停利還是加碼？投資達人建議這樣操作 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSDdqT3ZLbFdPWmREMW5qdUo2LVRiZXBudDc4UVJEUFoyU0ZJQlhVaEI0ZjUybkZCc2JrUVNEbFdsSS1FSVdqS1hIalY3R3RPekUzQnh1UmZCU2RrTjdoOHRfWFQ?oc=5",
@@ -5810,42 +5815,44 @@
       ]
     },
     {
-      "id": "9128af6fa730bba8",
-      "title": "《強勢美股特報》DDOG,KR等2檔 - MoneyDJ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDZtN1JhYUFVenFPalo3TjM5TmlrVzJLdFdfcmhlRGlpdThYM1lUUWQ4NjVzdlhrb0didFlxRUc2bFdjTGo2c0Yta0VzdS14Vl95TE5FNVVOWElZX3BzUnhZOFhzaG5JZTlKc1JLNnF6dlBpQS1KYjFGQjdqMHZjMUtaeU8tZWVUNzJSaFh3eTU4QQ?oc=5",
+      "id": "58a54fa581d9b44b",
+      "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
       "sources": [
-        "MoneyDJ"
+        "Google News"
       ],
       "count": 4,
-      "published_at": "2026-09-15T02:02:00+08:00",
-      "industries": [],
+      "published_at": "2026-09-14T23:54:00+08:00",
+      "industries": [
+        "shipping"
+      ],
       "source_types": [
         "news"
       ],
       "members": [
         {
-          "title": "《強勢美股特報》DDOG,KR等2檔 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDZtN1JhYUFVenFPalo3TjM5TmlrVzJLdFdfcmhlRGlpdThYM1lUUWQ4NjVzdlhrb0didFlxRUc2bFdjTGo2c0Yta0VzdS14Vl95TE5FNVVOWElZX3BzUnhZOFhzaG5JZTlKc1JLNnF6dlBpQS1KYjFGQjdqMHZjMUtaeU8tZWVUNzJSaFh3eTU4QQ?oc=5",
-          "source": "MoneyDJ",
-          "published_at": "2026-09-15T02:02:00+08:00"
+          "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T23:54:00+08:00"
         },
         {
-          "title": "《強勢美股特報》CRWD,VRSK,TYL,INTU等6檔 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1ZzbGZLMmNGUHg2WVNkUVZyeXY4RmhFdklGWHZYZXZKOGMzSUFUckh0NU1xQUVsSEN3Y3hCSEYySDdscF8wTWlsQ3FUQ2dYUC1PVFZCUFk0a2pwc0JXQ2t1dkRaYW1KekVPT0lhejJveFYyNjBaVVF3eGp4Q3pqQkJQc1VRSVYzNzRESUw0SW0tZw?oc=5",
-          "source": "MoneyDJ",
-          "published_at": "2026-09-15T00:08:00+08:00"
+          "title": "威院地盤貨櫃辦公室冒煙 無人受傷 - 881903.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpdE9aUVBNVERzdjVPS2pET3RzNk8wT2JlVG9mMGNjSldFQzNWeV9vb3NfaXFURmdJMGRmTW03enlRRndudG0wSkZEeVFSN3JvX0J4TXpKQWzSAVhBVV95cUxQaXRPWlFQTVREc3Y1T0tqRE90czZPME9iZVRvZjBjY0pXRUMzVnlfb29zX2lxVEZnSTBkZk1tN3p5UUZ3bnRtMEpGRHlRUjdyb19CeE16SkFs?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T23:31:00+08:00"
         },
         {
-          "title": "《強勢美股特報》QLYS,PATH,GWRE,PEGA等10檔 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmFzSGRJbG1vN2gxWWVwTi10eW5wVzV2Q0cweEt6cWE1MXdXbVA4cEFKSThTekVadmZJZWtIRXFwWldudGszbzEtYzFLYlEzaWV2SFFZa2dCaHQyYkpnVGM4cnVBWHNVTFQwMlM2dEJMZngybzYzWS1vdDlWb1pLcENSNkJ0Szdna28tNkl6QVJEQQ?oc=5",
-          "source": "MoneyDJ",
-          "published_at": "2026-09-14T23:17:00+08:00"
+          "title": "沙田威爾斯醫院有地盤貨櫃辦公室冒煙 無人受傷 - bastillepost.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOQ0VqSGoweWtHdk9tUVI5Szd2X1VwaXBob3VwSFA0RE1GeFNoVWZmbVpUbUFONXVXdlNEZ3ZwYmpEazhRMnVvNlRBdWd0ZEJLOGtmUE8tUDhZNURuc1EyRVJaQmpWYVY4VHcyaExQRGVtX3NBYmJubVh0al9LRVVfanFSc0MtQmdCRlNORHF4aF9sRzA5YzRJb0xnUkJXNVFGR29veF8wUFhXR05EX3BQRy1DQno1Z3IyNFk2MXNiZDRDNUNCbEdvQUlWR191SXVYd08yZFR5MWhjOHo5RW1yaW00LUxYTmhRN1dINVN4bHZGSWVwU0Z3YWJYWU1oZWxnWmFqdEhybllBTW1GdFZqN1pQck5UY2RTWk1WbXpjdW55djVWSWZNMkVxOEQwS2ZldkYybDRESExkOHFlZHNyU29zT28yT2NVTG1FQTVJeXlqcjdpOWdsT3NBSEhTY0JzTkdN?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T23:03:54+08:00"
         },
         {
-          "title": "《強勢美股特報》PANW,COIN,IT,ADSK等8檔 - MoneyDJ",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTW5ETEdfYmx4RGlLVElsenE1em5HTWozUjVHRTJzMTVrd016TVFtMEtPOW1UTnBMOG4zRHZ5R0FHYkRKSXppSGJKZ2dpNF81Z1VRMXhDa0w2MVhCU3phTUY2VWtOamJIczZGSTJZd2w4TzlralZOcw?oc=5",
-          "source": "MoneyDJ",
-          "published_at": "2026-09-14T22:17:00+08:00"
+          "title": "沙田威爾斯醫院一個地盤貨櫃辦公室 晚上有濃煙冒出無人傷 - 香港電台新聞網",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CaXZRX21QaS12SVR2eHo4U05SMFBMbUlDa1dpSEd4SDVkVFViaFpVd0lOVDNzUXhmMFVzWkpnVXAwMUlKR2E4V09iSWVjUnBwajNPVXlqZkNFQWd5XzZZQWY4cVZzLWVISDJmSDVtTQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T23:00:00+08:00"
         }
       ]
     },
@@ -5931,7 +5938,7 @@
     },
     {
       "id": "2a36817ef63135a4",
-      "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - money.udn.com",
+      "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZmpDZFBucE15YkpXWDhTTjJoLXJpN3RuTE1qUzdlOXNOZXVVNnQwNjBMdmdjRnByU3lISkUxR2RDVkd3M08xcUVCcHgyUW1VY2otUXJKSDNhZ9IBX0FVX3lxTE8ySWU2Vk1oQkpLWVpVMXBteFdHMXVLQ3dHSGUxcmNlSFduc1pCSW50YlU0NmgwNU5hWXptOXZINy1CM3hRQ21hc3pXcXdpNnc1VHRkSkRCUHJQVEZkcVpn?oc=5",
       "sources": [
         "Google News"
@@ -5946,13 +5953,13 @@
       ],
       "members": [
         {
-          "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - money.udn.com",
+          "title": "康寧攜手群創布局光通訊領域 傳出已成為輝達、 Google 等大咖的夥伴 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZmpDZFBucE15YkpXWDhTTjJoLXJpN3RuTE1qUzdlOXNOZXVVNnQwNjBMdmdjRnByU3lISkUxR2RDVkd3M08xcUVCcHgyUW1VY2otUXJKSDNhZ9IBX0FVX3lxTE8ySWU2Vk1oQkpLWVpVMXBteFdHMXVLQ3dHSGUxcmNlSFduc1pCSW50YlU0NmgwNU5hWXptOXZINy1CM3hRQ21hc3pXcXdpNnc1VHRkSkRCUHJQVEZkcVpn?oc=5",
           "source": "Google News",
           "published_at": "2026-09-14T18:00:00+08:00"
         },
         {
-          "title": "康寧攜手群創布局光通訊領域 傳已成為輝達、 Google等大咖的夥伴 [經濟日報] - 富聯網",
+          "title": "康寧攜手群創布局光通訊領域 傳已成為輝達、 Google等大咖的夥伴 [經濟日報] - ww2.money-link.com.tw",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDNrZjA5ZDZKQ0YyYllJczIxclVZYXRxRUxJQy1HX1U4cWJkak1OOUxPdC1uNkhRWXZxZERDbi1EVVJ0Qlc3YnlneHV0QVZWWWVSWFhnUnBKYmZpQTlwcURqNEt1amhFc0VXTXJTZUpsQ3RtUS1EbkJaNWxOa0NTU0ZBLWlVUQ?oc=5",
           "source": "Google News",
           "published_at": "2026-09-14T10:28:12+08:00"
@@ -6146,6 +6153,42 @@
       ]
     },
     {
+      "id": "01402e7d2af8aa34",
+      "title": "大創綠能深化CPPA布局 攜手全球最大半導體封測廠共築低碳供應鏈 | 熱門亮點 | 商情 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0djQngtbmVWY3E1b2ZsU09jS3UyeU1UQ2kzeXZ3YlMzZnBMWk44X2xaY3hob1N1WEVETENtem9uLW01UHhBNzZxZUJiQkxEQmpFTzVmS0drMHJzbWxPcHJoWnNNSnZuYmNKWG1aQkVfM21CUXVSeHVOVTNZZVR6ZQ?oc=5",
+      "sources": [
+        "Google News"
+      ],
+      "count": 3,
+      "published_at": "2026-09-15T10:02:20+08:00",
+      "industries": [
+        "atp"
+      ],
+      "source_types": [
+        "news"
+      ],
+      "members": [
+        {
+          "title": "大創綠能深化CPPA布局 攜手全球最大半導體封測廠共築低碳供應鏈 | 熱門亮點 | 商情 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0djQngtbmVWY3E1b2ZsU09jS3UyeU1UQ2kzeXZ3YlMzZnBMWk44X2xaY3hob1N1WEVETENtem9uLW01UHhBNzZxZUJiQkxEQmpFTzVmS0drMHJzbWxPcHJoWnNNSnZuYmNKWG1aQkVfM21CUXVSeHVOVTNZZVR6ZQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-15T10:02:20+08:00"
+        },
+        {
+          "title": "大創綠能深化CPPA布局 攜手頂尖半導體封測大廠打造低碳供應鏈 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQR2tnSlpFcHJKT25jdldsOGVHUGQyN0VfaUoxVEJPVlI4MlMtSi1BNUhOQ25OMDkyZkh1ejJiN2RKUFZFZDBUMlBIWGl6eDJRQW9UdUxKUnRDRmlrc3ZRY1NYQ2hCVUdlcnVhV0VOR3FDbGVzYTljWThvNTg0V0dqdl9NakllQS11ZjhCay1BNHcxWjlDdVRrUHZNcm5LcnpyY1ZpVTdUOXQ2TExjQmlPM0hieUNOczM2dlhJSkQxY3VKMWFPVTcwYjItVmdqUFZpbm5kYS1FNU1KV0FTUU1RVGs4bWxoN2lxbF83TFdSaFowNHlrdm1iOUR6c3VlT3lhc3UxYWdJT1BWcnUzb0MxcVlzTzNHWlNJNHVBcDc2YzU3WEgxOGoxMXd4dnJOdTNFZ3B4UDJzZzFIalppZW00b3ExbnVDc1JEX2V2eHNfZ05lbzc0U05nZzE1NkwxWkNiSkpUdGtUSWhzd1BKR29FdWZ0Uy1TazJwSmhRYWxEX2x6b3NHRjl6QU5NU203bUtPblE?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T16:37:00+08:00"
+        },
+        {
+          "title": "大創綠能攜手全球最大半導體封測廠 共築低碳供應鏈 - allnews.tw",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tRjdDeHRJSjAzYWtrU0k1US1uU2Z1d0ZMWVI3RWJ2My13aXNPd2p6aTdBUGNVckV3blBjNlZBZXN2RVp1c0MtWQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T16:28:22+08:00"
+        }
+      ]
+    },
+    {
       "id": "074c6693190e0c74",
       "title": "AI 加持、半導體猛 韓 ICT 出口額飆增 1.6 倍、破紀錄",
       "url": "https://finance.technews.tw/2026/09/15/korea-ict-exports-1-6x-record-ai-semiconductor-boom",
@@ -6249,106 +6292,36 @@
       ]
     },
     {
-      "id": "58a54fa581d9b44b",
-      "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
+      "id": "3fa6ba45e0c62bb4",
+      "title": "《油價》供應擔憂升溫 NYMEX原油上漲1.3%-新聞內容-基金 - MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtjUE92UEpKMUt4dXJNZDlqNVZLQlgyWEhmV0R2SzFIVUpRTWlnVnppT2FjQ2lRNmdnSTZFa0pDRzQ4aHB1U09MNHNlUEloeG9UTWxZM3VVZVBPbUNkZlNKU21QYmRQRlJkYWVNZkJZVl9LSG5kX1VWZm9zQ1ptbVdhV0dQVWNlMFJiaGoxb3M?oc=5",
       "sources": [
-        "Google News"
+        "MoneyDJ"
       ],
       "count": 3,
-      "published_at": "2026-09-14T23:54:00+08:00",
-      "industries": [
-        "shipping"
-      ],
-      "source_types": [
-        "news"
-      ],
-      "members": [
-        {
-          "title": "威爾斯醫院重建工程地盤貨櫃起火已救熄 無人受傷 - 881903.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX2VNeVVVNk5VNzdRTGcwQVRLdzg3eGlUTGwxSFJmckZJYmNFcVAzX0ttbTE2cWN6S2k2RW9nTm5TMXE0bUwwSHRVVUdCYngxR21n0gFYQVVfeXFMTU1Sd25sZFhOZG5IbEkzSm16MzV0bWNDdTBnaWs0cmVHY3FOeGNOcFA5QUtIcE1QM1FLQnFhbHNWaEZHaVdoX2k5TVgwRHM5ZnB0RzZEcmx0dQ?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T23:54:00+08:00"
-        },
-        {
-          "title": "沙田威爾斯醫院有地盤貨櫃辦公室冒煙 無人受傷 - bastillepost.com",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOQ0VqSGoweWtHdk9tUVI5Szd2X1VwaXBob3VwSFA0RE1GeFNoVWZmbVpUbUFONXVXdlNEZ3ZwYmpEazhRMnVvNlRBdWd0ZEJLOGtmUE8tUDhZNURuc1EyRVJaQmpWYVY4VHcyaExQRGVtX3NBYmJubVh0al9LRVVfanFSc0MtQmdCRlNORHF4aF9sRzA5YzRJb0xnUkJXNVFGR29veF8wUFhXR05EX3BQRy1DQno1Z3IyNFk2MXNiZDRDNUNCbEdvQUlWR191SXVYd08yZFR5MWhjOHo5RW1yaW00LUxYTmhRN1dINVN4bHZGSWVwU0Z3YWJYWU1oZWxnWmFqdEhybllBTW1GdFZqN1pQck5UY2RTWk1WbXpjdW55djVWSWZNMkVxOEQwS2ZldkYybDRESExkOHFlZHNyU29zT28yT2NVTG1FQTVJeXlqcjdpOWdsT3NBSEhTY0JzTkdN?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T23:03:54+08:00"
-        },
-        {
-          "title": "沙田威爾斯醫院一個地盤貨櫃辦公室 晚上有濃煙冒出無人傷 - 香港電台新聞網",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CaXZRX21QaS12SVR2eHo4U05SMFBMbUlDa1dpSEd4SDVkVFViaFpVd0lOVDNzUXhmMFVzWkpnVXAwMUlKR2E4V09iSWVjUnBwajNPVXlqZkNFQWd5XzZZQWY4cVZzLWVISDJmSDVtTQ?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T23:00:00+08:00"
-        }
-      ]
-    },
-    {
-      "id": "53edb52f1636ba60",
-      "title": "盤中速報 - 邁威爾科技(MRVL-US)大跌6.13%，報221.63美元",
-      "url": "https://news.cnyes.com/news/id/6606270",
-      "sources": [
-        "鉅亨網·國際股"
-      ],
-      "count": 3,
-      "published_at": "2026-09-14T22:50:20+08:00",
+      "published_at": "2026-09-15T07:04:00+08:00",
       "industries": [],
       "source_types": [
         "news"
       ],
       "members": [
         {
-          "title": "盤中速報 - 邁威爾科技(MRVL-US)大跌6.13%，報221.63美元",
-          "url": "https://news.cnyes.com/news/id/6606270",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:50:20+08:00"
+          "title": "《油價》供應擔憂升溫 NYMEX原油上漲1.3%-新聞內容-基金 - MoneyDJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtjUE92UEpKMUt4dXJNZDlqNVZLQlgyWEhmV0R2SzFIVUpRTWlnVnppT2FjQ2lRNmdnSTZFa0pDRzQ4aHB1U09MNHNlUEloeG9UTWxZM3VVZVBPbUNkZlNKU21QYmRQRlJkYWVNZkJZVl9LSG5kX1VWZm9zQ1ptbVdhV0dQVWNlMFJiaGoxb3M?oc=5",
+          "source": "MoneyDJ",
+          "published_at": "2026-09-15T07:04:00+08:00"
         },
         {
-          "title": "盤中速報 - 邁威爾科技(MRVL-US)大跌6.23%，報221.38美元",
-          "url": "https://news.cnyes.com/news/id/6606237",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:48:18+08:00"
+          "title": "《油價》供應擔憂升溫 NYMEX原油上漲1.3%-台股 - MoneyDJ",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXRFeTVpQXVGUEhEOGs2V25aaU5rWkkwZTdQUVg2NFpTTWRoeEhwYS1DX0FkTjcyM2NIYlJCOE1mVVBJRUNSQi1VNDNNV2YxeC1rR3Q3VVFjRmlvTUphbWxubXhOS1VXUjFkQmZrSzVXR1AwSHFwVEZtbUNzRmZSeWtNTm1PU0JBTXc?oc=5",
+          "source": "MoneyDJ",
+          "published_at": "2026-09-15T06:15:19+08:00"
         },
         {
-          "title": "盤中速報 - 邁威爾科技(MRVL-US)大跌6.07%，報221.78美元",
-          "url": "https://news.cnyes.com/news/id/6606217",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:47:24+08:00"
-        }
-      ]
-    },
-    {
-      "id": "975627e3f8b993ea",
-      "title": "盤中速報 - 安謀控股公司(ARM-US)大跌6.88%，報246.59美元",
-      "url": "https://news.cnyes.com/news/id/6606269",
-      "sources": [
-        "鉅亨網·國際股"
-      ],
-      "count": 3,
-      "published_at": "2026-09-14T22:50:20+08:00",
-      "industries": [],
-      "source_types": [
-        "news"
-      ],
-      "members": [
-        {
-          "title": "盤中速報 - 安謀控股公司(ARM-US)大跌6.88%，報246.59美元",
-          "url": "https://news.cnyes.com/news/id/6606269",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:50:20+08:00"
-        },
-        {
-          "title": "盤中速報 - 安謀控股公司(ARM-US)大跌6.91%，報246.5美元",
-          "url": "https://news.cnyes.com/news/id/6606225",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:48:11+08:00"
-        },
-        {
-          "title": "盤中速報 - 安謀控股公司(ARM-US)大跌6.57%，報247.41美元",
-          "url": "https://news.cnyes.com/news/id/6606216",
-          "source": "鉅亨網·國際股",
-          "published_at": "2026-09-14T22:47:23+08:00"
+          "title": "《油價》供應擔憂升溫 NYMEX原油上漲1.3% - 頭條新聞 - 新聞 - MoneyDJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnNpcWp5Y2djMjB1NEphQkttT2xPNEVpUHpnRzFUTTBHV1FpMjJhdTFfZm1NdTVJcVZLZUk5VGxYTDExVGpCdVNKdlFmSVVVbUhyUDBBNGVHTXMzaTE4OUpPV1haOGZlc3kyeTlpVmJSdGliUFF2d085cTZhYndiLWRHajg3U0E?oc=5",
+          "source": "MoneyDJ",
+          "published_at": "2026-09-15T06:15:00+08:00"
         }
       ]
     },
@@ -6559,42 +6532,6 @@
       ]
     },
     {
-      "id": "2521572110d49c91",
-      "title": "大創綠能深化CPPA布局攜手全球最大半導體封測廠共築低碳供應鏈- 商情 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ySEdLazB5R3pTWVE4OE1oQnBrM3dTNWlOa2RBcURZZGJnZ2dzM1ExOHdxOHpkYk1qb2lpUG9NeDBXNXdOTnVIN1E2WDZZUTdXQzZBekx3d1J1bnpxeEJr?oc=5",
-      "sources": [
-        "Google News"
-      ],
-      "count": 3,
-      "published_at": "2026-09-14T17:02:00+08:00",
-      "industries": [
-        "atp"
-      ],
-      "source_types": [
-        "news"
-      ],
-      "members": [
-        {
-          "title": "大創綠能深化CPPA布局攜手全球最大半導體封測廠共築低碳供應鏈- 商情 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ySEdLazB5R3pTWVE4OE1oQnBrM3dTNWlOa2RBcURZZGJnZ2dzM1ExOHdxOHpkYk1qb2lpUG9NeDBXNXdOTnVIN1E2WDZZUTdXQzZBekx3d1J1bnpxeEJr?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T17:02:00+08:00"
-        },
-        {
-          "title": "大創綠能深化CPPA布局 攜手頂尖半導體封測大廠打造低碳供應鏈 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQR2tnSlpFcHJKT25jdldsOGVHUGQyN0VfaUoxVEJPVlI4MlMtSi1BNUhOQ25OMDkyZkh1ejJiN2RKUFZFZDBUMlBIWGl6eDJRQW9UdUxKUnRDRmlrc3ZRY1NYQ2hCVUdlcnVhV0VOR3FDbGVzYTljWThvNTg0V0dqdl9NakllQS11ZjhCay1BNHcxWjlDdVRrUHZNcm5LcnpyY1ZpVTdUOXQ2TExjQmlPM0hieUNOczM2dlhJSkQxY3VKMWFPVTcwYjItVmdqUFZpbm5kYS1FNU1KV0FTUU1RVGs4bWxoN2lxbF83TFdSaFowNHlrdm1iOUR6c3VlT3lhc3UxYWdJT1BWcnUzb0MxcVlzTzNHWlNJNHVBcDc2YzU3WEgxOGoxMXd4dnJOdTNFZ3B4UDJzZzFIalppZW00b3ExbnVDc1JEX2V2eHNfZ05lbzc0U05nZzE1NkwxWkNiSkpUdGtUSWhzd1BKR29FdWZ0Uy1TazJwSmhRYWxEX2x6b3NHRjl6QU5NU203bUtPblE?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T16:37:00+08:00"
-        },
-        {
-          "title": "大創綠能攜手全球最大半導體封測廠 共築低碳供應鏈 - 台灣民眾電子報",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tRjdDeHRJSjAzYWtrU0k1US1uU2Z1d0ZMWVI3RWJ2My13aXNPd2p6aTdBUGNVckV3blBjNlZBZXN2RVp1c0MtWQ?oc=5",
-          "source": "Google News",
-          "published_at": "2026-09-14T16:28:22+08:00"
-        }
-      ]
-    },
-    {
       "id": "d9e09ce48fc029b7",
       "title": "富強鑫跨足半導體先進封裝代理中科先峰玻璃基板設備| 產經 - 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjTC1VNnZ3R2tFdktCZmE3REpwX0dhUWNESTFnOE9LZ3UxbUJNb0lTYWJKbHlUQUtDMldTVk1OcXpFQWFhZEdRNV9fbW9PeE0waUtFMzhQOUNnZXcwRWc?oc=5",
@@ -6668,6 +6605,114 @@
       ]
     },
     {
+      "id": "3c377fb9fb98d362",
+      "title": "Corgi Quantum Computing 2x Daily ETF(XQTM) - K線圖分析(MA、KD、MACD、RSI) - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TTdacy1XWjhwVWVOQlptTHBYQXIyeE4zbWRRcTZKcUJKOW9qZTZCaW9mS3pTN1V6SzVscXUzQ01wS2NTMGlOUk1KUjJfNlpsSnVTakUyMzVYSzRLTDNEeE55SkxvRzZzbFpXeUpvTk9BUTQ?oc=5",
+      "sources": [
+        "Google News"
+      ],
+      "count": 3,
+      "published_at": "2026-09-14T10:07:47+08:00",
+      "industries": [
+        "quantum"
+      ],
+      "source_types": [
+        "news"
+      ],
+      "members": [
+        {
+          "title": "Corgi Quantum Computing 2x Daily ETF(XQTM) - K線圖分析(MA、KD、MACD、RSI) - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TTdacy1XWjhwVWVOQlptTHBYQXIyeE4zbWRRcTZKcUJKOW9qZTZCaW9mS3pTN1V6SzVscXUzQ01wS2NTMGlOUk1KUjJfNlpsSnVTakUyMzVYSzRLTDNEeE55SkxvRzZzbFpXeUpvTk9BUTQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T10:07:47+08:00"
+        },
+        {
+          "title": "Corgi Quantum Computing 2x Daily ETF(XQTM) - 研究報告與輝達概念股分析- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaX2Q5OFo4eVJfcVRwaWh2Y0RWUVVWVzg3ZlMxclNYLU9hYThHdWttSXBnTXRIVDFybEZEdTdNMi1TbEdEa1gwSjlvMVBWU09BVEk2VlpyOEFfUXpSd2lRdy1ybzFwdw?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T08:38:10+08:00"
+        },
+        {
+          "title": "Corgi Quantum Computing ETF(CQTM) - 最新新聞資訊與消息 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85XzZRZ3lIbW53SkI1TE9yejJoazZ4T3QtRU02UnlrRzhpYlU3cXF5RzdYbnMxR01rcVV3bTY3OGVVc01UaGRNejRMU0hfQ3J6c0NqSi1hQTlsS3NvdlhkSTBWSQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-12T12:27:01+08:00"
+        }
+      ]
+    },
+    {
+      "id": "e68d726f815b48bb",
+      "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 最新新聞資訊與消息 - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tOHc0MlNvOW1IblZ2UjFTd0pTSkNKcmMtTm4yNWdITDB1WVdIMUk3VTlXMXcweUgzbkZjdmZXbW1DOUQ4Z1dNcjh3ZU5IcDBCa3IxQnFmckJuVkpydWxfd0xNMA?oc=5",
+      "sources": [
+        "Google News"
+      ],
+      "count": 3,
+      "published_at": "2026-09-14T09:05:06+08:00",
+      "industries": [
+        "dram"
+      ],
+      "source_types": [
+        "news"
+      ],
+      "members": [
+        {
+          "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 最新新聞資訊與消息 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tOHc0MlNvOW1IblZ2UjFTd0pTSkNKcmMtTm4yNWdITDB1WVdIMUk3VTlXMXcweUgzbkZjdmZXbW1DOUQ4Z1dNcjh3ZU5IcDBCa3IxQnFmckJuVkpydWxfd0xNMA?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T09:05:06+08:00"
+        },
+        {
+          "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 研究報告與輝達概念股分析- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDUU1TZ2tmX28xaFFNTzA4YWRFTlZkX1VqeUlZSF9RbGVodERkUjZzcEYzcHZQaDU4NTVNcHNZUXpwd0J6UW54c1ZMdXFoSTl3Vmhxekt1VWFZOFZnZTJUcnVDSnJEQQ?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-13T17:00:00+08:00"
+        },
+        {
+          "title": "T-REX 2X Inverse DRAM Daily Target ETF(RAMZ) - 常見問題與關鍵問答 - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqM1FPUmVabVl6RlhtZUk3MEh6VzJIZFA1aExJcGVnVWtXc0plZXVRMFFpemtNSEZGcmhGeUd5cmk2WmJfOUFQZE9SeU9VWWtMZHVENWwxU3M1Y2duaDhURUtPbWVCX3c2?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-13T13:05:46+08:00"
+        }
+      ]
+    },
+    {
+      "id": "91b110ca4fa0460f",
+      "title": "3481 群創 - 群創布局光通訊領域 報捷 | 科技產業 | 產經 | 聯合新... - 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTlVHQkdQdlFIbTFNTU1VLTRaNG9ub3V3cDZHWG42QVN2UkxRVGh5d05pQmNrZTVYd3dSYmVkWnFNUjhfMTk5YVNpMkdaWjY3aUFRbVVicGM?oc=5",
+      "sources": [
+        "Google News"
+      ],
+      "count": 3,
+      "published_at": "2026-09-14T08:34:26+08:00",
+      "industries": [
+        "optical"
+      ],
+      "source_types": [
+        "news"
+      ],
+      "members": [
+        {
+          "title": "3481 群創 - 群創布局光通訊領域 報捷 | 科技產業 | 產經 | 聯合新... - 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTlVHQkdQdlFIbTFNTU1VLTRaNG9ub3V3cDZHWG42QVN2UkxRVGh5d05pQmNrZTVYd3dSYmVkWnFNUjhfMTk5YVNpMkdaWjY3aUFRbVVicGM?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T08:34:26+08:00"
+        },
+        {
+          "title": "群創布局光通訊領域報捷| 科技產業| 產經 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NaUJ4dzI5cEtIMXQ3TXZMSmZabTktWWZvS2l4aHZZWG9rM0hoWGJ6TmEzcWJXMm1ZTk9QMjhmdnprVWpRYVpQSE1xRl9ZNzFMTk5GN3R4U3hNdVNRdFlYNkp0OUJDZFdjZ3NQRzc2UUNmeXM?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-14T02:29:49+08:00"
+        },
+        {
+          "title": "群創布局光通訊領域 報捷 | 產業熱點 | 產業 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlhISDQ1RDhDcjlPS09pVk1aMUxrR2c5YWJkRHA0V3RyUy1IVTJLNVo1SDg4djNudGh1OFBkRTdwc29xVThGcjhIbllxMTREeUZRR3NFT2Q1dUxJSTdISzZFWExkR1RfNlFSZHlqY0FtSzcyX0wyYXlqd054YldreA?oc=5",
+          "source": "Google News",
+          "published_at": "2026-09-12T17:00:00+08:00"
+        }
+      ]
+    },
+    {
       "id": "4e301565dae9c574",
       "title": "〈財經週報-台股熱點〉AI ASIC市場發燒 矽智財族群前景看旺 - 自由財經",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dFc2YWlOSFFGS2hmaG9qMGlUbVRnNEl0THVockFKTktpUVpmNlZlNGVBeTRIRjhFNm9qakZzNE00MnRScWYtNmMyenhHdjZPQ3JXOE55bWJHYTTSAVtBVV95cUxPdXRXNmFpTkhRRktoZmhvajBpVG1UZzRJdEx1aHJBSk5LaVFaZjZWZTRlQXk0SEY4RTZvampGczRNNDJ0UnFmLTZjMnp4R3Y2T0NyVzhOeW1iR2E0?oc=5",
@@ -6701,45 +6746,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FQVY0RXcxLXBjb28yekwzMXNlTXBtLTlNdDhqRFlGQzA4b1Q1bU1WelI1UUkwX0NfeFh1YUZ1cy1xMTVXazZ6WVI0aWdhMmJoQVBUVThuZC1mUW1VR3djQWQxcTnSAWRBVV95cUxPRUFWNEV3MS1wY29vMnpMMzFzZU1wbS05TXQ4akRZRkMwOG9UNW1NVnpSNVFJMF9DX3hYdWFGdXMtcTE1V2s2ellSNGlnYTJiaEFQVFU4bmQtZlFtVUd3Y0FkMXE5?oc=5",
           "source": "Google News",
           "published_at": "2026-09-13T07:00:00+08:00"
-        }
-      ]
-    },
-    {
-      "id": "140e147f01856f29",
-      "title": "6282 康舒｜月營收年增 +38.5%",
-      "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=rev",
-      "sources": [
-        "證交所·月營收"
-      ],
-      "count": 3,
-      "published_at": "2026-09-14T00:00:00+08:00",
-      "industries": [
-        "ess",
-        "ev",
-        "power",
-        "robotics"
-      ],
-      "source_types": [
-        "official"
-      ],
-      "members": [
-        {
-          "title": "6282 康舒｜月營收年增 +38.5%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=rev",
-          "source": "證交所·月營收",
-          "published_at": "2026-09-14T00:00:00+08:00"
-        },
-        {
-          "title": "2308 台達電｜月營收年增 +34.9%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=rev",
-          "source": "證交所·月營收",
-          "published_at": "2026-09-14T00:00:00+08:00"
-        },
-        {
-          "title": "6443 元晶｜月營收年增 -23.0%",
-          "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6443&t=rev",
-          "source": "證交所·月營收",
-          "published_at": "2026-09-14T00:00:00+08:00"
         }
       ]
     }
