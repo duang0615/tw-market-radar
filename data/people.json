@@ -1,0 +1,13 @@
+[
+  {"name":"Jensen Huang","zh":"黃仁勳","type":"executive","org":"NVIDIA","topics":["gpu","ai-server","asic","hbm"],"url":""},
+  {"name":"Lisa Su","zh":"蘇姿丰","type":"executive","org":"AMD","topics":["gpu","adv-packaging","hbm"],"url":""},
+  {"name":"C.C. Wei","zh":"魏哲家","type":"executive","org":"台積電","topics":["foundry","cowos","adv-packaging"],"url":""},
+  {"name":"Dylan Patel","zh":"","type":"analyst","org":"SemiAnalysis","topics":["asic","hbm","ai-server","adv-packaging"],"url":""},
+  {"name":"Patrick Moorhead","zh":"","type":"analyst","org":"Moor Insights & Strategy","topics":["gpu","asic","ai-server"],"url":""},
+  {"name":"Jim Handy","zh":"","type":"analyst","org":"Objective Analysis","topics":["dram","nand","hbm"],"url":""},
+  {"name":"SemiAnalysis","zh":"","type":"research","org":"SemiAnalysis","topics":["asic","hbm","cowos","ai-server"],"url":""},
+  {"name":"TrendForce","zh":"集邦","type":"research","org":"TrendForce","topics":["dram","nand","hbm","foundry"],"url":""},
+  {"name":"TechInsights","zh":"","type":"research","org":"TechInsights","topics":["foundry","adv-packaging","semi-equip"],"url":""},
+  {"name":"Counterpoint Research","zh":"","type":"research","org":"Counterpoint","topics":["ic-design","networking"],"url":""},
+  {"name":"Omdia","zh":"","type":"research","org":"Omdia","topics":["dram","nand","optical"],"url":""}
+]

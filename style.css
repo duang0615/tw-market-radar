@@ -1,0 +1,113 @@
+:root{
+  --bg:#0b1220; --panel:#121b2e; --panel2:#18243c; --line:#24334f;
+  --tx:#e6edf7; --tx2:#93a4c0; --tx3:#64748b;
+  --hot:#ff6b4a; --warm:#f5a524; --cool:#4a9eff; --ok:#2fbf71; --bad:#ef5350;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--tx);min-height:100vh;
+     font-family:-apple-system,"Segoe UI","Microsoft JhengHei",sans-serif;font-size:14px}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px 70px}
+
+/* header */
+header{border-bottom:1px solid var(--line);background:linear-gradient(180deg,#101a2e,#0b1220);
+       padding:22px 0 16px;margin-bottom:18px}
+header .wrap{padding-bottom:0}
+h1{font-size:25px;letter-spacing:.5px}
+h1 .dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--hot);
+        margin-right:9px;vertical-align:middle;box-shadow:0 0 0 0 rgba(255,107,74,.7);
+        animation:pulse 2.4s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 11px rgba(255,107,74,0)}100%{box-shadow:0 0 0 0 rgba(255,107,74,0)}}
+.sub{color:var(--tx2);font-size:12.5px;margin-top:5px}
+.mkt{margin-top:12px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--hot);
+     border-radius:9px;padding:11px 14px;font-size:14.5px;line-height:1.6}
+
+/* 設定列 */
+.cfg{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:11px;font-size:12px;color:var(--tx2)}
+.cfg .sw{border-radius:20px;padding:2px 9px;font-weight:700}
+.cfg .sw.on{background:rgba(47,191,113,.16);color:var(--ok)}
+.cfg .sw.off{background:rgba(239,83,80,.16);color:var(--bad)}
+.cfg .vv{color:var(--tx);font-weight:600}
+.cfg .sp{flex:1}
+.cfg a.btn{border:1px solid var(--line);border-radius:7px;padding:4px 10px;color:var(--cool);font-weight:600}
+.cfg a.btn:hover{background:var(--panel2)}
+.cfg a.btn.go{background:var(--cool);border-color:var(--cool);color:#06101f}
+
+/* 工具列 */
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:16px 0 12px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:18px;padding:5px 12px;
+      font-size:12.5px;color:var(--tx2);cursor:pointer}
+.chip:hover{border-color:#36507d}
+.chip.on{background:var(--cool);border-color:var(--cool);color:#06101f;font-weight:700}
+input[type=search]{flex:1;min-width:180px;background:var(--panel);border:1px solid var(--line);
+       border-radius:8px;padding:8px 12px;color:var(--tx);font:inherit;font-size:13.5px}
+input[type=search]:focus{outline:2px solid #2b5b9e;outline-offset:-1px}
+.count{font-size:12px;color:var(--tx3);white-space:nowrap}
+
+h2{font-size:16.5px;margin:26px 0 11px;padding-left:10px;border-left:3px solid var(--cool)}
+h2 small{font-weight:400;font-size:12px;color:var(--tx3);margin-left:8px}
+
+/* 排行表 */
+.tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:11px;background:var(--panel)}
+table{width:100%;border-collapse:collapse;min-width:720px}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:11.5px;color:var(--tx3);font-weight:600;letter-spacing:.4px;background:var(--panel2)}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--panel2)}
+tbody tr:last-child td{border-bottom:none}
+td.rk{color:var(--tx3);width:38px}
+td.nm{font-weight:700;font-size:14.5px}
+td.nm .grp{font-weight:400;font-size:11px;color:var(--tx3);margin-left:6px}
+.bar{position:relative;height:6px;width:96px;background:#1d2b46;border-radius:4px;overflow:hidden;
+     display:inline-block;vertical-align:middle;margin-right:9px}
+.bar i{position:absolute;inset:0 auto 0 0;border-radius:4px}
+.hs{font-variant-numeric:tabular-nums;font-weight:700}
+.acc{font-variant-numeric:tabular-nums;font-weight:600}
+.up{color:var(--hot)} .down{color:var(--cool)} .flat{color:var(--tx2)}
+.cov{font-size:11.5px;color:var(--tx3)}
+
+/* 產業卡 */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card .ch{display:flex;align-items:baseline;gap:9px;margin-bottom:9px;flex-wrap:wrap}
+.card .ch b{font-size:16px}
+.card .ch .s{font-size:19px;font-weight:800;font-variant-numeric:tabular-nums}
+.card ul{list-style:none;margin:7px 0}
+.card ul li{font-size:13px;color:var(--tx2);line-height:1.65;padding-left:15px;position:relative}
+.card ul li:before{content:"▸";position:absolute;left:0;color:var(--cool)}
+.card .ev{font-size:12.5px;color:var(--tx2);margin-top:8px;line-height:1.6}
+.card .ev a:hover{text-decoration:underline;color:var(--tx)}
+.stk{display:flex;gap:5px;flex-wrap:wrap;margin-top:10px}
+.stk span{font-size:11.5px;border:1px solid var(--line);border-radius:6px;padding:3px 8px;color:var(--tx2)}
+.stk span.hi{border-color:var(--warm);color:var(--warm)}
+.tagai{font-size:10.5px;border-radius:5px;padding:2px 7px;background:#1d2b46;color:var(--tx3)}
+
+/* 新聞列 */
+.news{list-style:none}
+.news li{border:1px solid var(--line);background:var(--panel);border-radius:10px;
+         padding:11px 14px;margin-bottom:7px}
+.news .m{font-size:11.5px;color:var(--tx3);margin-bottom:4px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.news .m .badge{background:rgba(255,107,74,.15);color:var(--hot);border-radius:5px;padding:1px 7px;font-weight:700}
+.news .m .ind{background:#1d2b46;border-radius:5px;padding:1px 7px;color:var(--tx2)}
+.news .t{font-size:14.5px;font-weight:600;line-height:1.5}
+.news .t:hover{text-decoration:underline}
+
+/* 人物 */
+.ppl{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:9px}
+.ppl .p{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px}
+.ppl .p b{font-size:14px}
+.ppl .p .o{font-size:11.5px;color:var(--tx3);margin:2px 0 6px}
+.ppl .p .tp{font-size:11px;color:var(--tx2)}
+
+.empty{padding:34px 8px;text-align:center;color:var(--tx3);font-size:13.5px}
+.note{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--warm);
+      border-radius:9px;padding:11px 14px;font-size:12.5px;color:var(--tx2);line-height:1.7;margin-top:12px}
+footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+       font-size:11.5px;color:var(--tx3);line-height:1.9}
+
+@media(max-width:640px){
+  h1{font-size:21px}
+  .wrap{padding:0 14px 50px}
+  .grid{grid-template-columns:1fr}
+}

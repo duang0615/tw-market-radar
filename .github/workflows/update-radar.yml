@@ -1,0 +1,58 @@
+name: 更新市場雷達
+
+on:
+  schedule:
+    # 每小時醒來一次，真正要不要跑由 config.json 決定
+    #（auto_update 開關 + update_time 時間，都不用改這個檔）
+    - cron: "0 * * * *"
+  workflow_dispatch:        # 手動更新：按 Run workflow，或用網頁上的「立即更新」
+
+permissions:
+  contents: write
+
+concurrency:                # 同時只跑一個，避免兩個 job 互相蓋掉 commit
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 跑測試
+        run: |
+          python -m pip install --quiet pytest
+          python -m pytest tests -q
+
+      - name: 產生雷達（排程）
+        if: github.event_name == 'schedule'
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python scripts/build_radar.py --scheduled
+
+      - name: 產生雷達（手動）
+        if: github.event_name != 'schedule'
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python scripts/build_radar.py
+
+      - name: 有變動才 commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/radar.json data/news.json data/official.json data/social.json
+          if git diff --staged --quiet; then
+            echo "資料沒變動，跳過 commit"
+          else
+            git commit -m "雷達更新 $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Market Radar · 台股市場熱度雷達</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <h1><span class="dot"></span>AI Market Radar</h1>
+    <div class="sub" id="sub">載入中 …</div>
+    <div class="mkt" id="mkt">　</div>
+    <div class="cfg" id="cfg"></div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="tools">
+    <div class="chips" id="groups"></div>
+  </div>
+  <div class="tools">
+    <div class="chips" id="times"></div>
+    <input type="search" id="q" placeholder="搜尋產業、公司、關鍵字，例如 CoWoS、3661、液冷">
+    <span class="count" id="count"></span>
+  </div>
+
+  <h2>熱門產業排行 <small>依 72 小時熱度分數排序，不是依新聞時間</small></h2>
+  <div class="tblwrap">
+    <table>
+      <thead><tr>
+        <th>#</th><th>產業</th><th>Heat Score</th><th>加速度</th>
+        <th>新聞</th><th>社群</th><th>官方</th><th>資料完整度</th><th>狀態</th>
+      </tr></thead>
+      <tbody id="rank"></tbody>
+    </table>
+  </div>
+  <div class="empty" id="rankEmpty" hidden>沒有符合的產業。</div>
+
+  <h2>為什麼突然變熱 <small>點上面的產業列可以只看那一個</small></h2>
+  <div class="grid" id="why"></div>
+
+  <h2>最值得看的新聞 <small>同一件事的多家報導已經併成一則</small></h2>
+  <ul class="news" id="news"></ul>
+  <div class="empty" id="newsEmpty" hidden>這個條件下沒有新聞。</div>
+
+  <h2>值得追蹤的人與機構</h2>
+  <div class="ppl" id="ppl"></div>
+  <div class="note" id="pplNote"></div>
+
+  <footer>
+    <div id="foot"></div>
+    <div style="margin-top:8px">
+      熱度只代表「討論度」，不代表股價會漲。名單上的公司只是與該產業相關，
+      <b>不是推薦標的，也不構成任何投資建議</b>。<br>
+      新聞標題與連結屬各原網站所有，本站僅做索引與連結，不重製內文。
+    </div>
+  </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
