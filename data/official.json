@@ -1,10 +1,23 @@
 [
   {
-    "id": "353c5e59a48646d4",
-    "title": "6949 沛爾生醫*-創｜公告本公司股票面額由「新台幣10元」變更為「新台幣0.5元」， 公告期間：115年08月06日至115年11月05日。",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6949&t=mops",
+    "id": "d1a5b4008ee8ac4b",
+    "title": "2308 台達電｜代子公司DEISG公告董事會決議發行以所持有之Delta Electronics (Thailand) Public Company Lim",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T07:00:03+08:00",
+    "published_at": "2026-09-15T06:41:17+08:00",
+    "industries": [
+      "ess",
+      "ev",
+      "power",
+      "robotics"
+    ]
+  },
+  {
+    "id": "790b0b43fdb162cf",
+    "title": "2072 世紀風電｜公告本公司名稱由「世紀離岸風電設備股份有限公司」更名 為「世紀能源設備股份有限公司」，公告期間：115年8月26日至 115年11月25日。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2072&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T07:00:03+08:00",
     "industries": []
   },
   {
@@ -12,63 +25,348 @@
     "title": "1721 國慶科技｜公告本公司名稱由「三晃股份有限公司」更名為 「國慶科技股份有限公司」 ，公告期間：115年07月01日至115年9月30日。",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1721&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T07:00:03+08:00",
+    "published_at": "2026-09-15T07:00:03+08:00",
     "industries": []
   },
   {
-    "id": "790b0b43fdb162cf",
-    "title": "2072 世紀風電｜公告本公司名稱由「世紀離岸風電設備股份有限公司」更名 為「世紀能源設備股份有限公司」，公告期間：115年8月26日至 115年11月25日。",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2072&t=mops",
+    "id": "353c5e59a48646d4",
+    "title": "6949 沛爾生醫*-創｜公告本公司股票面額由「新台幣10元」變更為「新台幣0.5元」， 公告期間：115年08月06日至115年11月05日。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6949&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T07:00:03+08:00",
+    "published_at": "2026-09-15T07:00:03+08:00",
     "industries": []
   },
   {
-    "id": "0d6b7050a28dfe78",
-    "title": "2364 倫飛｜澄清新聞媒體報導",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2364&t=mops",
+    "id": "8eb89a7bed8d48c2",
+    "title": "6177 達麗｜本公司新增背書保證金額達新台幣三千萬元以上且達本公司最近期 財務報表淨值百分之五以上",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6177&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T11:36:20+08:00",
+    "published_at": "2026-09-15T13:38:56+08:00",
     "industries": []
   },
   {
-    "id": "f1c7fbf88e582e03",
-    "title": "3016 嘉晶｜本公司115年現金增資催繳公告",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3016&t=mops",
+    "id": "537b3a858d45a0ec",
+    "title": "1301 台塑｜公告本公司受邀參加永豐金證券法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1301&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T13:32:21+08:00",
+    "published_at": "2026-09-15T13:40:11+08:00",
     "industries": []
   },
   {
-    "id": "9780637fb195f811",
-    "title": "2548 華固｜公告本公司取得新北市新莊區土地",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2548&t=mops",
+    "id": "b8276f3b5ab5584c",
+    "title": "2606 裕民｜本公司受邀參加永豐金證券舉辦之2026 Q3產業論壇",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2606&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T13:56:48+08:00",
+    "published_at": "2026-09-15T13:44:48+08:00",
+    "industries": [
+      "shipping"
+    ]
+  },
+  {
+    "id": "08e440455a4e1f2c",
+    "title": "3042 晶技｜本公司115年8月自結損益公告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3042&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T13:44:51+08:00",
+    "industries": []
+  },
+  {
+    "id": "09d53fc66f0a98c1",
+    "title": "2493 揚博｜公告本公司召開法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2493&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T13:56:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "410e129484dec91e",
+    "title": "1558 伸興｜本公司受邀參加永豐金證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1558&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:12:56+08:00",
+    "industries": []
+  },
+  {
+    "id": "30e93c16046b9b5e",
+    "title": "1526 日馳｜公告本公司發言人異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1526&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:14:34+08:00",
+    "industries": []
+  },
+  {
+    "id": "202d63ecea6500fd",
+    "title": "2313 華通｜代子公司COMPEQ Technology (Thailand) CO., LTD.公告購買機器設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2313&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:17:58+08:00",
+    "industries": [
+      "ccl",
+      "high-speed"
+    ]
+  },
+  {
+    "id": "6879818009f1b595",
+    "title": "1626 艾美特-KY｜代子公司艾美特電器(深圳)有限公司依「公開發行公司資金貸與 及背書保證處理準則」第二十五條第一項第三款規定公告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1626&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:31:33+08:00",
+    "industries": []
+  },
+  {
+    "id": "6af7dd61d29065e0",
+    "title": "2637 慧洋-KY｜本集團新船40,000噸 MV Paiwan Hero交船加入營運",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2637&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:32:18+08:00",
+    "industries": [
+      "shipping"
+    ]
+  },
+  {
+    "id": "59edf4deb6115b23",
+    "title": "2890 永豐金｜永豐金控代子公司永豐(香港)保險經紀有限公司 公告115年股東會重要決議事項",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2890&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:40:01+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "2c907a28d65aae90",
+    "title": "2451 創見｜公告本公司申請展延115年國內第二次無擔保轉換公司債募集 期間",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2451&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:42:14+08:00",
+    "industries": []
+  },
+  {
+    "id": "a0cb62e3d1dae6e6",
+    "title": "3026 禾伸堂｜本公司取得營業用機器設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3026&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:49:57+08:00",
+    "industries": []
+  },
+  {
+    "id": "c97ac80ef1972e47",
+    "title": "4155 訊映｜代重要子公司PRODIGY DIABETES CARE, LLC. 公告董事會決議發放現金股利",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4155&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:50:37+08:00",
+    "industries": []
+  },
+  {
+    "id": "92fd2188c5d8d3d2",
+    "title": "7631 聚賢研發-創｜本公司受邀參加由宏遠證券所舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7631&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:51:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "27ca6f3344580948",
+    "title": "2889 國票金｜代子公司國票期貨股份有限公司公告115年第一次 股東臨時會重要決議事項",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2889&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:55:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "8c65cbd512f2f21a",
+    "title": "2387 精元｜本公司公告取得有價證券",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2387&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T14:57:29+08:00",
     "industries": []
   },
   {
     "id": "747782bd6e51ad1b",
-    "title": "3702 大聯大｜公告本公司受邀參加瑞銀證券(UBS)於9/15舉辦之UBS Taiwan Summit 2026",
+    "title": "3702 大聯大｜代子公司WPI INTERNATIONAL (HONG KONG) LIMITED 公告例行性股東常會重要決議事項",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3702&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T13:58:25+08:00",
+    "published_at": "2026-09-15T14:58:58+08:00",
     "industries": []
   },
   {
-    "id": "9a15bd81f0368e7a",
-    "title": "8103 瀚荃｜本公司受邀參加群益金鼎證券舉辦之法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8103&t=mops",
+    "id": "6e144e48cea1fa3f",
+    "title": "1319 東陽｜本公司受大和國泰證券邀請參加「Daiwa Consumer and Healthcare Conference 2026」",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1319&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:01:21+08:00",
+    "published_at": "2026-09-15T15:00:10+08:00",
+    "industries": [
+      "ccl"
+    ]
+  },
+  {
+    "id": "c9a4a66e167109ba",
+    "title": "3044 健鼎｜健鼎受邀參加瑞銀證券 2026 Taiwan Summit",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3044&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:03:52+08:00",
+    "industries": []
+  },
+  {
+    "id": "270abc2dc569ea0f",
+    "title": "2885 元大金｜公告本公司擬於民國115年9月18日受邀參加第一金證券舉行之線上投資人會議",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2885&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:08:11+08:00",
+    "industries": []
+  },
+  {
+    "id": "dca9a7899334e5a5",
+    "title": "3052 夆典｜公告「臺北市文山區興泰段都市更新事業計畫及權利變換計畫案」相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3052&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:18:14+08:00",
+    "industries": []
+  },
+  {
+    "id": "a001d6862a5c9c2a",
+    "title": "5522 遠雄｜本公司受邀參加康和證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5522&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:28:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "909707c20683b03f",
+    "title": "2881 富邦金｜公告本公司暨主要子公司115年8月合併自結損益",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2881&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:30:26+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "1685eba664fa2f06",
+    "title": "1604 聲寶｜公告本公司召開法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1604&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:41:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "73ec7a634879dd28",
+    "title": "6505 台塑化｜公告本公司受邀參加永豐金證券2026年第三季產業高峰論壇",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6505&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:42:47+08:00",
+    "industries": []
+  },
+  {
+    "id": "9743ef8d1ea0ee7b",
+    "title": "1532 勤美｜本公司代重要子公司璞真建設股份有限公司公告董事會決議 不發放115年上半年度股利",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1532&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:47:45+08:00",
+    "industries": []
+  },
+  {
+    "id": "4525f12562081e41",
+    "title": "1451 年興｜更正本公司115年8月衍生性商品交易資訊申報金額",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1451&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:53:13+08:00",
+    "industries": []
+  },
+  {
+    "id": "77fcd4b3418708fc",
+    "title": "7827 漢康-KY創｜公告本公司商務長(CBO)異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7827&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T15:58:52+08:00",
+    "industries": []
+  },
+  {
+    "id": "04c587d6ddb54b94",
+    "title": "4532 瑞智｜公告本公司召開法人說明會相關資訊",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4532&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:04:13+08:00",
+    "industries": []
+  },
+  {
+    "id": "8d19812e38f0739f",
+    "title": "5306 桂盟｜本公司董事會決議辦理私募普通股",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5306&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:09:45+08:00",
+    "industries": []
+  },
+  {
+    "id": "214d655c0f8a15ae",
+    "title": "2633 台灣高鐵｜公告本公司受邀參加115年9月16日元大證券舉辦之線上法人說明會(電話會議)",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2633&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:20:45+08:00",
+    "industries": []
+  },
+  {
+    "id": "4ba66abfb7eaedac",
+    "title": "2887 台新新光金｜本公司代子公司台新投信公告向新光人壽取得使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2887&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:24:52+08:00",
+    "industries": []
+  },
+  {
+    "id": "beb081d2c77914c9",
+    "title": "2546 根基｜代子公司冠和精密預鑄材料(股)公司公告取得土地",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2546&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:30:29+08:00",
+    "industries": []
+  },
+  {
+    "id": "58300c442b7dd286",
+    "title": "1702 南僑｜代子公司南僑食品集團(上海)股份有限公司公告召開2026年 半年度業績說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1702&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:33:41+08:00",
+    "industries": []
+  },
+  {
+    "id": "ec6705791c2b61d0",
+    "title": "3003 健和興｜公告本公司115年08月份自結損益",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3003&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:46:20+08:00",
+    "industries": []
+  },
+  {
+    "id": "ebdf58eac96bde8d",
+    "title": "3149 正達｜公告本公司115年度現金增資催繳期間屆滿暨股票發放事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3149&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:48:47+08:00",
+    "industries": []
+  },
+  {
+    "id": "5c2a624abb95d2bd",
+    "title": "1324 地球｜本公司受邀參加福邦證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1324&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:50:05+08:00",
+    "industries": []
+  },
+  {
+    "id": "5bdb03fb70430aba",
+    "title": "3701 大眾控｜代子公司廣上科技(廣州)股份有限公司公告董事會決議 召開2026年臨時股東大會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3701&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T16:50:08+08:00",
     "industries": []
   },
   {
     "id": "fdda4b4ff11892ac",
-    "title": "3711 日月光投控｜公告本公司將受邀參加「UBS Taiwan Summit 2026」之法說訊息",
+    "title": "3711 日月光投控｜代子公司台灣福雷電子(股)公司公告 向加旺系統科技股份有限公司取得供營業用之廠務工程",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3711&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:01:23+08:00",
+    "published_at": "2026-09-15T16:51:59+08:00",
     "industries": [
       "adv-packaging",
       "atp",
@@ -78,349 +376,129 @@
     ]
   },
   {
-    "id": "5c7c3f5813d49a58",
-    "title": "9942 茂順｜本公司受邀參加元大證券舉辦之線上法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9942&t=mops",
+    "id": "af2a3e1eaebd789c",
+    "title": "2239 英利-KY｜代子公司長春英利汽車工業股份有限公司公告召開2026年 半年度業績說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2239&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:01:50+08:00",
+    "published_at": "2026-09-15T16:53:42+08:00",
     "industries": []
   },
   {
-    "id": "47d58a5ec505690d",
-    "title": "1110 東泥｜本公司受邀參加元大證券舉辦之線上法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1110&t=mops",
+    "id": "d5925187ac3894c3",
+    "title": "2408 南亞科｜公告本公司取得廠務設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2408&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:22:06+08:00",
-    "industries": []
-  },
-  {
-    "id": "eab0360dd4fb10b3",
-    "title": "6757 台灣虎航｜本公司受邀參加群益金鼎證券舉辦之法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6757&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:30:08+08:00",
-    "industries": []
-  },
-  {
-    "id": "3bc131c9b924f764",
-    "title": "2611 志信｜本公司出售台北市中山區辦公室後續執行情形",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2611&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:32:52+08:00",
-    "industries": []
-  },
-  {
-    "id": "f1a768abf5577e0d",
-    "title": "1582 信錦｜公告本公司受邀參加群益金鼎證券舉辦「2026年第三季投資論壇」",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1582&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:33:27+08:00",
-    "industries": []
-  },
-  {
-    "id": "5bd293e71dc8be2f",
-    "title": "1516 川飛｜公告本公司董事長異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1516&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:42:11+08:00",
-    "industries": []
-  },
-  {
-    "id": "781512db08722b75",
-    "title": "4438 廣越｜代子公司金漢實業股份有限公司公告財會主管異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4438&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:42:32+08:00",
-    "industries": []
-  },
-  {
-    "id": "270abc2dc569ea0f",
-    "title": "2885 元大金｜元大金控代子公司元大證金公告 財務主管及會計主管異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2885&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:45:34+08:00",
+    "published_at": "2026-09-15T16:53:59+08:00",
     "industries": [
-      "finance"
+      "dram"
     ]
   },
   {
-    "id": "88730f202db292fa",
-    "title": "3481 群創｜代重要子公司Innolux Hong Kong Holding Limited 公告股東會重要決議事項",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3481&t=mops",
+    "id": "c497e8e2b1592b31",
+    "title": "3605 宏致｜代子公司龍翰科技(股)公司公告辦理減資變更登記完成",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3605&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T14:47:20+08:00",
+    "published_at": "2026-09-15T16:54:15+08:00",
     "industries": []
-  },
-  {
-    "id": "01c2ffd6aa8a6df2",
-    "title": "2305 全友｜因本公司有價證券於集中交易市場達公布注意交易資訊標準， 故公布相關財務業務等重大訊息，以利投資人區別瞭解",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2305&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:02:14+08:00",
-    "industries": []
-  },
-  {
-    "id": "f84c3a223645f1ca",
-    "title": "3229 晟鈦｜係因本公司有價證券於集中交易市場達公布注意交易資訊 標準，故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3229&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:03:01+08:00",
-    "industries": []
-  },
-  {
-    "id": "02769418f5f7f9e0",
-    "title": "9939 宏全｜本公司受邀參加群益金鼎證卷所舉辦之第三季投資論壇",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9939&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:15:09+08:00",
-    "industries": []
-  },
-  {
-    "id": "ae4d6e2ba7f40a4f",
-    "title": "9802 鈺齊-KY｜公告本公司受邀參加統一證券舉辦之法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9802&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:18:09+08:00",
-    "industries": []
-  },
-  {
-    "id": "364b913876b89ab9",
-    "title": "4764 雙鍵｜公告本公司115年現金增資收足股款暨增資基準日",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4764&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:26:19+08:00",
-    "industries": []
-  },
-  {
-    "id": "ecbc65715db8fa67",
-    "title": "2836 高雄銀｜公告本公司召開2026年第2季法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2836&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:40:20+08:00",
-    "industries": []
-  },
-  {
-    "id": "fa1b379fa7d6c19b",
-    "title": "6282 康舒｜公告受邀參加群益證券舉辦之投資論壇",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:41:49+08:00",
-    "industries": [
-      "ess"
-    ]
-  },
-  {
-    "id": "15ea511afc27f7d4",
-    "title": "5880 合庫金｜公告本公司暨主要子公司115年8月份自結合併盈餘",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5880&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:45:32+08:00",
-    "industries": [
-      "finance"
-    ]
   },
   {
     "id": "29fcd06d46ee752a",
     "title": "5215 科嘉-KY｜代子公司蘇州嘉吉/科德/嘉財/艾普來/百宏/嘉皇/嘉駿 公告一年內累積處分同一有價證券達實收資本額20%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5215&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:47:06+08:00",
+    "published_at": "2026-09-15T16:54:46+08:00",
     "industries": []
   },
   {
-    "id": "59edf4deb6115b23",
-    "title": "2890 永豐金｜永豐金控代子公司永豐金證券公告董事會決議辦理 私募普通股現金增資（補充115/07/01公告）",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2890&t=mops",
+    "id": "2ee1e960820923d2",
+    "title": "2891 中信金｜(補充公告)代子公司中國信託綜合證券(股)公司公告變更向關係人 取得使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2891&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:49:44+08:00",
+    "published_at": "2026-09-15T16:59:06+08:00",
     "industries": [
       "finance"
     ]
   },
   {
-    "id": "a5ffbe60f9613ee0",
-    "title": "1477 聚陽｜本公司受邀參加永豐金證券舉辦之2026年第三季產業投資論壇",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1477&t=mops",
+    "id": "708e3dd07db08641",
+    "title": "2438 翔耀｜代重要子公司勁耘科技股份有限公司公告董事會 台南廠區資產活化處分案不動產案決議事項",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2438&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:50:49+08:00",
+    "published_at": "2026-09-15T17:08:58+08:00",
     "industries": []
   },
   {
-    "id": "dd8ded1088577453",
-    "title": "1802 台玻｜代子公司台玻成都玻璃有限公司公告處分理財商品",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1802&t=mops",
+    "id": "97b94f8e5069998f",
+    "title": "1219 福壽｜公告本公司將於115年9月16日召開法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1219&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:50:51+08:00",
+    "published_at": "2026-09-15T17:11:36+08:00",
+    "industries": []
+  },
+  {
+    "id": "a8a6f093a9fbbd18",
+    "title": "6834 天二科技｜公告本公司115年現金增資認股基準日等相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6834&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:13:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "9b85d922e95e230b",
+    "title": "8466 美吉吉-KY｜代子公司美吉吉國際企業股份有限公司公告 減資基準日",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8466&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:14:24+08:00",
+    "industries": []
+  },
+  {
+    "id": "695be718c074bf68",
+    "title": "3031 佰鴻｜本公司受邀參加中國信託證券線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3031&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:16:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "c8398fdac4e3c74a",
+    "title": "2884 玉山金｜玉山金控代子公司三商美邦人壽公告內部稽核主管異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2884&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:17:48+08:00",
     "industries": [
       "finance"
     ]
-  },
-  {
-    "id": "076e63727adc4f30",
-    "title": "9933 中鼎｜本公司代子公司中鼎海外有限公司公告新增 資金貸與金額達公開發行公司資金貸與及背書保證處理準則 第二十二條第一項第三款標準",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9933&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T15:54:21+08:00",
-    "industries": []
-  },
-  {
-    "id": "26271ce5a4139de0",
-    "title": "9938 百和｜公告本公司115年8月份自結合併損益相關資訊",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9938&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:00:03+08:00",
-    "industries": []
-  },
-  {
-    "id": "d5925187ac3894c3",
-    "title": "2408 南亞科｜本公司受邀參加UBS Taiwan Summit 2026",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2408&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:01:35+08:00",
-    "industries": [
-      "dram"
-    ]
-  },
-  {
-    "id": "6b2959d8824f7050",
-    "title": "2409 友達｜公告本公司將參加UBS舉辦之「Taiwan Summit 2026」",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2409&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:04:44+08:00",
-    "industries": []
-  },
-  {
-    "id": "917ea79f488bd1fc",
-    "title": "6928 攸泰科技｜公告本公司財務主管異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6928&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:14:30+08:00",
-    "industries": []
-  },
-  {
-    "id": "b08b56980ca1edf7",
-    "title": "3054 立萬利｜本公司受邀參加元大證券舉辦之線上法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3054&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:16:09+08:00",
-    "industries": []
-  },
-  {
-    "id": "669c4ddbaf2b18ed",
-    "title": "1464 得力｜公告本公司召開法說會相關資訊",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1464&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:28:39+08:00",
-    "industries": []
-  },
-  {
-    "id": "7806082f18adaa0e",
-    "title": "2882 國泰金｜公告本公司暨主要子公司115年08月自結合併稅後損益",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2882&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:30:02+08:00",
-    "industries": [
-      "finance"
-    ]
-  },
-  {
-    "id": "35fea6abdf0a7dc1",
-    "title": "2886 兆豐金｜公告本公司暨主要子公司115年8月份自結合併盈餘",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2886&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:30:17+08:00",
-    "industries": [
-      "finance"
-    ]
-  },
-  {
-    "id": "8c255a0d6c13d2ea",
-    "title": "2539 櫻花建｜公告本公司董事長訂定除權息基準日及相關事宜 （補充說明）",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2539&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:32:59+08:00",
-    "industries": []
-  },
-  {
-    "id": "dcd6536f46e57e7b",
-    "title": "6272 驊陞｜代重要子公司江蘇驊盛車用電子(股)公司公告董事會決議召開 2026年第2次臨時股東會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6272&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:38:22+08:00",
-    "industries": []
-  },
-  {
-    "id": "db84fc6adfef3298",
-    "title": "1315 達新｜本公司取得南亞科普通股股票公告",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1315&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:39:46+08:00",
-    "industries": []
-  },
-  {
-    "id": "d38031b4ea8def97",
-    "title": "2312 金寶｜本公司受邀參加第一金證券2026年第三季投資論壇",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2312&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:40:54+08:00",
-    "industries": []
-  },
-  {
-    "id": "5f10f3cd0f00c7f5",
-    "title": "4104 佳醫｜公告本公司受統一證券邀請舉辦公開法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4104&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:48:21+08:00",
-    "industries": []
-  },
-  {
-    "id": "46d1f4f6bc25a7bd",
-    "title": "6754 匯僑設計｜代子公司匯僑設計興業股份有限公司依「公開發行公司資金 貸與及背書保證處理準則」第二十五條第一項第四款規定公告",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6754&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:51:25+08:00",
-    "industries": []
-  },
-  {
-    "id": "61ce52dc560dba14",
-    "title": "3037 欣興｜本公司受邀參加UBS舉辦之UBS Taiwan Summit 2026",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3037&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:54:40+08:00",
-    "industries": [
-      "pcb"
-    ]
-  },
-  {
-    "id": "a001d6862a5c9c2a",
-    "title": "5522 遠雄｜代子公司遠雄營造公告董事會決議115年上半年度不分派股利",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5522&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T16:59:02+08:00",
-    "industries": []
   },
   {
     "id": "43f920507b310774",
-    "title": "2323 中環｜公告本公司處分有價證券",
+    "title": "2323 中環｜公告本公司取得有價證券",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2323&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:19:34+08:00",
+    "published_at": "2026-09-15T17:20:28+08:00",
     "industries": []
   },
   {
-    "id": "19797507dd7199f4",
-    "title": "2462 良得電｜公告本公司內部稽核主管異動案",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2462&t=mops",
+    "id": "b3e90fa57191ed18",
+    "title": "1795 美時｜代子公司Alvogen Korea Holdings Ltd. 公告增資其子公司",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1795&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:21:02+08:00",
+    "published_at": "2026-09-15T17:32:19+08:00",
+    "industries": []
+  },
+  {
+    "id": "f04a42b3832dbc57",
+    "title": "3045 台灣大｜公告處分(轉租)一筆使用權資產予台灣固網(股)公司",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3045&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:35:24+08:00",
     "industries": []
   },
   {
     "id": "7ed55f31dbaf355d",
-    "title": "2317 鴻海｜代子公司富聯裕展科技（深圳）有限公司公告取得廠房之使用權資產",
+    "title": "2317 鴻海｜代重要子公司Best Behaviour Holdings Limited-BVI公告 董事會決議現金減資",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2317&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:24:13+08:00",
+    "published_at": "2026-09-15T17:37:13+08:00",
     "industries": [
       "ai-server",
       "gpu",
@@ -428,148 +506,172 @@
     ]
   },
   {
-    "id": "f718537f4dda4ead",
-    "title": "8163 達方｜代子公司蘇州達方電子有限公司公告資金貸與 蘇州達宇電能科技有限公司",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8163&t=mops",
+    "id": "176138c1fd686ef7",
+    "title": "1808 潤隆｜公告本公司現金減資換發股票作業計畫及減資換票基準日等 相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1808&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:27:59+08:00",
+    "published_at": "2026-09-15T17:41:50+08:00",
     "industries": []
   },
   {
-    "id": "dafee69e83721b8d",
-    "title": "2908 特力｜代子公司中欣實業股份有限公司依「公開發行公司資金貸與及 背書保證處理準則」第二十五條第一項第三款及第四款規定公告",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2908&t=mops",
+    "id": "264a35202d4e7839",
+    "title": "1734 杏輝｜本公司受邀參加國票綜合證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1734&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:29:10+08:00",
+    "published_at": "2026-09-15T17:43:11+08:00",
     "industries": []
   },
   {
-    "id": "4ba66abfb7eaedac",
-    "title": "2887 台新新光金｜公告本公司暨主要子公司115年8月份合併自結業績資料",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2887&t=mops",
+    "id": "08aff5d6e4cfdfac",
+    "title": "2547 日勝生｜公告本公司董事會決議設置永續發展委員會暨委任委員會成員",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2547&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:30:12+08:00",
+    "published_at": "2026-09-15T17:46:01+08:00",
+    "industries": []
+  },
+  {
+    "id": "35fea6abdf0a7dc1",
+    "title": "2886 兆豐金｜代本公司之子公司兆豐期貨股份有限公司公告現金增資認股 基準日相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2886&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T17:46:46+08:00",
     "industries": [
       "finance"
     ]
   },
   {
-    "id": "368b6ed91cdff3a9",
-    "title": "4958 臻鼎-KY｜代子公司PENG SHEN TECHNOLOGY (THAILAND) CO., LTD.公告取得機器設備",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4958&t=mops",
+    "id": "095dc85e613513e4",
+    "title": "3714 富采｜公告本公司辦理現金減資已完成實收資本額變更登記",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3714&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:36:14+08:00",
+    "published_at": "2026-09-15T17:50:28+08:00",
     "industries": []
   },
   {
-    "id": "5460ce474be8a92f",
-    "title": "2474 可成｜公告本公司買回股份金額達新台幣三億元以上",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2474&t=mops",
+    "id": "93d67d962e815613",
+    "title": "8131 福懋科｜本公司受邀參加國票綜合證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8131&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:39:45+08:00",
-    "industries": []
-  },
-  {
-    "id": "9900173fe8d66b55",
-    "title": "6919 康霈*｜本公司新藥CBL-514注射劑之樞紐三期臨床試驗CBL-0302向 美國FDA申請之試驗變更案已通過FDA IND 30天審閱期。",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6919&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:42:08+08:00",
-    "industries": []
-  },
-  {
-    "id": "7fe6ff5b96d90b58",
-    "title": "4137 麗豐-KY｜代子公司:Hong Kong Chlitina International Limited、 (BVI) Chlitina Internat",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4137&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:50:31+08:00",
-    "industries": []
-  },
-  {
-    "id": "d1a5b4008ee8ac4b",
-    "title": "2308 台達電｜本公司受邀參加法人說明會之相關資訊",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:53:12+08:00",
-    "industries": [
-      "ess",
-      "ev",
-      "power",
-      "robotics"
-    ]
-  },
-  {
-    "id": "510ae3668d0a3ade",
-    "title": "6005 群益證｜公告本公司總經理異動業經主管機關認可",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6005&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:59:09+08:00",
+    "published_at": "2026-09-15T17:58:16+08:00",
     "industries": []
   },
   {
     "id": "012f6245ce507f49",
-    "title": "8404 百和興業-KY｜公告本公司115年8月份自結合併損益相關資訊",
+    "title": "8404 百和興業-KY｜公告本公司新增資金貸與金額達「公開發行公司資金貸與 及背書保證處理準則」第22條第1項第3款之規定",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8404&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T17:59:48+08:00",
+    "published_at": "2026-09-15T18:00:42+08:00",
     "industries": []
   },
   {
-    "id": "0637ad3a87f37ec2",
-    "title": "3712 永崴投控｜公告本公司發言人異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3712&t=mops",
+    "id": "7806082f18adaa0e",
+    "title": "2882 國泰金｜代子公司國泰投信公告新任總經理資格審查業經主管機關 核准",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2882&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T18:08:35+08:00",
-    "industries": []
-  },
-  {
-    "id": "2ee1e960820923d2",
-    "title": "2891 中信金｜代子公司中國信託商業銀行美國子行CTBC Bank Corp. (USA)公告授信資產 之轉讓。",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2891&t=mops",
-    "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T18:14:19+08:00",
+    "published_at": "2026-09-15T18:01:01+08:00",
     "industries": [
       "finance"
     ]
   },
   {
+    "id": "9e5ba97d09689ba5",
+    "title": "6239 力成｜更正及補充115年8月7日公告本公司與Broadcom於新加坡共同設立 面板級先進封裝業務製造之合資公司",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6239&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:05:23+08:00",
+    "industries": [
+      "adv-packaging",
+      "atp"
+    ]
+  },
+  {
+    "id": "fa3921a35ff89e0e",
+    "title": "2923 鼎固-KY｜代子公司Wealthy Joy Co., Ltd.公告累計處分有價證券達新台幣三億元",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2923&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:16:39+08:00",
+    "industries": []
+  },
+  {
+    "id": "c203a3ff3d786ea0",
+    "title": "4927 泰鼎-KY｜代重要子公司Apex Circuit (Thailand) Co., Ltd. 公告資金貸與他人超限改善計畫",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4927&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:20:59+08:00",
+    "industries": []
+  },
+  {
+    "id": "706d279fc7bcf0ac",
+    "title": "2762 世界健身-KY｜代子公司World Fitness Asia Limited 公告盈餘分配",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2762&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:29:13+08:00",
+    "industries": []
+  },
+  {
+    "id": "b64773205140e920",
+    "title": "2545 皇翔｜公告取得有價證券",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2545&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:29:25+08:00",
+    "industries": []
+  },
+  {
+    "id": "d5bde7fa0422208e",
+    "title": "4763 材料*-KY｜公告本公司115年第一次股東臨時會重要決議事項",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4763&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T18:32:38+08:00",
+    "industries": []
+  },
+  {
     "id": "c9185e2574e13ffd",
-    "title": "7769 鴻勁｜本公司代子公司Top Vintage International Ltd.公告取得固定收益證券",
+    "title": "7769 鴻勁｜公告本公司受邀參加瑞銀證券(UBS)舉辦之UBS Taiwan Summit 2026",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7769&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T18:38:31+08:00",
+    "published_at": "2026-09-15T18:33:54+08:00",
     "industries": []
   },
   {
-    "id": "8c9ef729f28b33a0",
-    "title": "6431 光麗-KY｜依「公開發行公司資金貸與及背書保證處理準則」 第二十二條第一項第一款公告申報",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6431&t=mops",
+    "id": "90920d6fdfee1ceb",
+    "title": "3041 揚智｜公告本公司董事會決議重編 114年第三季及第四季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3041&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T19:10:19+08:00",
+    "published_at": "2026-09-15T19:28:32+08:00",
     "industries": []
   },
   {
-    "id": "93cafaf0b2fd31ba",
-    "title": "4961 天鈺｜代重要子公司深圳天德鈺科技股份有限公司公告處分有價證券",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4961&t=mops",
+    "id": "dcd5fe39087c00ff",
+    "title": "3715 定穎投控｜代子公司Dynamic Technology Manufacturing (Thailand)公告取得設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3715&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T19:51:41+08:00",
-    "industries": []
+    "published_at": "2026-09-15T20:57:33+08:00",
+    "industries": [
+      "pcb"
+    ]
   },
   {
-    "id": "8c06fc365767d939",
-    "title": "8442 威宏-KY｜公告威宏-KY股份有限公司第二次有擔保轉換公司債 (簡稱：威宏二KY，代碼：84422)因於115年10月19日到期 暨訂於115年10月2",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8442&t=mops",
+    "id": "1c78d546a8121f7e",
+    "title": "2618 長榮航｜本公司發生網路資安事件",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2618&t=mops",
     "source": "證交所·重大訊息",
-    "published_at": "2026-09-14T21:38:07+08:00",
+    "published_at": "2026-09-15T21:26:32+08:00",
     "industries": []
   },
   {
-    "id": "e63b4a0933f84f06",
-    "title": "4747 強生*｜公告本公司股票面額由「新台幣10元」變更為「新台幣5元」 公告期間：115年7月22日至115年10月21日",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4747&t=mops",
+    "id": "1cde54a0b326adc6",
+    "title": "2645 長榮航太｜公司部分資訊系統遭受網路攻擊",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2645&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-09-15T21:28:58+08:00",
+    "industries": []
+  },
+  {
+    "id": "fc2b2940f7e6a873",
+    "title": "6576 逸達｜公告本公司財務主管、公司治理主管及發言人異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6576&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T07:00:03+08:00",
+    "published_at": "2026-09-14T06:57:28+08:00",
     "industries": []
   },
   {
@@ -577,7 +679,7 @@
     "title": "5904 寶雅*｜公告本公司股票面額變更由「新台幣10元」變更為「新台幣1元」 公告期間：115年7月2日至115年10月1日",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5904&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T07:00:03+08:00",
+    "published_at": "2026-09-14T07:00:03+08:00",
     "industries": []
   },
   {
@@ -585,7 +687,15 @@
     "title": "4530 天意能創｜公告本公司名稱由「宏易創新國際股份有限公司」 更名為「天意能創股份有限公司」， 公告期間：115年7月09日至115年10月08日。",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4530&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T07:00:04+08:00",
+    "published_at": "2026-09-14T07:00:03+08:00",
+    "industries": []
+  },
+  {
+    "id": "e63b4a0933f84f06",
+    "title": "4747 強生*｜公告本公司股票面額由「新台幣10元」變更為「新台幣5元」 公告期間：115年7月22日至115年10月21日",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4747&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T07:00:03+08:00",
     "industries": []
   },
   {
@@ -593,23 +703,321 @@
     "title": "8472 納維康｜公告本公司名稱由「夠麻吉股份有限公司」更名為 「納維康生技股份有限公司」，公告期間：115年6月29日 至115年9月28日",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8472&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T07:00:04+08:00",
+    "published_at": "2026-09-14T07:00:03+08:00",
     "industries": []
   },
   {
-    "id": "0832714c5b2a051f",
-    "title": "8099 大世科｜公告本公司會計主管異動",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8099&t=mops",
+    "id": "57801354cf9b4e54",
+    "title": "7717 萊德光電-KY｜本公司受邀參加富邦證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7717&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T10:54:47+08:00",
+    "published_at": "2026-09-14T09:06:58+08:00",
     "industries": []
   },
   {
-    "id": "0b36692b1ca3372e",
-    "title": "2754 亞洲藏壽司｜公告本公司將於115年9月14日召開法人說明會",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2754&t=mops",
+    "id": "7b3f24404a79011b",
+    "title": "4529 淳紳｜公告本公司預估未來三個月現金收支情形及銀行可使用 融資額度情形。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4529&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-09-13T15:56:22+08:00",
+    "published_at": "2026-09-14T14:02:45+08:00",
+    "industries": []
+  },
+  {
+    "id": "ca12c78ace16a045",
+    "title": "3624 光頡｜本公司有價證券近期股價異常，故公告相關 訊息以利投資人區別瞭解。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3624&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T14:33:41+08:00",
+    "industries": []
+  },
+  {
+    "id": "51fdfbc85854fa59",
+    "title": "5013 強新｜代重要子公司蘇州強新合金材料科技有限公司公告 股利發放日",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5013&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T14:50:44+08:00",
+    "industries": []
+  },
+  {
+    "id": "8bd2251e70ae5965",
+    "title": "3260 威剛｜公告本公司現金增資認股基準日相關事宜(補充發行價格)",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3260&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:19:18+08:00",
+    "industries": [
+      "nand"
+    ]
+  },
+  {
+    "id": "ee51e672caa41f0a",
+    "title": "7744 崴寶｜本公司資訊安全事件說明",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7744&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:24:41+08:00",
+    "industries": []
+  },
+  {
+    "id": "4217e66d6d233844",
+    "title": "6510 精測｜本公司受邀參加美銀證券舉辦之「2026 Asia Pacific Conference」",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6510&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:25:19+08:00",
+    "industries": []
+  },
+  {
+    "id": "ddfcc0a29e8f8b65",
+    "title": "8358 金居｜公告本公司董事會決議通過擬於東南亞設立子公司案",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8358&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:27:16+08:00",
+    "industries": []
+  },
+  {
+    "id": "4408f5c1a6a95606",
+    "title": "6492 生華科｜公告本公司現金增資股款催繳期間屆滿暨股票發放事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6492&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:32:19+08:00",
+    "industries": []
+  },
+  {
+    "id": "836fc0a4289ad320",
+    "title": "6523 達爾膚｜本公司受邀參加台新證券舉辦之法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6523&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:56:38+08:00",
+    "industries": []
+  },
+  {
+    "id": "f4200b556af3ec4f",
+    "title": "8040 九暘｜公告本公司業務主管異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8040&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T15:56:38+08:00",
+    "industries": []
+  },
+  {
+    "id": "a2b8996cbd78171f",
+    "title": "4903 聯光通｜代重要子公司台鋼工程股份有限公司公告決議114年度盈餘分派",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4903&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:00:43+08:00",
+    "industries": []
+  },
+  {
+    "id": "7e3e3852b1222a66",
+    "title": "4416 三圓｜公告本公司本週到期票據、應償還借款及利息等相關資訊",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4416&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:05:22+08:00",
+    "industries": []
+  },
+  {
+    "id": "5009d8acaca88b11",
+    "title": "4173 久裕｜本公司受統一證券邀請舉辦線上公開法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4173&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:14:07+08:00",
+    "industries": []
+  },
+  {
+    "id": "c67dc0842040f629",
+    "title": "4417 金洲｜本公司受邀參加凱基證券舉辦之線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4417&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:16:51+08:00",
+    "industries": []
+  },
+  {
+    "id": "ee6252f22e79a917",
+    "title": "4749 新應材｜本公司受邀參加機構投資人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4749&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:19:23+08:00",
+    "industries": [
+      "semi-equip"
+    ]
+  },
+  {
+    "id": "184a6230db4c48f8",
+    "title": "8176 智捷｜更正公告本公司董事會決議辦理減資彌補虧損 (畸零股處理事宜)",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8176&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:27:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "461eced712e8801c",
+    "title": "4907 富宇｜本公司建案停工說明。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4907&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:32:21+08:00",
+    "industries": []
+  },
+  {
+    "id": "4cfa5aae48e11fe6",
+    "title": "4138 曜亞｜公告本公司受統一證券邀請舉辦公開法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4138&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:34:26+08:00",
+    "industries": []
+  },
+  {
+    "id": "89ae1b13ee5fd0cf",
+    "title": "6217 中探針｜代重要子公司東莞中探探針有限公司依「公開發行公司資金 貸與及背書保證處理準則」第25條第1項第4款規定公告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6217&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:41:19+08:00",
+    "industries": []
+  },
+  {
+    "id": "8c7e670595f0cf21",
+    "title": "6111 光聚晶電｜(更正公告)本公司重編民國一一四年第二季及第三季合併財務 報告之董事會召開日期。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6111&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T16:46:03+08:00",
+    "industries": []
+  },
+  {
+    "id": "ffb3c2941d6602f3",
+    "title": "4442 竣邦-KY｜公告本公司受邀參加櫃買中心舉辦之115/09/16「業績發表會」",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4442&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:03:00+08:00",
+    "industries": []
+  },
+  {
+    "id": "c65fdd435ff4d140",
+    "title": "5301 寶得利｜公告本公司115年08月之銀行融資額度及使用情形與未來三個 月之現金收支及資金調度狀況暨股東往來餘額",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5301&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:11:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "addb5b4f1a2a7098",
+    "title": "3259 鑫創｜公告本公司新任稽核主管",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3259&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:12:25+08:00",
+    "industries": []
+  },
+  {
+    "id": "cbec891816d5b7ef",
+    "title": "6187 萬潤｜本公司受邀參加「UBS Taiwan Summit 2026」",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6187&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:26:26+08:00",
+    "industries": [
+      "quantum",
+      "semi-equip"
+    ]
+  },
+  {
+    "id": "7524782322dece8b",
+    "title": "8936 國統｜公告本公司國內第五次有擔保轉換公司債轉換價格調整",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8936&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:30:24+08:00",
+    "industries": []
+  },
+  {
+    "id": "492b6e03bd90d2fd",
+    "title": "8044 網家｜代子公司二十一世紀數位科技(股)公司公告對拍付國際資訊(股) 公司達公開發行公司資金貸與及背書保證處理準則第二十二條 第一項第三款規定",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8044&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:31:05+08:00",
+    "industries": []
+  },
+  {
+    "id": "394abca50fad8714",
+    "title": "4538 大詠城｜公告本公司取得私募基金",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4538&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:33:18+08:00",
+    "industries": []
+  },
+  {
+    "id": "ddeef58b123d0845",
+    "title": "5274 信驊｜公告本公司董事會決議與供應商簽訂產能採購合約",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5274&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:36:01+08:00",
+    "industries": []
+  },
+  {
+    "id": "190ec2b712413cde",
+    "title": "7805 威聯通｜公告本公司董事會通過向關係人取得使用權資產(續租辦公室)",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7805&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:48:24+08:00",
+    "industries": []
+  },
+  {
+    "id": "eaa497b025a2ef92",
+    "title": "7842 天能綠電｜公告本公司第一次買回庫藏股執行完畢",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7842&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:50:21+08:00",
+    "industries": []
+  },
+  {
+    "id": "098b4f3489c35cda",
+    "title": "6488 環球晶｜公告本公司義大利Novara廠火災事件補充說明",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6488&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T17:52:03+08:00",
+    "industries": [
+      "foundry",
+      "hbm"
+    ]
+  },
+  {
+    "id": "286242831fb331e9",
+    "title": "6840 東研信超｜本公司受邀參加永豐金證券2026年第三季產業高峰論壇",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6840&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T18:06:48+08:00",
+    "industries": []
+  },
+  {
+    "id": "ebbdc66a0ec43542",
+    "title": "3141 晶宏｜代重要子公司超核感科技股份有限公司公告減資變更登記完成",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3141&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T18:32:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "8f8a23e09eb039fd",
+    "title": "5903 全家｜公告本公司受邀參加宏遠證券舉辦之線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5903&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T18:43:15+08:00",
+    "industries": []
+  },
+  {
+    "id": "60a5ec560814067d",
+    "title": "6725 矽科宏晟｜公告本公司背書保證⾦額達「公開發⾏公司 資⾦貸與及背書保證處理準則」第⼆⼗五條 第⼀項第四款之公告標準",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6725&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T18:48:23+08:00",
+    "industries": []
+  },
+  {
+    "id": "50c662cba5cbeb25",
+    "title": "5227 立凱-KY｜代子公司台灣立凱電能科技股份有限公司公告取得使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5227&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T18:59:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "f0c72c7832d667ae",
+    "title": "3631 晟楠｜代子公司晟裕科技股份有限公司公告決議辦理現金增資",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3631&t=mops",
+    "source": "櫃買·重大訊息",
+    "published_at": "2026-09-14T23:15:34+08:00",
     "industries": []
   },
   {
@@ -617,7 +1025,7 @@
     "title": "3006 晶豪科｜月營收年增 +605.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3006&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "dram",
       "hbm"
@@ -628,7 +1036,7 @@
     "title": "2408 南亞科｜月營收年增 +560.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2408&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "dram"
     ]
@@ -638,7 +1046,7 @@
     "title": "2344 華邦電｜月營收年增 +289.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2344&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "dram",
       "nand"
@@ -649,7 +1057,7 @@
     "title": "3661 世芯-KY｜月營收年增 +273.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3661&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "asic"
     ]
@@ -659,7 +1067,7 @@
     "title": "6515 穎崴｜月營收年增 +233.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6515&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "atp"
     ]
@@ -669,7 +1077,7 @@
     "title": "2382 廣達｜月營收年增 +177.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2382&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server"
     ]
@@ -679,7 +1087,7 @@
     "title": "3231 緯創｜月營收年增 +166.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3231&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server"
     ]
@@ -689,7 +1097,7 @@
     "title": "2360 致茂｜月營收年增 +156.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2360&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "cowos",
       "semi-equip"
@@ -700,7 +1108,7 @@
     "title": "2383 台光電｜月營收年增 +129.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2383&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ccl"
     ]
@@ -710,7 +1118,7 @@
     "title": "3443 創意｜月營收年增 +111.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3443&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "asic",
       "ic-design"
@@ -721,7 +1129,7 @@
     "title": "4977 眾達-KY｜月營收年增 +106.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4977&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "optical"
     ]
@@ -731,7 +1139,7 @@
     "title": "6213 聯茂｜月營收年增 +97.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6213&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ccl"
     ]
@@ -741,7 +1149,7 @@
     "title": "3653 健策｜月營收年增 +90.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3653&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "cooling"
     ]
@@ -751,7 +1159,7 @@
     "title": "6196 帆宣｜月營收年增 +83.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6196&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "cowos"
     ]
@@ -761,7 +1169,7 @@
     "title": "6285 啟碁｜月營收年增 +81.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6285&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "networking"
     ]
@@ -771,7 +1179,7 @@
     "title": "2368 金像電｜月營收年增 +76.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2368&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "pcb"
     ]
@@ -781,9 +1189,19 @@
     "title": "6770 力積電｜月營收年增 +76.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6770&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "foundry"
+    ]
+  },
+  {
+    "id": "0595b05a55ef090e",
+    "title": "2882 國泰金｜月營收年增 -69.5%",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2882&t=rev",
+    "source": "證交所·月營收",
+    "published_at": "2026-09-15T00:00:00+08:00",
+    "industries": [
+      "finance"
     ]
   },
   {
@@ -791,7 +1209,7 @@
     "title": "2615 萬海｜月營收年增 +65.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2615&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "shipping"
     ]
@@ -801,7 +1219,7 @@
     "title": "6869 雲豹能源｜月營收年增 +63.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6869&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "optical"
     ]
@@ -811,7 +1229,7 @@
     "title": "2316 楠梓電｜月營收年增 +61.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2316&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "pcb"
     ]
@@ -821,7 +1239,7 @@
     "title": "2345 智邦｜月營收年增 +59.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2345&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "networking"
     ]
@@ -831,7 +1249,7 @@
     "title": "3033 威健｜月營收年增 +56.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3033&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "power"
     ]
@@ -841,7 +1259,7 @@
     "title": "3037 欣興｜月營收年增 +56.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3037&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "pcb"
     ]
@@ -851,7 +1269,7 @@
     "title": "2609 陽明｜月營收年增 +56.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2609&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "shipping"
     ]
@@ -861,7 +1279,7 @@
     "title": "3017 奇鋐｜月營收年增 +54.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3017&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server",
       "cooling"
@@ -872,7 +1290,7 @@
     "title": "3665 貿聯-KY｜月營收年增 +54.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3665&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ev",
       "high-speed"
@@ -883,7 +1301,7 @@
     "title": "2330 台積電｜月營收年增 +53.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2330&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "adv-packaging",
       "cowos",
@@ -898,7 +1316,7 @@
     "title": "2317 鴻海｜月營收年增 +52.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2317&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server",
       "gpu",
@@ -910,7 +1328,7 @@
     "title": "6669 緯穎｜月營收年增 +50.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6669&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server"
     ]
@@ -920,7 +1338,7 @@
     "title": "2603 長榮｜月營收年增 +48.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2603&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "shipping"
     ]
@@ -930,7 +1348,7 @@
     "title": "3711 日月光投控｜月營收年增 +45.7%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3711&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "adv-packaging",
       "atp",
@@ -944,7 +1362,7 @@
     "title": "1597 直得｜月營收年增 +45.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1597&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "robotics"
     ]
@@ -954,7 +1372,7 @@
     "title": "2454 聯發科｜月營收年增 +44.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2454&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ic-design"
     ]
@@ -964,7 +1382,7 @@
     "title": "1590 亞德客-KY｜月營收年增 +43.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1590&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "robotics"
     ]
@@ -974,7 +1392,7 @@
     "title": "2049 上銀｜月營收年增 +42.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2049&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "robotics"
     ]
@@ -984,7 +1402,7 @@
     "title": "8046 南電｜月營收年增 +40.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8046&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "pcb"
     ]
@@ -994,7 +1412,7 @@
     "title": "3189 景碩｜月營收年增 +40.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3189&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "pcb"
     ]
@@ -1004,7 +1422,7 @@
     "title": "6282 康舒｜月營收年增 +38.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6282&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ess"
     ]
@@ -1014,7 +1432,7 @@
     "title": "2356 英業達｜月營收年增 +35.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2356&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ai-server"
     ]
@@ -1024,7 +1442,7 @@
     "title": "2637 慧洋-KY｜月營收年增 +35.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2637&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "shipping"
     ]
@@ -1034,7 +1452,7 @@
     "title": "2308 台達電｜月營收年增 +34.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2308&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ess",
       "ev",
@@ -1047,7 +1465,7 @@
     "title": "5269 祥碩｜月營收年增 -32.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5269&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "asic",
       "nand"
@@ -1058,7 +1476,7 @@
     "title": "3023 信邦｜月營收年增 +32.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3023&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "high-speed"
     ]
@@ -1068,7 +1486,7 @@
     "title": "2449 京元電子｜月營收年增 +31.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2449&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "adv-packaging",
       "atp"
@@ -1079,7 +1497,7 @@
     "title": "2303 聯電｜月營收年增 +30.7%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2303&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "foundry"
     ]
@@ -1089,7 +1507,7 @@
     "title": "3035 智原｜月營收年增 +29.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3035&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "asic",
       "ic-design"
@@ -1100,7 +1518,7 @@
     "title": "6805 富世達｜月營收年增 +29.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6805&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ev"
     ]
@@ -1110,7 +1528,7 @@
     "title": "3704 合勤控｜月營收年增 +28.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3704&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "networking"
     ]
@@ -1120,7 +1538,7 @@
     "title": "2379 瑞昱｜月營收年增 +28.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2379&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ic-design"
     ]
@@ -1130,7 +1548,7 @@
     "title": "3034 聯詠｜月營收年增 +26.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3034&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ic-design"
     ]
@@ -1140,7 +1558,7 @@
     "title": "6526 達發｜月營收年增 +26.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6526&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "asic",
       "ic-design"
@@ -1151,7 +1569,7 @@
     "title": "2421 建準｜月營收年增 +26.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2421&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "cooling"
     ]
@@ -1161,7 +1579,7 @@
     "title": "2231 為升｜月營收年增 -25.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2231&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ev"
     ]
@@ -1171,7 +1589,7 @@
     "title": "2412 中華電｜月營收年增 +25.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2412&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "networking"
     ]
@@ -1181,7 +1599,7 @@
     "title": "2301 光寶科｜月營收年增 +25.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2301&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "power"
     ]
@@ -1191,7 +1609,7 @@
     "title": "6239 力成｜月營收年增 +24.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6239&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "adv-packaging",
       "atp"
@@ -1202,7 +1620,7 @@
     "title": "3413 京鼎｜月營收年增 +23.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3413&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "semi-equip"
     ]
@@ -1212,7 +1630,7 @@
     "title": "6443 元晶｜月營收年增 -23.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6443&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": [
       "ess"
     ]
@@ -1222,7 +1640,7 @@
     "title": "1438 三地開發｜月營收年增 +41420.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1438&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1230,7 +1648,15 @@
     "title": "1808 潤隆｜月營收年增 +33032.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1808&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
+    "industries": []
+  },
+  {
+    "id": "e777601cc45b4c16",
+    "title": "2905 三商｜月營收年增 +7187.4%",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2905&t=rev",
+    "source": "證交所·月營收",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1238,7 +1664,7 @@
     "title": "1456 怡華｜月營收年增 +6526.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1456&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1246,7 +1672,7 @@
     "title": "5525 順天｜月營收年增 +1699.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5525&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1254,7 +1680,7 @@
     "title": "8926 台汽電｜月營收年增 +1263.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8926&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1262,7 +1688,7 @@
     "title": "7740 熙特爾-創｜月營收年增 +869.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7740&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1270,7 +1696,7 @@
     "title": "7610 聯友金屬-創｜月營收年增 +852.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7610&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1278,7 +1704,7 @@
     "title": "2258 鴻華先進-創｜月營收年增 +726.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2258&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1286,7 +1712,7 @@
     "title": "2348 海悅｜月營收年增 +540.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2348&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1294,7 +1720,7 @@
     "title": "3708 上緯投控｜月營收年增 +534.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3708&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1302,7 +1728,7 @@
     "title": "2509 全坤建｜月營收年增 +510.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2509&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1310,7 +1736,7 @@
     "title": "2465 麗臺｜月營收年增 +383.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2465&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1318,7 +1744,7 @@
     "title": "2059 川湖｜月營收年增 +344.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2059&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1326,7 +1752,7 @@
     "title": "3266 昇陽｜月營收年增 +307.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3266&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1334,7 +1760,7 @@
     "title": "2451 創見｜月營收年增 +275.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2451&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1342,7 +1768,7 @@
     "title": "4967 十銓｜月營收年增 +275.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4967&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1350,7 +1776,7 @@
     "title": "2419 仲琦｜月營收年增 +245.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2419&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1358,7 +1784,7 @@
     "title": "2305 全友｜月營收年增 +240.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2305&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1366,7 +1792,7 @@
     "title": "3135 凌航｜月營收年增 +237.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3135&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1374,7 +1800,7 @@
     "title": "2923 鼎固-KY｜月營收年增 +219.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2923&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1382,7 +1808,7 @@
     "title": "2337 旺宏｜月營收年增 +218.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2337&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1390,7 +1816,7 @@
     "title": "6691 洋基工程｜月營收年增 +213.7%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6691&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1398,7 +1824,7 @@
     "title": "6541 泰福-KY｜月營收年增 +210.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6541&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1406,7 +1832,7 @@
     "title": "6550 北極星藥業-KY｜月營收年增 +202.6%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6550&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1414,7 +1840,7 @@
     "title": "4934 太極｜月營收年增 +193.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4934&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1422,7 +1848,7 @@
     "title": "6933 AMAX-KY｜月營收年增 +191.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6933&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1430,7 +1856,7 @@
     "title": "5533 皇鼎｜月營收年增 +189.4%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5533&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1438,7 +1864,7 @@
     "title": "4119 旭富｜月營收年增 +187.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4119&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1446,7 +1872,7 @@
     "title": "6431 光麗-KY｜月營收年增 +185.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6431&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1454,7 +1880,7 @@
     "title": "9946 三發地產｜月營收年增 +185.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=9946&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1462,7 +1888,7 @@
     "title": "8271 宇瞻｜月營收年增 +177.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8271&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1470,7 +1896,7 @@
     "title": "7730 暉盛-創｜月營收年增 +167.7%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7730&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1478,7 +1904,7 @@
     "title": "6949 沛爾生醫*-創｜月營收年增 +164.7%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6949&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1486,7 +1912,7 @@
     "title": "6885 全福生技｜月營收年增 +157.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6885&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1494,7 +1920,7 @@
     "title": "8112 至上｜月營收年增 +154.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8112&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1502,7 +1928,7 @@
     "title": "6657 華安｜月營收年增 +153.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6657&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1510,7 +1936,7 @@
     "title": "3167 大量｜月營收年增 +153.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3167&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1518,7 +1944,7 @@
     "title": "6442 光聖｜月營收年增 +152.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6442&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1526,7 +1952,7 @@
     "title": "7750 新代｜月營收年增 +151.1%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7750&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1534,7 +1960,7 @@
     "title": "6531 愛普*｜月營收年增 +150.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6531&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1542,7 +1968,7 @@
     "title": "3041 揚智｜月營收年增 +143.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3041&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1550,7 +1976,7 @@
     "title": "1423 利華｜月營收年增 +140.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1423&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1558,7 +1984,7 @@
     "title": "2548 華固｜月營收年增 +139.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2548&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1566,7 +1992,7 @@
     "title": "6225 天瀚｜月營收年增 +139.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6225&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1574,7 +2000,7 @@
     "title": "6672 騰輝電子-KY｜月營收年增 +133.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6672&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1582,7 +2008,7 @@
     "title": "6215 和椿｜月營收年增 +132.8%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6215&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1590,7 +2016,7 @@
     "title": "7631 聚賢研發-創｜月營收年增 +132.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7631&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1598,7 +2024,7 @@
     "title": "3018 隆銘綠能｜月營收年增 +130.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3018&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1606,7 +2032,7 @@
     "title": "2438 翔耀｜月營收年增 +127.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2438&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1614,7 +2040,7 @@
     "title": "6589 台康生技｜月營收年增 +125.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6589&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1622,7 +2048,7 @@
     "title": "1418 東華｜月營收年增 +123.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1418&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1630,7 +2056,7 @@
     "title": "6937 天虹｜月營收年增 +123.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6937&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1638,7 +2064,7 @@
     "title": "2347 聯強｜月營收年增 +122.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2347&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1646,7 +2072,7 @@
     "title": "6706 惠特｜月營收年增 +120.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6706&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1654,7 +2080,7 @@
     "title": "3706 神達｜月營收年增 +119.9%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3706&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1662,7 +2088,7 @@
     "title": "6152 百一｜月營收年增 +118.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6152&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1670,7 +2096,7 @@
     "title": "2425 承啟｜月營收年增 +118.5%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2425&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1678,7 +2104,7 @@
     "title": "6834 天二科技｜月營收年增 +114.3%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6834&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1686,7 +2112,7 @@
     "title": "1340 勝悅-KY｜月營收年增 +114.2%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1340&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1694,23 +2120,7 @@
     "title": "6715 嘉基｜月營收年增 +113.0%",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6715&t=rev",
     "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
-    "industries": []
-  },
-  {
-    "id": "836fa852ad69dea7",
-    "title": "8996 高力｜月營收年增 +112.8%",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8996&t=rev",
-    "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
-    "industries": []
-  },
-  {
-    "id": "ad25dd555cf19537",
-    "title": "7795 長廣｜月營收年增 +111.5%",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=7795&t=rev",
-    "source": "證交所·月營收",
-    "published_at": "2026-09-14T00:00:00+08:00",
+    "published_at": "2026-09-15T00:00:00+08:00",
     "industries": []
   },
   {
@@ -1719,6 +2129,14 @@
     "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/函_台期企字第1150800576號_公告附件.pdf",
     "source": "期交所·公告",
     "published_at": "2026-09-15T09:19:42+08:00",
+    "industries": []
+  },
+  {
+    "id": "ed450e36c5864cc2",
+    "title": "有關期貨交易輔助人變更委任期貨商及簽訂委任契約作業相 關規定，請依說明辦理，請查照。",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/台期輔字第1150002920號.pdf",
+    "source": "期交所·公告",
+    "published_at": "2026-09-15T17:12:25+08:00",
     "industries": []
   },
   {
@@ -1743,6 +2161,14 @@
     "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/函文.pdf",
     "source": "期交所·公告",
     "published_at": "2026-09-15T09:21:50+08:00",
+    "industries": []
+  },
+  {
+    "id": "25e5a01a90351424",
+    "title": "台股交投熱絡，社群詐騙趁勢而起，期交所呼籲民眾慎防偽 冒期貨商及營業員",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/反詐新聞稿202609_final.pdf",
+    "source": "期交所·新聞稿",
+    "published_at": "2026-09-15T14:36:06+08:00",
     "industries": []
   },
   {
