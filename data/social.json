@@ -1,210 +1,198 @@
 [
   {
-    "id": "d3837afcf153c337",
-    "title": "[新聞] Anthropic宣稱連兩季獲利",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789516345.A.71E.html",
+    "id": "f96febb0600bc53f",
+    "title": "[新聞] 12月漲定了？台電累虧4千億 精算應漲12.",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789859746.A.2B9.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-16T07:52:25+08:00",
+    "published_at": "2026-09-20T07:15:46+08:00",
+    "industries": [
+      "heavy-electric"
+    ]
+  },
+  {
+    "id": "830bb88d1f682e49",
+    "title": "Re: [新聞] Gemini駭入三家公司，此為Google AI首次突破限制的事件",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789838150.A.012.html",
+    "source": "PTT·Stock",
+    "published_at": "2026-09-20T01:15:50+08:00",
     "industries": []
   },
   {
-    "id": "fef0d5a3e0c2d5fc",
-    "title": "[新聞] 和亞智慧擁競爭優勢 上櫃兩天股價漲近1.2",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789516256.A.805.html",
+    "id": "0365052758aa5390",
+    "title": "Re: [新聞] 記憶體已不缺！宏碁陳俊聖：PC 僅有2類",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789834355.A.091.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-16T07:50:56+08:00",
+    "published_at": "2026-09-20T00:12:35+08:00",
     "industries": []
   },
   {
-    "id": "3884bf806cc62376",
-    "title": "[新聞] 光頡8月獲利年增97%，單月EPS 0.47元，",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789513731.A.C87.html",
+    "id": "a5fe6763a9343bc4",
+    "title": "[新聞] 獨吞蘋果與聯發科大單！韓媒：2奈米賽道",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789833130.A.807.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-16T07:08:51+08:00",
+    "published_at": "2026-09-19T23:52:10+08:00",
+    "industries": [
+      "foundry"
+    ]
+  },
+  {
+    "id": "ffdd6430e4a8a0cb",
+    "title": "[新聞] 台積電新目標價位出現？魏哲家當蔡力行",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789828157.A.E51.html",
+    "source": "PTT·Stock",
+    "published_at": "2026-09-19T22:29:17+08:00",
     "industries": []
   },
   {
-    "id": "0326af7381dce878",
-    "title": "Re: [新聞] 三星記憶體明年Q1漲幅30％起跳！傳蘋果點",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789495110.A.EEB.html",
+    "id": "0e2a066307d54be6",
+    "title": "[新聞] 黃仁勳再拋震撼彈「輝達明年晶片銷量翻",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789825569.A.3D0.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-16T01:58:30+08:00",
+    "published_at": "2026-09-19T21:46:09+08:00",
     "industries": []
   },
   {
-    "id": "a353afc9f09ddf56",
-    "title": "[新聞] 陸8月汽車銷售衰退18.5% 預估9月會更慘",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789487845.A.14D.html",
+    "id": "f70eddec7e4bb3b1",
+    "title": "[新聞] 超越 ChatGPT！Meta 全新 AI Agent「Muse",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789823563.A.CA4.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T23:57:25+08:00",
+    "published_at": "2026-09-19T21:12:43+08:00",
     "industries": []
   },
   {
-    "id": "9ea5de99be726545",
-    "title": "[新聞] 鎖定票息逾7％非投等債 00992B重裝登場",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789485100.A.3CA.html",
+    "id": "f14112d7c3a1b81e",
+    "title": "[新聞] 長鑫存儲傳進軍NAND市場 美光、SK海力士",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789820346.A.650.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T23:11:40+08:00",
+    "published_at": "2026-09-19T20:19:06+08:00",
     "industries": []
   },
   {
-    "id": "4ed04e0fd20a5fc4",
-    "title": "[情報] 2618長榮航&2645長榮航太 發生網路資安事件",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789480207.A.1C3.html",
+    "id": "e5974b441fda0501",
+    "title": "[新聞] 美光財報倒數 輝達、SK海力士釋記憶體市",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789811821.A.FCF.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T21:50:07+08:00",
+    "published_at": "2026-09-19T17:57:01+08:00",
     "industries": []
   },
   {
-    "id": "2c54c795d89b2347",
-    "title": "[情報] 8227 巨有科技 8月自結:0.36 年增:-12%",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789480066.A.FFD.html",
+    "id": "827440ddbe745385",
+    "title": "[新聞] 記憶體已不缺！宏碁陳俊聖：PC 僅有2類",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789810178.A.E9C.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T21:47:46+08:00",
+    "published_at": "2026-09-19T17:29:38+08:00",
     "industries": []
   },
   {
-    "id": "db6bdb61f8a81bac",
-    "title": "[情報] 6618永虹先進 達暫停交易標準8月自結-0.1",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789479886.A.796.html",
+    "id": "c6d07e5c572fa71b",
+    "title": "[新聞] Gemini駭入三家公司，此為Google AI首次突破限制的事件",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789806345.A.4D3.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T21:44:46+08:00",
+    "published_at": "2026-09-19T16:25:45+08:00",
     "industries": []
   },
   {
-    "id": "44180a143de5abff",
-    "title": "[情報] 6618永虹先進 董事/主協辦輔導券商辭任",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789479649.A.653.html",
+    "id": "8f1c6903ba8d3e96",
+    "title": "[新聞] 黃仁勳駁斥AI末日論 「2030年人類滅絕",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789801611.A.6DF.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T21:40:49+08:00",
+    "published_at": "2026-09-19T15:06:51+08:00",
     "industries": []
   },
   {
-    "id": "1de3a62b647f6738",
-    "title": "[情報] 115年09月15日信用交易統計",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789478218.A.696.html",
+    "id": "583f5aa8e0268433",
+    "title": "[情報] 3467 台灣精材 8月自結:0.18 年增:157.14",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789797576.A.4D7.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T21:16:58+08:00",
+    "published_at": "2026-09-19T13:59:36+08:00",
     "industries": []
   },
   {
-    "id": "403cf81d50bc2a86",
-    "title": "[情報] 主動ETF/外資共同買賣超排行 (9/15)",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789474486.A.0E6.html",
+    "id": "5745d9d64a1285f8",
+    "title": "[新聞] 股神長子接棒！71歲霍華德出任波克夏董",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789795560.A.730.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T20:14:46+08:00",
+    "published_at": "2026-09-19T13:26:00+08:00",
     "industries": []
   },
   {
-    "id": "93aaa3f0f329aaa5",
-    "title": "[新聞] 三星記憶體明年Q1漲幅30％起跳！傳蘋果點",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789473309.A.85D.html",
+    "id": "8528dba2223544f8",
+    "title": "Re: [情報] 日本央行宣佈 升息一碼",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789794043.A.076.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T19:55:09+08:00",
+    "published_at": "2026-09-19T13:00:43+08:00",
     "industries": []
   },
   {
-    "id": "17189e217d9e8dc6",
-    "title": "[新聞] 裕隆生產外銷、第四季交付給紐澳車主，Mi",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789472967.A.252.html",
+    "id": "01011be3565ed920",
+    "title": "[新聞] 中油估全年虧損560億元、累虧1,270億元",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789793738.A.798.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T19:49:27+08:00",
+    "published_at": "2026-09-19T12:55:38+08:00",
     "industries": []
   },
   {
-    "id": "72b33f2cd3e53de2",
-    "title": "Re: [新聞] 台灣大收購精誠資訊溢價29.5%！每股184.5",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789472076.A.9B1.html",
+    "id": "8ad7b0a68e845925",
+    "title": "[心得] 半凱利退休規劃",
+    "url": "https://www.ptt.cc/bbs/Stock/M.1789787538.A.93B.html",
     "source": "PTT·Stock",
-    "published_at": "2026-09-15T19:34:36+08:00",
+    "published_at": "2026-09-19T11:12:18+08:00",
     "industries": []
   },
   {
-    "id": "fb42518383288caf",
-    "title": "Re: [新聞] 仙人指路再顯神威！台積電鉅額交易價",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789471614.A.16C.html",
-    "source": "PTT·Stock",
-    "published_at": "2026-09-15T19:26:54+08:00",
-    "industries": []
-  },
-  {
-    "id": "12b88208f9d5bcdb",
-    "title": "[新聞] 國家隊拋定心丸！豪砸287億元護盤了",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789470662.A.816.html",
-    "source": "PTT·Stock",
-    "published_at": "2026-09-15T19:11:02+08:00",
-    "industries": []
-  },
-  {
-    "id": "4c6626237bda45cf",
-    "title": "[情報] 0915 上市櫃股票週轉率排行",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789469708.A.0D8.html",
-    "source": "PTT·Stock",
-    "published_at": "2026-09-15T18:55:08+08:00",
-    "industries": []
-  },
-  {
-    "id": "cb140be58f20532f",
-    "title": "[情報] 2545 皇翔買台達電,賣台達電賠63,594仟元",
-    "url": "https://www.ptt.cc/bbs/Stock/M.1789469652.A.25F.html",
-    "source": "PTT·Stock",
-    "published_at": "2026-09-15T18:54:12+08:00",
-    "industries": []
-  },
-  {
-    "id": "58d77f11d71be56e",
-    "title": "Re: [討論] 有了投資好像薪水沒那麼重要",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789442274.A.867.html",
+    "id": "5d7319216756a141",
+    "title": "Re: [新聞] Google 台灣大裁員？官方指出「有調",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789778856.A.21F.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-15T11:17:54+08:00",
+    "published_at": "2026-09-19T08:47:36+08:00",
     "industries": []
   },
   {
-    "id": "77708410ccd5a345",
-    "title": "[討論] 大陸入境新規風險",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789441781.A.C21.html",
+    "id": "8c75a377dbeb5a72",
+    "title": "[請益] 聯發科美國",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789778129.A.932.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-15T11:09:41+08:00",
+    "published_at": "2026-09-19T08:35:29+08:00",
     "industries": []
   },
   {
-    "id": "df1edb5a8c63671d",
-    "title": "[討論] 種花每年工會都吵加薪？",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789437490.A.2DF.html",
+    "id": "ff3d846bf95c5332",
+    "title": "[新聞] 離職13天跳槽美光、薪水更高！大立光副工",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789727175.A.DA3.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-15T09:58:10+08:00",
+    "published_at": "2026-09-18T18:26:15+08:00",
     "industries": []
   },
   {
-    "id": "2c59ed5511452208",
-    "title": "[新聞] 川普又又又點名台灣晶片該課重稅200%！",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789393986.A.E71.html",
+    "id": "cbd3d6a74a3c6f06",
+    "title": "[問券]填問卷抽switch2＿誠摯邀請主管填寫",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789724201.A.EBA.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-14T21:53:06+08:00",
+    "published_at": "2026-09-18T17:36:41+08:00",
     "industries": []
   },
   {
-    "id": "f4cc7f236f3aa72e",
-    "title": "[新聞] 美光工會批公司「沒有誠信」 本週四將舉",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789383553.A.014.html",
+    "id": "7d4cd8fdc576d05d",
+    "title": "Re: [討論] 為何台灣科技業主管大部分都很有病阿..",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789703030.A.58B.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-14T18:59:13+08:00",
+    "published_at": "2026-09-18T11:43:50+08:00",
     "industries": []
   },
   {
-    "id": "3e69dd961fd6be07",
-    "title": "[討論] 有了投資好像薪水沒那麼重要",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789278546.A.C04.html",
+    "id": "95804826350715fb",
+    "title": "[新聞] 美光台灣鬧罷工 台灣董座火上加油！資深",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789653611.A.230.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-13T13:49:06+08:00",
+    "published_at": "2026-09-17T22:00:11+08:00",
     "industries": []
   },
   {
-    "id": "a217245b2f99f82b",
-    "title": "Re: [討論] 真的有人提前退休嗎？",
-    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789277236.A.50F.html",
+    "id": "1424f883f80b8d80",
+    "title": "[討論] 男同事被女同事搓胸部",
+    "url": "https://www.ptt.cc/bbs/Tech_Job/M.1789643713.A.48D.html",
     "source": "PTT·Tech_Job",
-    "published_at": "2026-09-13T13:27:16+08:00",
+    "published_at": "2026-09-17T19:15:13+08:00",
     "industries": []
   }
 ]
