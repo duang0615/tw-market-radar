@@ -1,10 +1,556 @@
 [
   {
-    "id": "ddfcc0a29e8f8b65",
-    "title": "8358 金居｜代子公司COTECH DEVELOPMENT (PENANG) SDN. BHD.公告取得土地使用權資產",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8358&t=mops",
+    "id": "353c5e59a48646d4",
+    "title": "6949 沛爾生醫*-創｜公告本公司股票面額由「新台幣10元」變更為「新台幣0.5元」， 公告期間：115年08月06日至115年11月05日。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6949&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T07:00:03+08:00",
+    "industries": []
+  },
+  {
+    "id": "790b0b43fdb162cf",
+    "title": "2072 世紀能源｜公告本公司名稱由「世紀離岸風電設備股份有限公司」更名 為「世紀能源設備股份有限公司」，公告期間：115年8月26日至 115年11月25日。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2072&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T07:00:03+08:00",
+    "industries": []
+  },
+  {
+    "id": "19e0561f47727cf3",
+    "title": "3018 隆銘綠能｜公告本公司更正副執行長異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3018&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T08:33:29+08:00",
+    "industries": []
+  },
+  {
+    "id": "7ed55f31dbaf355d",
+    "title": "2317 鴻海｜說明媒體報導",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2317&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T10:03:02+08:00",
+    "industries": [
+      "ai-server",
+      "gpu",
+      "quantum"
+    ]
+  },
+  {
+    "id": "c61a89c663010b89",
+    "title": "1454 台富｜115年度第三季財務報告預計提報董事會決議日期",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1454&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T10:03:16+08:00",
+    "industries": []
+  },
+  {
+    "id": "046a3b2e1c67bf8b",
+    "title": "6689 伊雲谷｜澄清媒體有關本公司之報導",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6689&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T11:29:59+08:00",
+    "industries": []
+  },
+  {
+    "id": "619cf9598804b39c",
+    "title": "2903 遠百｜公告本公司獨立董事逝世解任",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2903&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T13:45:39+08:00",
+    "industries": []
+  },
+  {
+    "id": "98ba088b05d6c0bf",
+    "title": "2328 廣宇｜本公司受邀參加群益金鼎證券所舉辦之法人說明會，說明本公司營運概況。",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2328&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T13:51:40+08:00",
+    "industries": []
+  },
+  {
+    "id": "fdda4b4ff11892ac",
+    "title": "3711 日月光投控｜代子公司USI Asteelflash USA Corp.公告擬取得不動產使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3711&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T13:52:34+08:00",
+    "industries": [
+      "adv-packaging",
+      "atp",
+      "cowos",
+      "gpu",
+      "hbm"
+    ]
+  },
+  {
+    "id": "d707e37de37d3d97",
+    "title": "2301 光寶科｜公告本公司庫藏股註銷完成變更登記事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2301&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:06:02+08:00",
+    "industries": [
+      "power"
+    ]
+  },
+  {
+    "id": "57beb80ff714e701",
+    "title": "6235 華孚｜新聞稿-華孚115年10月自結合併營收為新台幣4.96億元",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6235&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:07:11+08:00",
+    "industries": []
+  },
+  {
+    "id": "d7f95775cb237a83",
+    "title": "2327 國巨*｜本公司受邀參加由Nomura舉辦之投資人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2327&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:11:17+08:00",
+    "industries": []
+  },
+  {
+    "id": "bf1d400343947c9c",
+    "title": "2356 英業達｜(補充115/06/30公告)公告本公司董事會決議通過，擬自地委建廠房",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2356&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:17:03+08:00",
+    "industries": [
+      "ai-server"
+    ]
+  },
+  {
+    "id": "0700d7ba017720a4",
+    "title": "6756 威鋒電子｜公告本公司受邀參加凱基證券舉辦之線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6756&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:30:56+08:00",
+    "industries": []
+  },
+  {
+    "id": "771228bcaf3f1570",
+    "title": "3518 柏騰｜公告本公司及子公司達公開發行公司資金貸與及背書保證 處理準則第二十二條第一項第二款",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3518&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:43:58+08:00",
+    "industries": []
+  },
+  {
+    "id": "74d98b04f723f1ff",
+    "title": "5434 崇越｜115年現金增資認股基準日及相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5434&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:51:40+08:00",
+    "industries": []
+  },
+  {
+    "id": "163f6a073d540026",
+    "title": "2233 宇隆｜代子公司浙江宇鑽精密元件有限公司公告股東會 決議通過盈餘分配案",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2233&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:55:34+08:00",
+    "industries": []
+  },
+  {
+    "id": "9e7b60d5e4e26491",
+    "title": "3533 嘉澤｜本公司受邀參加大和國泰證券舉辦之線上法說會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3533&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T14:56:13+08:00",
+    "industries": []
+  },
+  {
+    "id": "b2d46bd75e6de7d7",
+    "title": "6658 聯策｜公告本公司發行國內第一次無擔保轉換公司債完成訂價",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6658&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:02:37+08:00",
+    "industries": []
+  },
+  {
+    "id": "2ba2299de8dd7eb7",
+    "title": "1538 正峰｜公告本公司法人代表人董事辭任",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1538&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:08:53+08:00",
+    "industries": []
+  },
+  {
+    "id": "0002b537a1d3fea5",
+    "title": "3029 零壹｜公告本公司115年第3季合併財務報告業經董事會決議通過",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3029&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:11:14+08:00",
+    "industries": []
+  },
+  {
+    "id": "6d820e0cdf9c3a96",
+    "title": "4960 誠美材｜公告本公司董事會通過115年第三季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4960&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:24:32+08:00",
+    "industries": []
+  },
+  {
+    "id": "6b2959d8824f7050",
+    "title": "2409 友達｜公告本公司將參加玉山證券舉辦之「法人座談會」",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2409&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:30:17+08:00",
+    "industries": []
+  },
+  {
+    "id": "08e440455a4e1f2c",
+    "title": "3042 晶技｜本公司董事會通過115年第3季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3042&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:32:07+08:00",
+    "industries": []
+  },
+  {
+    "id": "f87261db6cad3741",
+    "title": "2231 為升｜代重要子公司立承系統科技股份有限公司 公告法人董事代表人異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2231&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:32:43+08:00",
+    "industries": [
+      "ev"
+    ]
+  },
+  {
+    "id": "35fea6abdf0a7dc1",
+    "title": "2886 兆豐金｜公告本公司將召開2026年第三季線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2886&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:54:21+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "c678d300a45533f2",
+    "title": "6442 光聖｜公告本公司現金增資發 行新股案，向金管會申請延 長募集期間，業經准予備查",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6442&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:58:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "539b741d91bad4c8",
+    "title": "6719 力智｜公告本公司國內第1次私募無擔保轉換公司債辦理債息 發放停止過戶暨停止轉換等相關事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6719&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T15:58:49+08:00",
+    "industries": []
+  },
+  {
+    "id": "c3f0e3e31bd99b69",
+    "title": "2105 正新｜公告本公司獨立董事辭職",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2105&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:00:24+08:00",
+    "industries": []
+  },
+  {
+    "id": "68be2f62127d61b7",
+    "title": "1535 中宇｜本公司民國115年第3季合併財務報告業經董事會決議通過",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1535&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:03:27+08:00",
+    "industries": []
+  },
+  {
+    "id": "648ca6f93d9a9863",
+    "title": "2402 毅嘉｜代子公司ICHIA RUBBER INDUSTRY (M) SDN BHD補充說明 一離職員工偽造文書及挪用公司資產之情事",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2402&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:06:29+08:00",
+    "industries": []
+  },
+  {
+    "id": "dd6ebc0417f978f9",
+    "title": "6908 宏碁遊戲-創｜公告本公司董事會通過一一五年第三季合併財務報表",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6908&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:17:12+08:00",
+    "industries": []
+  },
+  {
+    "id": "50d038e704400706",
+    "title": "2383 台光電｜本公司受邀參加摩根大通舉辦之線上法人座談會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2383&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:25:38+08:00",
+    "industries": [
+      "ccl"
+    ]
+  },
+  {
+    "id": "39c98339c4f86ab9",
+    "title": "4916 事欣科｜公告本公司國內第六次無擔保轉換公司債之委託代收價款及 存儲專戶行庫",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4916&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:26:12+08:00",
+    "industries": []
+  },
+  {
+    "id": "536ea75301a26f35",
+    "title": "8114 振樺電｜代子公司KIOSK Information Systems, Inc. 公告向關係人取得不動產使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8114&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:30:01+08:00",
+    "industries": []
+  },
+  {
+    "id": "dd8ded1088577453",
+    "title": "1802 台玻｜公告本公司董事會通過115年第三季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1802&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:33:12+08:00",
+    "industries": []
+  },
+  {
+    "id": "d5925187ac3894c3",
+    "title": "2408 南亞科｜公告本公司取得機器設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2408&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:48:05+08:00",
+    "industries": [
+      "dram"
+    ]
+  },
+  {
+    "id": "2739007ec2610bb2",
+    "title": "1589 永冠-KY｜公告本公司上一月份實際及未來三個月預計之現金收支狀況、截 至上一月底之長短期債務餘額及銀行融資額度使用情形",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1589&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:55:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "29fcd06d46ee752a",
+    "title": "5215 科嘉-KY｜代子公司蘇州嘉吉/科德/嘉財/艾普來/百宏/嘉皇/嘉駿 公告一年內累積處分同一有價證券達實收資本額20%",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=5215&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T16:59:24+08:00",
+    "industries": []
+  },
+  {
+    "id": "a05a4b21114ff3b9",
+    "title": "2498 宏達電｜本公司董事會決議通過115年第3季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2498&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:00:18+08:00",
+    "industries": []
+  },
+  {
+    "id": "747782bd6e51ad1b",
+    "title": "3702 大聯大｜代子公司-世平興業(股)公司、詮鼎科技(股)公司公告 現金增資基準日",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3702&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:04:18+08:00",
+    "industries": []
+  },
+  {
+    "id": "def240d38106f13a",
+    "title": "3004 豐達科｜新聞稿--豐達十月自結合併營收為5.45億元",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3004&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:09:30+08:00",
+    "industries": []
+  },
+  {
+    "id": "7806082f18adaa0e",
+    "title": "2882 國泰金｜代子公司國泰綜合證券公告向國泰人壽保險(股)公司取得使用權資產",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2882&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:10:16+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "fc1bcea2d638fdc8",
+    "title": "3704 合勤控｜公告本公司董事會通過115年第3季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3704&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:12:27+08:00",
+    "industries": [
+      "networking"
+    ]
+  },
+  {
+    "id": "59edf4deb6115b23",
+    "title": "2890 永豐金｜永豐金控公告115年第三季法人說明會相關資訊",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2890&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:13:26+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "eb380ab100ef9916",
+    "title": "6885 全福生技｜公告本公司董事逝世",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6885&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:23:02+08:00",
+    "industries": []
+  },
+  {
+    "id": "1c0c54abadd193c6",
+    "title": "1528 恩德｜公告本公司資金貸與子公司逾期之改善計畫及執行情形（依 金管證審字第1150356813號函）",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1528&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:28:51+08:00",
+    "industries": []
+  },
+  {
+    "id": "099ee0e23bc863b9",
+    "title": "1560 中砂｜本公司受邀參加J.P. Morgan.舉辦APAC Technology, Innovation and Growth Conference",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1560&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:31:19+08:00",
+    "industries": []
+  },
+  {
+    "id": "6ffd90b809d59f2e",
+    "title": "8104 錸寶｜代重要子公司瀚泰能源(股)公司公告董事會決議現金增資 發行特別股",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8104&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:38:50+08:00",
+    "industries": []
+  },
+  {
+    "id": "40a6739cff20e957",
+    "title": "2617 台航｜公告本公司發言人變動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2617&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:45:26+08:00",
+    "industries": []
+  },
+  {
+    "id": "e01163664ff945d3",
+    "title": "4906 正文｜公告本公司國內第七次暨第八次無擔保轉換公司債 代收價款行庫及存儲專戶行庫",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4906&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:48:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "0dc2a17ee4042169",
+    "title": "6278 台表科｜公告本公司董事會通過115年第3季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6278&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:52:39+08:00",
+    "industries": []
+  },
+  {
+    "id": "3dd5a5b77abf9ac2",
+    "title": "6655 科定｜公告本公司買回庫藏股期間屆滿執行情形",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6655&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:53:43+08:00",
+    "industries": []
+  },
+  {
+    "id": "44e9840c85eb97d9",
+    "title": "1309 台達化｜公告本公司董事會通過115年第三季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=1309&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T17:56:49+08:00",
+    "industries": []
+  },
+  {
+    "id": "a3b99ff42b099e6a",
+    "title": "2614 東森｜本公司115年現金增資股款催繳公告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2614&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T18:06:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "9fbb548415405253",
+    "title": "6112 邁達特｜公告本公司董事會通過115年度第三季合併財務報告",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6112&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T18:12:35+08:00",
+    "industries": []
+  },
+  {
+    "id": "368b6ed91cdff3a9",
+    "title": "4958 臻鼎-KY｜代子公司禮鼎半導體科技(深圳)股份有限公司公告取得機器設備",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4958&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T18:21:55+08:00",
+    "industries": []
+  },
+  {
+    "id": "afc5f78e1a79f5cc",
+    "title": "3321 同泰｜公告本公司內部稽核主管異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3321&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T18:42:05+08:00",
+    "industries": []
+  },
+  {
+    "id": "caec0132526c6785",
+    "title": "2247 汎德永業｜代重要子公司捷立汽車股份有限公司公告現金股利配發基準日",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2247&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T19:05:00+08:00",
+    "industries": []
+  },
+  {
+    "id": "6b2f3abd5d0a73a1",
+    "title": "8046 南電｜代子公司南亞電路板(昆山)有限公司公告董事會 決議發放股利",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8046&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T19:35:37+08:00",
+    "industries": [
+      "pcb"
+    ]
+  },
+  {
+    "id": "3d0f26b29594e1be",
+    "title": "2371 大同｜公告本公司與華映科技（集團）股份有限公司間業績補償款 訴訟案之協商和解事宜",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2371&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T19:36:01+08:00",
+    "industries": [
+      "heavy-electric"
+    ]
+  },
+  {
+    "id": "2ee1e960820923d2",
+    "title": "2891 中信金｜代子公司中國信託綜合證券(股)公司公告於116年會計年度開始日後變動會計政策。 (補充115/09/21公告)",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2891&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T19:49:56+08:00",
+    "industries": [
+      "finance"
+    ]
+  },
+  {
+    "id": "20bf4f1e4e864331",
+    "title": "6531 愛普*｜本公司召開線上法人說明會",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6531&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T19:51:42+08:00",
+    "industries": []
+  },
+  {
+    "id": "3b28cee6d121cc0d",
+    "title": "8499 鼎炫-KY｜代⼦公司隆揚電⼦(昆⼭)股份有限公司公告取得理財產品",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=8499&t=mops",
+    "source": "證交所·重大訊息",
+    "published_at": "2026-11-02T20:25:11+08:00",
+    "industries": []
+  },
+  {
+    "id": "9cb40eb46396ea92",
+    "title": "3666 光耀｜公告本公司永續發展委員會委員異動",
+    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3666&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-10-31T18:16:50+08:00",
+    "published_at": "2026-11-01T15:40:51+08:00",
     "industries": []
   },
   {
@@ -1098,6 +1644,38 @@
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=6645&t=rev",
     "source": "證交所·月營收",
     "published_at": "2026-10-17T00:00:00+08:00",
+    "industries": []
+  },
+  {
+    "id": "e0e1ca8034fce10f",
+    "title": "公告調整本公司碩禾期貨(NGF)及精材期貨(QLF)保證金適用 比例，請查照。",
+    "url": "https://www.taifex.com.tw/cht/11/newsDetail?newsType=1&idx=17459",
+    "source": "期交所·公告",
+    "published_at": "2026-11-02T16:07:14+08:00",
+    "industries": []
+  },
+  {
+    "id": "3d87f240083e2bd0",
+    "title": "115年10月份法規異動彙整",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/法規異動彙整11510.pdf",
+    "source": "期交所·公告",
+    "published_at": "2026-11-02T15:10:25+08:00",
+    "industries": []
+  },
+  {
+    "id": "c5c3b3efb6acd613",
+    "title": "臺灣期貨交易所於115年11月3日調高碩禾期貨(NGF)保證金為現行所屬級距適用比例之1.5倍，精材期貨(QLF)保證金為現行所屬級距適用比例之2倍。",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/1150302382_附件3-新聞稿_處置股票.pdf",
+    "source": "期交所·新聞稿",
+    "published_at": "2026-11-02T16:11:54+08:00",
+    "industries": []
+  },
+  {
+    "id": "8787241be73324d7",
+    "title": "期交所擴大店頭集中結算會員風險預警監控功能，協助會員動態掌握帳戶風險，完善風控機制",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/店頭集中結算會員風險預警監控功能新聞稿.pdf",
+    "source": "期交所·新聞稿",
+    "published_at": "2026-11-02T14:43:57+08:00",
     "industries": []
   }
 ]
